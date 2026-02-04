@@ -1,0 +1,45 @@
+#!/bin/bash
+function prep_layers(){   # prepare layers for risk models
+    python ../scripts/prep_layers.py
+}
+
+# Use dairy instances to generate all instances and use the output file to 
+# run an example.
+function instances(){   # dairy instances
+    python ../scripts/generate_instances_dairy.py
+}
+
+function collect(){   # collect dairy results
+    python ../scripts/collect_dairy.py
+}
+
+function results_process(){   # post processing of results
+    python ../scripts/process_results_dairy.py
+}
+
+function analyze(){   # analysis of dairy experiments: args: elbow, scores
+    python ../scripts/analysis_dairy.py $1
+}
+
+function status(){   # status of runs
+    echo `ls -1 [0-9]*parquet | wc -l`
+}
+
+function upres(){   # moving files 
+    mv dairy_elbow_analysis.pdf ../results/
+    mv dairy_cluster_total_score.pdf ../results/
+    mv dairy_cluster_state_scores.pdf ../results/
+    mv dairy_cluster_params.pdf ../results/
+    mv dairy_risk_map.pdf ../results/
+    mv dairy_known_counties.pdf ../results/
+    mv dairy_top_states.tex ../results/
+    #mv dairy_tsne_clusters.pdf ../results/
+    #mv dairy_tsne_score.pdf ../results/
+}
+
+if [[ $# == 0 ]]; then
+   echo "Here are the options:"
+   grep "^function" $BASH_SOURCE | sed -e 's/function/  /' -e 's/[(){]//g' -e '/IGNORE/d'
+else
+   eval $1 $2 $3 $4
+fi

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+function upres(){   # moving files 
+    mv colocation_risk_map_*pdf ../results/
+    mv colocation_time_agg_risk_map_*pdf ../results/
+    mv colocation_time_peak_risk_map_*pdf ../results/
+    mv colocation_recall*pdf ../results/
+}
+
+if [[ $# == 0 ]]; then
+   echo "Here are the options:"
+   grep "^function" $BASH_SOURCE | sed -e 's/function/  /' -e 's/[(){]//g' -e '/IGNORE/d'
+else
+   eval $1 $2 $3 $4
+fi
+

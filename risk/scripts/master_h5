@@ -1,0 +1,134 @@
+#!/bin/bash
+# This is all respecting the order in which the analysis was done.
+# 1. H5N1 incidence analysis
+function outbreaks(){   # generate outbreaks files
+    python ../scripts/utils.py outbreak-discovery
+}
+
+function incidence(){   # all incidence plots
+    python ../scripts/analysis.py incidence 
+    python ../scripts/analysis.py duration
+    python ../scripts/analysis.py outbreaks --delta 15 --hop 0
+    python ../scripts/analysis.py outbreaks --delta 15 --hop 1
+    python ../scripts/analysis.py outbreaks --delta 30 --hop 0
+    python ../scripts/analysis.py outbreaks --delta 30 --hop 1
+    python ../scripts/analysis.py ranks
+    python ../scripts/analysis.py adjacency
+}
+
+function cross_species(){ # cross species results
+    python ../scripts/analysis.py cross-species-outbreaks --startyear 2022 --endyear 2024 --hop 0
+    python ../scripts/analysis.py cross-species-outbreaks --startyear 2024 --endyear 2026 --hop 0
+    python ../scripts/analysis.py cross-species-outbreaks --startyear 2022 --endyear 2026 --hop 0
+    python ../scripts/analysis.py cross-species-outbreaks --startyear 2022 --endyear 2024 --hop 1
+    python ../scripts/analysis.py cross-species-outbreaks --startyear 2024 --endyear 2026 --hop 1
+    python ../scripts/analysis.py cross-species-outbreaks --startyear 2022 --endyear 2026 --hop 1
+}
+
+# 2. Risk model starts here
+function prep_layers(){     # prepare layers for risk models
+    python ../scripts/utils.py bird-features
+    python ../scripts/utils.py livestock-features
+}
+
+function baseline_spillover_model(){
+    python ../scripts/risk.py --mode baseline_spillover_model
+}
+
+function spillover_risk(){
+    python ../scripts/risk.py --mode risk_score \
+        --period_start 2022-01 --period_end 2025-12 \
+        --spillover_risk_model
+}
+
+function conditional_risk_model(){ # generation of the conditional risk model 
+    python ../scripts/risk.py --mode conditional_risk_model
+}
+
+function hmm(){ # HMM model visualization
+    python ../scripts/hmm_plot.py
+}
+
+function total_risk(){
+    python ../scripts/risk.py --mode risk_score \
+        --period_start 2022-01 --period_end 2025-12 \
+        --spillover_risk_model --conditional_risk_model
+}
+
+function performance(){
+    python ../scripts/analysis.py performance --cr 0
+    python ../scripts/analysis.py performance --cr 1
+    return
+}
+
+function select_counties(){
+    python ../scripts/analysis.py select-county-risk
+}
+
+function risk_maps(){
+    python ../scripts/analysis.py risk-maps
+}
+
+function state_risk(){
+    python ../scripts/analysis.py state-risk --model spillover
+    python ../scripts/analysis.py state-risk --model comprehensive
+}
+
+function human_risk(){
+    for m in 10 60; do
+        for b in 0.1 0.5 1.0; do
+            for t in poultry dairy; do
+                python ../scripts/human_risk.py \
+                    ../../population/results/worker_farm_mw1_mi60_postprocessed.csv.zip \
+                    --miles $m --beta $b --type $t
+            done
+        done
+    done
+}
+
+# 3. Wastewater analysis
+function ww(){  # wastewater
+    python ../scripts/analysis.py ww-h5
+}
+
+function upres(){   # moving files 
+    mv h5n1_incidence.pdf ../results/
+    mv outbreaks_*pdf ../results/
+    mv event_duration.pdf ../results/
+    mv table_corr_reports_heads_farms.tex ../results/
+    mv county_adjacency.pdf ../results
+    mv ww_*pdf ../results
+    mv eval_risk_scores*pdf ../results/
+    mv values*png ../results/
+    mv values-*pdf ../results/
+    mv risk_maps.png ../results/
+    mv false*pdf ../results/
+    mv farms_spillover_risk.parquet ../results/
+    mv risk_scores_*csv.zip ../results/
+    #mv susceptibility_*csv.zip ../results/
+
+    mv poultry_farms.pdf ../results/
+    mv poultry_heads.pdf ../results/
+    mv poultry_birds_corr.pdf ../results/
+    mv poultry_outbreaks_distance.pdf ../results/
+    mv events_vs_farms_*pdf ../results/
+
+    mv ww_pos_h5_maps.pdf ../results/
+    mv ww_neg_h5_maps.pdf ../results/
+    mv ww_pos_hops.pdf ../results/
+    mv ww_neg_hops.pdf ../results/
+    mv wc_chain_lengths.pdf ../results/
+
+    mv cross_species_*pdf ../results/
+
+    mv *_hmm.pdf ../results/
+    mv risk_timeseries*.pdf ../results/
+    mv human_risk_*pdf ../results/
+}
+
+if [[ $# == 0 ]]; then
+   echo "Here are the options:"
+   grep "^function" $BASH_SOURCE | sed -e 's/function/  /' -e 's/[(){]//g' -e '/IGNORE/d'
+else
+   eval $1 $2 $3 $4
+fi

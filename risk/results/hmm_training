@@ -1,0 +1,62 @@
+##########
+ backyard
+Samples: (279, 12)
+11.482978665554736
+Best Parameters: {'n_components': 2, 'n_iter': 500, 'random_state': 1}
+Best AIC Score on Validation Set: 11.482978665554736
+Num. of validation points: 56
+##########
+ ckn-layers
+Samples: (22, 12)
+15.344185464849605
+15.09314596573583
+Best Parameters: {'n_components': 2, 'n_iter': 500, 'random_state': 3}
+Best AIC Score on Validation Set: 15.09314596573583
+Num. of validation points: 5
+##########
+ mixed
+Samples: (12, 12)
+10.748827480543511
+10.635490829844883
+Best Parameters: {'n_components': 2, 'n_iter': 500, 'random_state': 3}
+Best AIC Score on Validation Set: 10.635490829844883
+Num. of validation points: 3
+##########
+ turkeys
+Samples: (71, 12)
+13.835603630790045
+Best Parameters: {'n_components': 2, 'n_iter': 500, 'random_state': 1}
+Best AIC Score on Validation Set: 13.835603630790045
+Num. of validation points: 15
+##########
+ ducks
+Samples: (6, 12)
+10.96676046207796
+10.89990089070383
+10.678588927900375
+Best Parameters: {'n_components': 2, 'n_iter': 500, 'random_state': 3}
+Best AIC Score on Validation Set: 10.678588927900375
+Num. of validation points: 2
+##########
+ ckn-broilers
+Samples: (14, 12)
+14.876598246441832
+13.942096195496951
+12.254577699919272
+Best Parameters: {'n_components': 2, 'n_iter': 500, 'random_state': 3}
+Best AIC Score on Validation Set: 12.254577699919272
+Num. of validation points: 3
+##########
+ ckn-pullets
+Samples: (2, 12)
+10.56967133744197
+Best Parameters: {'n_components': 2, 'n_iter': 500, 'random_state': 1}
+Best AIC Score on Validation Set: 10.56967133744197
+Num. of validation points: 1
+##########
+ milk
+Samples: (57, 10)
+15.520162352415744
+Best Parameters: {'n_components': 2, 'n_iter': 500, 'random_state': 1}
+Best AIC Score on Validation Set: 15.520162352415744
+Num. of validation points: 12
