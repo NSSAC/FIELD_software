@@ -1,0 +1,28 @@
+{
+    "UTAH": [
+        {
+            "plant_no": "57",
+            "name": "DAIRY FARMERS OF AMERICA, INC.",
+            "city": "BEAVER",
+            "codes": ["M1", "M2", "M8"]
+        },
+        {
+            "plant_no": "61",
+            "name": "GOSSNER FOODS, INC.",
+            "city": "LOGAN",
+            "codes": ["C3", "C4", "C38", "M1", "M2", "M3"]
+        },
+        {
+            "plant_no": "62",
+            "name": "GOSSNER FOODS, INC.",
+            "city": "LOGAN",
+            "codes": ["M1", "M2", "M21"]
+        },
+        {
+            "plant_no": "34",
+            "name": "WEST POINT DAIRY PRODUCTS",
+            "city": "HYRUM",
+            "codes": ["B1", "B2", "B6", "B8", "M1", "M2", "M3", "M7", "M8", "M13", "M14", "M20", "M22", "M23"]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+   OB_146849 - CA 716 - CENTRAL VALLEY CALIFORNIA
+OUTBREAK REFERENCE START DATE
+CA 716 2024/12/30
+FIRST ADMINISTRATIVE DIVISION SECOND ADMINISTRATIVE DIVISION
+END DATE
+-
+THIRD ADMINISTRATIVE DIVISION
+DETAILED CHARACTERISATION
+-
+EPIDEMIOLOGICAL UNIT
+4/580
+California
+Sacramento
+-
+Farm
+LOCATION
+Central Valley California
+Latitude, Longitude
+38.62 , -121.281 (Approximate location)
+OUTBREAKS IN CLUSTER
+-
+Measuring unit
+Animal
+AFFECTED POPULATION DESCRIPTION
+A commercial dairy premises. Herd was identified through positive specimens collected for surveillance testing. In order to protect data confidentiality, the second administrative division represents the approximate location of the state capitol.
+Species Wildlife Susceptible Cases Deaths Killed and type Disposed of
+(domestic)
+Slaughtered/ Killed for Vaccinated commercial use
+- - TOTAL----- -
+bovine NEW - - - -
+METHOD OF DIAGNOSTIC
+Diagnostic test
+CONTROL MEASURES DIFFERENT FROM EVENT LEVEL
+MEASURES NOT IMPLEMENTED ADDITIONAL MEASURES --
+   OB_146848 - CA 715 - CENTRAL VALLEY CALIFORNIA
+OUTBREAK REFERENCE
+CA 715
+FIRST ADMINISTRATIVE DIVISION
+California
+LOCATION
+Central Valley California
+START DATE
+2024/12/30
+SECOND ADMINISTRATIVE DIVISION
+Sacramento
+Latitude, Longitude
+38.62 , -121.28 (Approximate location)
+END DATE
+-
+THIRD ADMINISTRATIVE DIVISION
+-
+OUTBREAKS IN CLUSTER
+-
+DETAILED CHARACTERISATION
+-
+EPIDEMIOLOGICAL UNIT
+Farm
+Measuring unit
+Animal
+AFFECTED POPULATION DESCRIPTION
+A commercial dairy premises. Herd was identified through positive specimens collected for surveillance testing. In order to protect data confidentiality, the second administrative division represents the approximate location of the state capitol.
+Species Wildlife Susceptible Cases Deaths Killed and type Disposed of
+(domestic)
+Slaughtered/ Killed for Vaccinated commercial use
+- - TOTAL----- -
+bovine NEW - - - -
+METHOD OF DIAGNOSTIC
+Diagnostic test
+CONTROL MEASURES DIFFERENT FROM EVENT LEVEL
+MEASURES NOT IMPLEMENTED ADDITIONAL MEASURES --
+   OB_146847 - CA 714 - CENTRAL VALLEY CALIFORNIA
+OUTBREAK REFERENCE START DATE
+CA 714 2024/12/30
+FIRST ADMINISTRATIVE DIVISION SECOND ADMINISTRATIVE DIVISION
+END DATE
+-
+THIRD ADMINISTRATIVE DIVISION
+DETAILED CHARACTERISATION
+-
+EPIDEMIOLOGICAL UNIT
+5/580
+California
+Sacramento
+-
+Farm
+LOCATION
+Central Valley California
+Latitude, Longitude
+38.62 , -121.279 (Approximate location)
+OUTBREAKS IN CLUSTER
+-
+Measuring unit
+Animal
+AFFECTED POPULATION DESCRIPTION
+A commercial dairy premises. Herd was identified through positive specimens collected for surveillance testing. In order to protect data confidentiality, the second administrative division represents the approximate location of the state capitol.
+Species Wildlife Susceptible Cases Deaths Killed and type Disposed of
+(domestic)
+Slaughtered/ Killed for Vaccinated commercial use
+- - TOTAL----- -
+bovine NEW - - - -
+METHOD OF DIAGNOSTIC
+Diagnostic test
+CONTROL MEASURES DIFFERENT FROM EVENT LEVEL
+MEASURES NOT IMPLEMENTED ADDITIONAL MEASURES --
+   OB_146846 - CA 712 - CENTRAL VALLEY CALIFORNIA
+OUTBREAK REFERENCE
+CA 712
+FIRST ADMINISTRATIVE DIVISION
+California
+LOCATION
+Central Valley California
+START DATE
+2024/12/25
+SECOND ADMINISTRATIVE DIVISION
+Sacramento
+Latitude, Longitude
+38.62 , -121.278 (Approximate location)
+END DATE
+-
+THIRD ADMINISTRATIVE DIVISION
+-
+OUTBREAKS IN CLUSTER
+-
+DETAILED CHARACTERISATION
+-
+EPIDEMIOLOGICAL UNIT
+Farm
+Measuring unit
+Animal
+AFFECTED POPULATION DESCRIPTION
+A commercial dairy premises. Herd was identified through positive specimens collected for surveillance testing. In order to protect data confidentiality, the second administrative division represents the approximate location of the state capitol.
+Species Wildlife Susceptible Cases Deaths Killed and type Disposed of
+(domestic)
+Slaughtered/ Killed for Vaccinated commercial use
+- - TOTAL----- -
+bovine NEW - - - -
+METHOD OF DIAGNOSTIC
+Diagnostic test
+CONTROL MEASURES DIFFERENT FROM EVENT LEVEL
+MEASURES NOT IMPLEMENTED ADDITIONAL MEASURES --

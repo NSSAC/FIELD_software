@@ -1,0 +1,358 @@
+{
+    "WISCONSIN": [
+        {
+            "plant_no": "322",
+            "name": "AGROPUR, INC.",
+            "city": "APPLETON",
+            "codes": ["C3", "C17", "C18", "M1", "M2", "M3", "W1", "W18"]
+        },
+        {
+            "plant_no": "642",
+            "name": "AGROPUR, INC.",
+            "city": "LUXEMBURG",
+            "codes": ["C17", "C18", "M1", "M2", "M3"]
+        },
+        {
+            "plant_no": "1410",
+            "name": "AGROPUR, INC.",
+            "city": "WEYAUWEGA",
+            "codes": ["C3", "C7", "C41", "C52", "C53", "M1", "M2", "M3", "W5"]
+        },
+        {
+            "plant_no": "905",
+            "name": "ARLA FOODS PRODUCTION LLC",
+            "city": "KAUKAUNA",
+            "codes": ["C6", "C30", "C31", "C42", "C46", "M1", "M2", "M3"]
+        },
+        {
+            "plant_no": "226",
+            "name": "ASSOCIATED MILK PRODUCERS",
+            "city": "BLAIR",
+            "codes": ["C3", "M1", "W1"]
+        },
+        {
+            "plant_no": "118",
+            "name": "ASSOCIATED MILK PRODUCERS",
+            "city": "BLAIR",
+            "codes": ["M3"]
+        },
+        {
+            "plant_no": "301",
+            "name": "ASSOCIATED MILK PRODUCERS",
+            "city": "JIM FALLS",
+            "codes": ["C3", "C7", "C44", "M1", "M3"]
+        },
+        {
+            "plant_no": "421",
+            "name": "BELGIOIOSO",
+            "city": "DENMARK",
+            "codes": ["C14", "C17", "M1", "M3", "W1"]
+        },
+        {
+            "plant_no": "533",
+            "name": "BELGIOIOSO CHEESE INC",
+            "city": "KAUKAUNA",
+            "codes": ["C20", "M1", "M2", "M3"]
+        },
+        {
+            "plant_no": "323",
+            "name": "BELGIOIOSO CHEESE INC.",
+            "city": "APPLETON",
+            "codes": ["C17", "M1", "M3"]
+        },
+        {
+            "plant_no": "153",
+            "name": "BELGIOIOSO CHEESE INC.",
+            "city": "BROWNSVILLE",
+            "codes": ["M1"]
+        },
+        {
+            "plant_no": "365",
+            "name": "BELGIOIOSO CHEESE INC.",
+            "city": "DENMARK",
+            "codes": ["C16", "C35", "C36"]
+        },
+        {
+            "plant_no": "911",
+            "name": "BELGIOIOSO CHEESE INC.",
+            "city": "DENMARK",
+            "codes": ["C17", "C18", "C19", "M1", "M2", "M3"]
+        },
+        {
+            "plant_no": "1068",
+            "name": "BELGIOIOSO CHEESE INC.",
+            "city": "DENMARK",
+            "codes": ["C16", "C35", "C36", "M1", "M3", "W1"]
+        },
+        {
+            "plant_no": "1639",
+            "name": "BELGIOIOSO CHEESE INC.",
+            "city": "PULASKI",
+            "codes": ["C20", "M1", "M2", "M3"]
+        },
+        {
+            "plant_no": "308",
+            "name": "BELGIOIOSO CHEESE INC.",
+            "city": "PULASKI",
+            "codes": ["C20", "C21", "C34", "C42", "M1", "M2", "M3"]
+        },
+        {
+            "plant_no": "1700",
+            "name": "BURNETT DAIRY COOP",
+            "city": "WILSON",
+            "codes": ["C3", "C7", "C35", "C38", "M1", "M3", "W1", "W15"]
+        },
+        {
+            "plant_no": "298",
+            "name": "BURNETT DAIRY COOP.",
+            "city": "GRANTSBURG",
+            "codes": ["C17", "C18", "M1", "M2", "M3", "W1", "W15"]
+        },
+        {
+            "plant_no": "1710",
+            "name": "CARR VALLEY CHEESE",
+            "city": "LAVALLE",
+            "codes": ["C3", "C7", "C38", "M1"]
+        },
+        {
+            "plant_no": "918",
+            "name": "CASCADE CHEESE COMPANY",
+            "city": "CASCADE",
+            "codes": ["M1", "M2", "M3", "W1"]
+        },
+        {
+            "plant_no": "671",
+            "name": "CEDAR GROVE CHEESE",
+            "city": "PLAIN",
+            "codes": ["C3", "C7", "C13", "C35", "C38", "M1", "M3", "W1"]
+        },
+        {
+            "plant_no": "704",
+            "name": "CEDAR VALLEY CHEESE",
+            "city": "BELGIUM",
+            "codes": ["C17", "C18", "M1", "M2", "M3"]
+        },
+        {
+            "plant_no": "300",
+            "name": "CENTURY FOODS INTERNATIONAL",
+            "city": "SPARTA",
+            "codes": ["D2"]
+        },
+        {
+            "plant_no": "10",
+            "name": "CONAGRA GROCERY PRODUCTS",
+            "city": "MENOMONIE",
+            "codes": ["D1", "D2", "D3", "D6", "M1", "M2", "M7", "M8", "S6", "S21"]
+        },
+        {
+            "plant_no": "1886",
+            "name": "DAIRY STATE CHEESE, LLC",
+            "city": "RUDOLPH",
+            "codes": ["C3", "C6", "C7", "C38", "M1", "M3", "W1", "W15"]
+        },
+        {
+            "plant_no": "1349",
+            "name": "DUPONT CHEESE",
+            "city": "MARION",
+            "codes": ["C3", "C7", "C31", "C38", "C60", "M1"]
+        },
+        {
+            "plant_no": "1955",
+            "name": "EAU GALLE CHEESE",
+            "city": "DURAND",
+            "codes": ["C20", "C21", "C34", "M1", "M2", "M3"]
+        },
+        {
+            "plant_no": "356",
+            "name": "ELLSWORTH COOP. CREAMERY",
+            "city": "ELLSWORTH",
+            "codes": ["C3", "M1", "M3"]
+        },
+        {
+            "plant_no": "1104",
+            "name": "ELLSWORTH MENOMONIE CREAMERY LLC",
+            "city": "MENOMONIE",
+            "codes": ["C3", "C5", "C6", "C7", "M1", "M3"]
+        },
+        {
+            "plant_no": "411",
+            "name": "FAIRWAY DAIRY COMPANY, LLC",
+            "city": "THORP",
+            "codes": ["B2"]
+        },
+        {
+            "plant_no": "2",
+            "name": "FOREMOST FARMS USA",
+            "city": "APPLETON",
+            "codes": ["C6", "C17", "C18", "C52", "M1", "M3", "W15"]
+        },
+        {
+            "plant_no": "45",
+            "name": "FOREMOST FARMS USA",
+            "city": "CLAYTON",
+            "codes": ["C17", "C18", "M1", "M3", "W2", "W16"]
+        },
+        {
+            "plant_no": "820",
+            "name": "FOREMOST FARMS USA",
+            "city": "LANCASTER",
+            "codes": ["C3", "C7", "M1", "M3", "S4", "W2", "W16", "W21"]
+        },
+        {
+            "plant_no": "1950",
+            "name": "FOREMOST FARMS USA",
+            "city": "MARSHFIELD",
+            "codes": ["C3", "C5", "C6", "C7", "M1", "M3", "W2", "W15", "W18", "W20", "W21"]
+        },
+        {
+            "plant_no": "360",
+            "name": "FOREMOST FARMS USA",
+            "city": "REEDSBURG",
+            "codes": ["B1", "B2", "B6", "M1", "M2", "M7", "M8", "M13", "M14"]
+        },
+        {
+            "plant_no": "107",
+            "name": "FOREMOST FARMS USA",
+            "city": "RICHLAND CENTER",
+            "codes": ["C17", "M1", "M3", "W1", "W2", "W3", "W15", "W18", "W20", "W21", "W24"]
+        },
+        {
+            "plant_no": "7",
+            "name": "FOREMOST FARMS USA",
+            "city": "SPARTA",
+            "codes": ["D1", "D6", "M1", "M2", "M7", "M8", "M9", "W17"]
+        },
+        {
+            "plant_no": "542",
+            "name": "FROMAGE SPA",
+            "city": "GREEN BAY",
+            "codes": ["B1"]
+        },
+        {
+            "plant_no": "1097",
+            "name": "GLACIER POINT CHEESE, LLC",
+            "city": "LINDEN",
+            "codes": ["C16", "C36", "M1"]
+        },
+        {
+            "plant_no": "267",
+            "name": "GRANDE CHEESE",
+            "city": "BROWNSVILLE",
+            "codes": ["D1", "M1", "M2", "M3", "M7", "W1", "W2", "W3", "W5", "W6", "W8"]
+        },
+        {
+            "plant_no": "519",
+            "name": "GRANDE CHEESE",
+            "city": "JUDA",
+            "codes": ["M1", "M3"]
+        },
+        {
+            "plant_no": "213",
+            "name": "GRANDE CHEESE",
+            "city": "RUBICON",
+            "codes": ["C3", "C17", "C18", "C20", "C21", "C34", "M1", "M2", "M3"]
+        },
+        {
+            "plant_no": "270",
+            "name": "GRANDE CHEESE",
+            "city": "WYOCENA",
+            "codes": ["M1", "M2", "M3", "W1", "W18"]
+        },
+        {
+            "plant_no": "2185",
+            "name": "GRANDE CUSTOM INGREDIENTS",
+            "city": "FRIENDSHIP",
+            "codes": ["S37", "W1", "W2", "W3", "W5", "W15", "W16", "W17", "W20", "W21"]
+        },
+        {
+            "plant_no": "66",
+            "name": "GRANDE CUSTOM INGREDIENTS",
+            "city": "JUDA",
+            "codes": ["D1", "M8"]
+        },
+        {
+            "plant_no": "60",
+            "name": "GRANTON CHEESE",
+            "city": "GRANTON",
+            "codes": ["M1"]
+        },
+        {
+            "plant_no": "304",
+            "name": "GRASSLAND DAIRY PRODUCTS",
+            "city": "GREENWOOD",
+            "codes": ["B1", "B2", "B3", "B6", "B8", "M1", "M2", "M3", "M7", "M8", "M13", "M14", "M20", "M22", "M23", "M24", "S4"]
+        },
+        {
+            "plant_no": "544",
+            "name": "GRASSLAND DAIRY PRODUCTS, INC.",
+            "city": "GREENWOOD",
+            "codes": ["B1", "B2"]
+        },
+        {
+            "plant_no": "635",
+            "name": "HENNING CHEESE",
+            "city": "KIEL",
+            "codes": ["C3", "C7", "C60", "M1", "M3", "W1"]
+        },
+        {
+            "plant_no": "706",
+            "name": "HILLSIDE DAIRY",
+            "city": "STANLEY",
+            "codes": ["C3", "C7", "C31", "C35", "C38", "M1", "M3"]
+        },
+        {
+            "plant_no": "600",
+            "name": "LACTALIS USA INC.",
+            "city": "MERRILL",
+            "codes": ["M1", "M2"]
+        },
+        {
+            "plant_no": "62",
+            "name": "LACTALIS USA, INC",
+            "city": "BELMONT",
+            "codes": ["M1", "M2"]
+        },
+        {
+            "plant_no": "505",
+            "name": "LAKE COUNTRY DAIRY INC.",
+            "city": "TURTLE LAKE",
+            "codes": ["C19", "M1", "M2"]
+        },
+        {
+            "plant_no": "133",
+            "name": "LAND O' LAKES HILLSBORO",
+            "city": "HILLSBORO",
+            "codes": ["B1", "B2", "B3", "B6", "M2", "M13"]
+        },
+        {
+            "plant_no": "398",
+            "name": "LAND O'LAKES",
+            "city": "KIEL",
+            "codes": ["C3", "M1", "M3", "W1", "W2", "W3"]
+        },
+        {
+            "plant_no": "1522",
+            "name": "LYNN PROTEINS INC",
+            "city": "GRANTON",
+            "codes": ["C3", "C7", "C8", "C13", "C41", "C50", "C60", "M1", "M3", "W1"]
+        },
+        {
+            "plant_no": "1012",
+            "name": "MAPLE ISLAND",
+            "city": "MEDFORD",
+            "codes": ["D2"]
+        },
+        {
+            "plant_no": "343",
+            "name": "MARRON FOODS",
+            "city": "DURAND",
+            "codes": ["D2"]
+        },
+        {
+            "plant_no": "1457",
+            "name": "MEISTER CHEESE",
+            "city": "MUSCODA",
+            "codes": ["C3", "C6"]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "NEBRASKA": [
+        {
+            "plant_no": "212",
+            "name": "WEST POINT DAIRY PRODUCTS",
+            "city": "WEST POINT",
+            "codes": ["B1", "B2", "B6", "B8", "M1", "M2", "M7", "M8", "M13", "M14", "M22", "M23"]
+        }
+    ]
+}

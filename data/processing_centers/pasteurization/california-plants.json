@@ -1,0 +1,148 @@
+{
+    "CALIFORNIA": [
+        {
+            "plant_no": "14700",
+            "name": "CALIFORNIA DAIRIES INC TURLOCK-N",
+            "city": "TURLOCK",
+            "codes": ["M1", "M2", "M22"]
+        },
+        {
+            "plant_no": "31",
+            "name": "CALIFORNIA DAIRIES INC.",
+            "city": "FRESNO",
+            "codes": ["B1", "B2", "B6", "D1", "D6", "M1", "M2", "M8", "M9", "M13", "M14"]
+        },
+        {
+            "plant_no": "142",
+            "name": "CALIFORNIA DAIRIES INC.",
+            "city": "TIPTON",
+            "codes": ["B1", "B2", "B6", "D1", "D6", "M1", "M2", "M8", "M9", "M13", "M14", "M24"]
+        },
+        {
+            "plant_no": "94",
+            "name": "CALIFORNIA DAIRIES INC.",
+            "city": "TURLOCK",
+            "codes": ["B1", "B2", "B6", "B8", "D1", "D6", "M1", "M2", "M7", "M8", "M9", "M13", "M14"]
+        },
+        {
+            "plant_no": "17652",
+            "name": "CALIFORNIA DAIRIES INC.",
+            "city": "VISALIA",
+            "codes": ["B1", "B2", "B6", "D1", "D6", "M1", "M2", "M8", "M9", "M13", "M14"]
+        },
+        {
+            "plant_no": "53",
+            "name": "CRYSTAL CREAMERY",
+            "city": "MODESTO",
+            "codes": ["B1", "B6", "D1", "D6", "M1", "M2", "M8", "M9", "M13", "M14"]
+        },
+        {
+            "plant_no": "1187",
+            "name": "CRYSTAL CREAMERY/HUMBOLDT CREAMERY",
+            "city": "FORTUNA",
+            "codes": ["D1", "D2", "M1", "M2", "M8", "M9"]
+        },
+        {
+            "plant_no": "62",
+            "name": "DAIRY FARMERS OF AMERICA, INC.",
+            "city": "TURLOCK",
+            "codes": ["C17", "C18", "M1", "M2", "M3", "W1", "W15"]
+        },
+        {
+            "plant_no": "50",
+            "name": "HILMAR CHEESE COMPANY, INC.",
+            "city": "HILMAR",
+            "codes": ["C3", "C6", "C7", "C17", "M1", "M2", "M3", "M24"]
+        },
+        {
+            "plant_no": "77",
+            "name": "JOSEPH GALLO FARMS",
+            "city": "ATWATER",
+            "codes": ["C3", "C6", "C7", "C31", "C60", "M1", "M2"]
+        },
+        {
+            "plant_no": "06",
+            "name": "LAND O'LAKES WESTERN REGION",
+            "city": "TULARE",
+            "codes": ["B1", "B2", "B6", "D1", "D6", "M1", "M2", "M8", "M9", "M13", "M14"]
+        },
+        {
+            "plant_no": "604",
+            "name": "LAND O'LAKES WESTERN REGION",
+            "city": "TULARE",
+            "codes": ["D1", "D6", "M1", "M2", "M8", "M9"]
+        },
+        {
+            "plant_no": "55",
+            "name": "LEPRINO FOODS COMPANY",
+            "city": "LEMOORE",
+            "codes": ["M1", "M2"]
+        },
+        {
+            "plant_no": "33",
+            "name": "LEPRINO FOODS COMPANY",
+            "city": "LEMOORE",
+            "codes": ["M1", "M2"]
+        },
+        {
+            "plant_no": "69",
+            "name": "LEPRINO FOODS COMPANY",
+            "city": "TRACY",
+            "codes": ["M1", "M2"]
+        },
+        {
+            "plant_no": "36",
+            "name": "NESTLE FOODS",
+            "city": "MODESTO",
+            "codes": ["M1", "M2", "M11"]
+        },
+        {
+            "plant_no": "103",
+            "name": "REX CREAMERY",
+            "city": "COMMERCE",
+            "codes": ["B2"]
+        },
+        {
+            "plant_no": "462",
+            "name": "ROSA BROTHERS MILK COMPANY",
+            "city": "HANFORD",
+            "codes": ["F2", "M1"]
+        },
+        {
+            "plant_no": "91",
+            "name": "SAPUTO CHEESE USA INC.",
+            "city": "NEWMAN",
+            "codes": ["C17", "C18", "M1", "M2", "M3", "M24"]
+        },
+        {
+            "plant_no": "3500",
+            "name": "SAPUTO CHEESE USA INC.",
+            "city": "SOUTHGATE",
+            "codes": ["M1", "M2"]
+        },
+        {
+            "plant_no": "240",
+            "name": "SAPUTO CHEESE USA INC.",
+            "city": "TULARE",
+            "codes": ["M1", "M2"]
+        },
+        {
+            "plant_no": "90",
+            "name": "SAPUTO CHEESE USA INC.",
+            "city": "TULARE",
+            "codes": ["M1", "M2"]
+        },
+        {
+            "plant_no": "20113",
+            "name": "TUSCANY CHEESE LLC",
+            "city": "BUENA PARK",
+            "codes": ["C52"]
+        },
+        {
+            "plant_no": "00490",
+            "name": "VALLEY MILK LLC",
+            "city": "TURLOCK",
+            "codes": ["B3", "D1", "M1", "M2", "M8", "M9"]
+        }
+    ]
+}

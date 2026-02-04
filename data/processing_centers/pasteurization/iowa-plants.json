@@ -1,0 +1,28 @@
+{
+    "IOWA": [
+        {
+            "plant_no": "150",
+            "name": "AGROPUR, INC.",
+            "city": "HULL",
+            "codes": ["C3", "C5", "C6", "C7", "C13", "C17", "C18", "C20", "C21", "C30", "C31", "C34", "C35", "C42", "C45", "C46", "C60", "M1", "M2", "M3", "M24"]
+        },
+        {
+            "plant_no": "296",
+            "name": "ASSOCIATED MILK PRODUCERS",
+            "city": "SANBORN",
+            "codes": ["C3", "C7", "M1", "M3", "W1", "W15", "W20"]
+        },
+        {
+            "plant_no": "89",
+            "name": "PRAIRIE FARMS DAIRY, INC.",
+            "city": "LUANA",
+            "codes": ["C4", "C9", "C10", "C29", "C31", "C41", "C46", "M1", "M2", "M3", "W1"]
+        },
+        {
+            "plant_no": "034",
+            "name": "WAPSIE VALLEY CREAMERY",
+            "city": "INDEPENDENCE",
+            "codes": ["C3", "C6", "C7", "C17", "C35", "M1", "M3", "M24", "W1", "W2", "W3", "W5", "W6", "W7", "W8"]
+        }
+    ]
+}

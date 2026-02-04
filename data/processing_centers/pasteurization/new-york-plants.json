@@ -1,0 +1,70 @@
+{
+    "NEW YORK": [
+        {
+            "plant_no": "8620",
+            "name": "AGRI-MARK INC.",
+            "city": "CHATEAUGAY",
+            "codes": ["C3", "C5", "C6", "C7", "M1", "M3", "W15", "W20", "W21"]
+        },
+        {
+            "plant_no": "8071",
+            "name": "BELGIOIOSO CHEESE",
+            "city": "CAMPBELL",
+            "codes": ["C17", "C17", "C51", "C51", "M1", "M1"]
+        },
+        {
+            "plant_no": "1290",
+            "name": "CAYUGA MILK INGREDIENTS",
+            "city": "AUBURN",
+            "codes": ["D1", "D2", "M1", "M2", "M7", "M8", "M9", "M20", "M22", "M24"]
+        },
+        {
+            "plant_no": "284",
+            "name": "EMPIRE CHEESE",
+            "city": "CUBA",
+            "codes": ["C17", "C18", "C51", "M1", "W1", "W2", "W3"]
+        },
+        {
+            "plant_no": "8222",
+            "name": "GREAT LAKES CHEESE OF NY",
+            "city": "ADAMS",
+            "codes": ["C3", "M1", "M3", "W1", "W2", "W3", "W15", "W16", "W17", "W20", "W21", "W23", "W24"]
+        },
+        {
+            "plant_no": "5950",
+            "name": "GREEK MOUNTAIN DAIRY, LLC",
+            "city": "GOSHEN",
+            "codes": ["M1"]
+        },
+        {
+            "plant_no": "2010",
+            "name": "KRAFT HEINZ FOOD CO",
+            "city": "LOWVILLE",
+            "codes": ["M1"]
+        },
+        {
+            "plant_no": "5056",
+            "name": "O-AT-KA MILK PRODUCTS COOP.",
+            "city": "BATAVIA",
+            "codes": ["B1", "B2", "D1", "D6", "M1", "M2", "M7", "M8", "M9", "M11", "M12", "M13", "M14"]
+        },
+        {
+            "plant_no": "8077",
+            "name": "SORRENTO LACTALIS INC.",
+            "city": "BUFFALO",
+            "codes": ["C14", "C15", "C17", "C18", "M1", "M2", "M3", "S4", "W1", "W2", "W3", "W20"]
+        },
+        {
+            "plant_no": "4200",
+            "name": "VALLEY VIEW CHEESE COMPANY INC",
+            "city": "CONEWANGO VALLEY",
+            "codes": ["M1"]
+        },
+        {
+            "plant_no": "8133",
+            "name": "YANCEY'S FANCY, INC",
+            "city": "CORFU",
+            "codes": ["C3", "C31", "C35", "M1"]
+        }
+    ]
+}

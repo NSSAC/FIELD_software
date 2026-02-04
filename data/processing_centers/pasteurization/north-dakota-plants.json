@@ -1,0 +1,10 @@
+{
+    "NORTH DAKOTA": [
+        {
+            "plant_no": "8",
+            "name": "PRIDE DAIRY",
+            "city": "BOTTINEAU",
+            "codes": ["B1", "B2"]
+        }
+    ]
+}

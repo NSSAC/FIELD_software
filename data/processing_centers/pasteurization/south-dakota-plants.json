@@ -1,0 +1,28 @@
+{
+    "SOUTH DAKOTA": [
+        {
+            "plant_no": "202",
+            "name": "AGROPUR, INC.",
+            "city": "LAKE NORDEN",
+            "codes": ["C3", "C6", "C7", "C17", "C18", "C20", "C21", "C31", "C34", "C45", "M1", "M2", "M3", "M24", "W1", "W3", "W15"]
+        },
+        {
+            "plant_no": "206",
+            "name": "ASSOCIATED MILK PRODUCERS",
+            "city": "FREEMAN",
+            "codes": ["D1", "M1", "M2", "M8"]
+        },
+        {
+            "plant_no": "250",
+            "name": "BEL BRANDS USA",
+            "city": "BROOKINGS",
+            "codes": ["C44", "M1", "M2"]
+        },
+        {
+            "plant_no": "234",
+            "name": "VALLEY QUEEN CHEESE",
+            "city": "MILBANK",
+            "codes": ["C3", "C4", "C5", "C6", "C7", "C17", "C44", "C45", "C60", "M1", "M2", "M3", "W15"]
+        }
+    ]
+}

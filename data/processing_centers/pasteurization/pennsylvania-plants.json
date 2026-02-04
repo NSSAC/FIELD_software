@@ -1,0 +1,58 @@
+{
+    "PENNSYLVANIA": [
+        {
+            "plant_no": "189",
+            "name": "BEAVER MEADOW CREAMERY",
+            "city": "DUBOIS",
+            "codes": ["B1", "M2"]
+        },
+        {
+            "plant_no": "573",
+            "name": "DAIRY FARMERS OF AMERICA, INC.",
+            "city": "MIDDLEBURY CENTER",
+            "codes": ["D1", "M1", "M2", "M7", "M8", "M9", "M20"]
+        },
+        {
+            "plant_no": "569",
+            "name": "DAIRY FARMERS OF AMERICA, INC.",
+            "city": "NEW WILMINGTON",
+            "codes": ["C17", "C18", "M1", "M2", "M3", "W1", "W15"]
+        },
+        {
+            "plant_no": "242",
+            "name": "DAIRY FARMERS OF AMERICA, INC.",
+            "city": "READING",
+            "codes": ["D1", "D3", "D8", "M1", "M2", "M8", "M9"]
+        },
+        {
+            "plant_no": "629",
+            "name": "FAIRVIEW SWISS CHEESE",
+            "city": "FREDONIA",
+            "codes": ["M1", "M2"]
+        },
+        {
+            "plant_no": "2811",
+            "name": "FARMER'S CHEESE CO-OP",
+            "city": "NEW WILMINGTON",
+            "codes": ["M1"]
+        },
+        {
+            "plant_no": "406",
+            "name": "LAND O'LAKES",
+            "city": "CARLISLE",
+            "codes": ["B1", "B2", "D1", "D3", "D6", "M1", "M2", "M7", "M8", "M9", "M13", "M14"]
+        },
+        {
+            "plant_no": "458",
+            "name": "LEPRINO FOODS COMPANY",
+            "city": "SO. WAVERLY",
+            "codes": ["C17", "C18", "M1", "M2", "M3", "W1", "W2", "W3", "W18"]
+        },
+        {
+            "plant_no": "100",
+            "name": "SAVENCIA CHEESE USA",
+            "city": "NEW HOLLAND",
+            "codes": ["M1"]
+        }
+    ]
+}

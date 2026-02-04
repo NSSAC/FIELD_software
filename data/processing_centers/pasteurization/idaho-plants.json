@@ -1,0 +1,76 @@
+{
+    "IDAHO": [
+        {
+            "plant_no": "11",
+            "name": "AGROPUR INC",
+            "city": "JEROME",
+            "codes": ["C3", "C5", "C6", "C7", "C17", "C18", "C20", "C21", "C31", "C34", "C42", "C45", "M1", "M2", "M3", "M24"]
+        },
+        {
+            "plant_no": "24",
+            "name": "BREWSTER WEST LLC",
+            "city": "RUPERT",
+            "codes": ["C4", "C18", "C35", "C45", "C46", "M1", "M2", "M3", "M24", "W1", "W15"]
+        },
+        {
+            "plant_no": "18",
+            "name": "COMMERCIAL CREAMERY COMPANY",
+            "city": "JEROME",
+            "codes": ["D1", "D3"]
+        },
+        {
+            "plant_no": "16",
+            "name": "DARIGOLD INC.",
+            "city": "CALDWELL",
+            "codes": ["B1", "B2", "B6", "M1", "M2"]
+        },
+        {
+            "plant_no": "50",
+            "name": "DARIGOLD INC.",
+            "city": "JEROME",
+            "codes": ["D1", "M1", "M2", "M8", "M9", "M20", "M22", "M24"]
+        },
+        {
+            "plant_no": "33",
+            "name": "GLANBIA FOODS, INC.",
+            "city": "BLACKFOOT",
+            "codes": ["C3", "C7", "C17", "C20", "C22", "C31", "M1", "M2", "M3"]
+        },
+        {
+            "plant_no": "61",
+            "name": "GLANBIA FOODS, INC.",
+            "city": "GOODING",
+            "codes": ["C3", "C4", "C7", "M1", "M3", "M24", "W1", "W2", "W15", "W16", "W17", "W25"]
+        },
+        {
+            "plant_no": "71",
+            "name": "GLANBIA FOODS, INC.",
+            "city": "TWIN FALLS",
+            "codes": ["C3", "C6", "C7", "C17", "C31", "M1", "M2", "M3", "M24", "S17"]
+        },
+        {
+            "plant_no": "40",
+            "name": "GOSSNER FOODS, INC.",
+            "city": "HEYBURN",
+            "codes": ["C3", "C4", "C6", "C7", "C38", "M1", "M2", "M3"]
+        },
+        {
+            "plant_no": "45",
+            "name": "HIGH DESERT MILK",
+            "city": "BURLEY",
+            "codes": ["B1", "B2", "B6", "D1", "D6", "M1", "M2", "M8", "M9", "M13", "M14", "M20", "M22", "M24"]
+        },
+        {
+            "plant_no": "48",
+            "name": "MAGIC VALLEY QUALITY MILK, LLC",
+            "city": "JEROME",
+            "codes": ["M1", "M2", "M7", "M20", "M22", "M24", "S4"]
+        },
+        {
+            "plant_no": "3",
+            "name": "SORRENTO LACTALIS INC.",
+            "city": "NAMPA",
+            "codes": ["C17", "C18", "D18", "M1", "M2", "M3", "W1", "W3", "W15", "W17", "W20", "W24", "W25"]
+        }
+    ]
+}

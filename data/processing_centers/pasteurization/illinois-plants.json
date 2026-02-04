@@ -1,0 +1,28 @@
+{
+    "ILLINOIS": [
+        {
+            "plant_no": "565",
+            "name": "BREWSTER CHEESE FKA STOCKTON",
+            "city": "STOCKTON",
+            "codes": ["C4", "C29", "M1", "M3", "W15"]
+        },
+        {
+            "plant_no": "555",
+            "name": "KOLB-LENA CHEESE, INC.",
+            "city": "LENA",
+            "codes": ["C39", "C40", "C41", "M1"]
+        },
+        {
+            "plant_no": "209",
+            "name": "NUESTRO QUESO, LLC",
+            "city": "KENT",
+            "codes": ["C26", "C35", "C51", "M1"]
+        },
+        {
+            "plant_no": "687",
+            "name": "V&V SUPREMO FOODS INC.",
+            "city": "CHICAGO",
+            "codes": ["C22", "C35", "C44", "M1"]
+        }
+    ]
+}

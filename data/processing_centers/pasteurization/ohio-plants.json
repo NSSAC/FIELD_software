@@ -1,0 +1,58 @@
+{
+    "OHIO": [
+        {
+            "plant_no": "430",
+            "name": "ALPINE DAIRY LLC",
+            "city": "WINESBURG",
+            "codes": ["C4", "C20", "C29", "C31", "M1", "M3"]
+        },
+        {
+            "plant_no": "101",
+            "name": "BREWSTER CHEESE",
+            "city": "BREWSTER",
+            "codes": ["C4", "C29", "M1", "M2", "M3", "M24"]
+        },
+        {
+            "plant_no": "413",
+            "name": "GUGGISBURG CHEESE",
+            "city": "SUGARCREEK",
+            "codes": ["C4", "M1", "M3"]
+        },
+        {
+            "plant_no": "403",
+            "name": "HOLMES CHEESE",
+            "city": "MILLERSBURG",
+            "codes": ["C4", "M1", "M3"]
+        },
+        {
+            "plant_no": "35",
+            "name": "LAND O'LAKES",
+            "city": "KENT",
+            "codes": ["B8", "M2", "M13"]
+        },
+        {
+            "plant_no": "110",
+            "name": "MICELI DAIRY PRODUCTS",
+            "city": "CLEVELAND",
+            "codes": ["C17", "C18", "C51", "C52", "C53", "M1", "W1"]
+        },
+        {
+            "plant_no": "73",
+            "name": "MIDDLEFIELD ORIGINAL CHEESE",
+            "city": "MIDDLEFIELD",
+            "codes": ["C3", "M1", "W1"]
+        },
+        {
+            "plant_no": "152",
+            "name": "MINERVA DAIRY INC.",
+            "city": "MINERVA",
+            "codes": ["C3", "C7", "C17", "C18", "C20", "C21", "C22", "C31", "C34", "M1"]
+        },
+        {
+            "plant_no": "410",
+            "name": "ROTHENBUHLER CHEESE MAKERS INC.",
+            "city": "MIDDLEFIELD",
+            "codes": ["C4", "C29", "D1", "M1", "M3", "M7", "M8", "M9", "W1", "W2", "W3"]
+        }
+    ]
+}

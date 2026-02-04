@@ -1,0 +1,22 @@
+{
+    "KENTUCKY": [
+        {
+            "plant_no": "214",
+            "name": "BEL/KAUKAUNA USA, INC",
+            "city": "LITCHFIELD",
+            "codes": ["M1", "M2"]
+        },
+        {
+            "plant_no": "208",
+            "name": "BLUEGRASS DAIRY",
+            "city": "GLASGOW",
+            "codes": ["C3", "C7", "C20", "C21", "C31", "M1", "M2", "M7", "M8", "M9"]
+        },
+        {
+            "plant_no": "240",
+            "name": "DIPPIN DOTS LLC.",
+            "city": "PADUCAH",
+            "codes": ["F1", "F3", "F10", "M2", "M7"]
+        }
+    ]
+}

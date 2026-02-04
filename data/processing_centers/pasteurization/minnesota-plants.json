@@ -1,0 +1,94 @@
+{
+    "MINNESOTA": [
+        {
+            "plant_no": "242",
+            "name": "AGROPUR INC.",
+            "city": "LE SUEUR",
+            "codes": ["C3", "C7", "C17", "C20", "C21", "C34", "C45", "C46", "M1", "M2", "M3"]
+        },
+        {
+            "plant_no": "31",
+            "name": "ASSOCIATED MILK PRODUCERS",
+            "city": "NEW ULM",
+            "codes": ["B1", "B2", "B6", "B8", "M1", "M2", "M13", "M14"]
+        },
+        {
+            "plant_no": "506",
+            "name": "ASSOCIATED MILK PRODUCERS",
+            "city": "PAYNESVILLE",
+            "codes": ["C3", "C7", "M1", "M2", "M3", "W2", "W15", "W16", "W20", "W21"]
+        },
+        {
+            "plant_no": "777",
+            "name": "BONGARDS' CREAMERIES",
+            "city": "PERHAM",
+            "codes": ["B3", "B5", "C3", "C7", "M1", "M2", "M3", "W1", "W2", "W3", "W4", "W15", "W16", "W17", "W18", "W20", "W21", "W23", "W24", "W25"]
+        },
+        {
+            "plant_no": "192",
+            "name": "CALEDONIA HAULERS",
+            "city": "CALEDONIA",
+            "codes": ["M1"]
+        },
+        {
+            "plant_no": "197",
+            "name": "DAIRICONCEPTS, LP",
+            "city": "ZUMBROTA",
+            "codes": ["C3", "C7", "C20", "C21", "C34", "M1", "M2", "M3", "W2", "W18"]
+        },
+        {
+            "plant_no": "484",
+            "name": "DAIRY FARMERS OF AMERICA, INC.",
+            "city": "WINTHROP",
+            "codes": ["M8"]
+        },
+        {
+            "plant_no": "288",
+            "name": "FIRST DISTRICT",
+            "city": "LITCHFIELD",
+            "codes": ["C3", "C7", "D1", "M1", "M2", "M3", "M8", "W15", "W16", "W17"]
+        },
+        {
+            "plant_no": "972",
+            "name": "HOPE CREAMERY INC.",
+            "city": "HOPE",
+            "codes": ["B1", "B2", "M2", "M13"]
+        },
+        {
+            "plant_no": "633",
+            "name": "JV DAIRY",
+            "city": "MELROSE",
+            "codes": ["M24"]
+        },
+        {
+            "plant_no": "630",
+            "name": "MELROSE DAIRY PROTEINS",
+            "city": "MELROSE",
+            "codes": ["C3", "C7", "C20", "C21", "C34", "M1", "M2", "M3", "W1", "W15", "W16", "W20", "W21"]
+        },
+        {
+            "plant_no": "556",
+            "name": "PLAINVIEW MILK PRODUCT COOP",
+            "city": "PLAINVIEW",
+            "codes": ["B2", "D1", "D6", "D8", "D16", "M1", "M2", "M8", "M13", "M14", "W2", "W3", "W17"]
+        },
+        {
+            "plant_no": "444",
+            "name": "PRAIRIE FARMS DAIRY INC.",
+            "city": "FARIBAULT",
+            "codes": ["C16", "C36", "M1"]
+        },
+        {
+            "plant_no": "127",
+            "name": "PRESTON PROTEINS PRODUCTS, LLC",
+            "city": "PRESTON",
+            "codes": ["D1", "D6", "M1", "M2", "M7", "M8", "M13", "M14", "W2", "W3", "W17"]
+        },
+        {
+            "plant_no": "421",
+            "name": "ST. PAUL BEVERAGE SOLUTIONS",
+            "city": "MAPLEWOOD",
+            "codes": ["M1", "M2"]
+        }
+    ]
+}

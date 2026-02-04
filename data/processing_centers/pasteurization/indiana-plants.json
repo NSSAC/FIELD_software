@@ -1,0 +1,16 @@
+{
+    "INDIANA": [
+        {
+            "plant_no": "61",
+            "name": "DAIRY FARMERS OF AMERICA, INC.",
+            "city": "GOSHEN",
+            "codes": ["M1", "M2", "M8", "M9", "M22"]
+        },
+        {
+            "plant_no": "1532",
+            "name": "HERITAGE RIDGE CREAMERY",
+            "city": "MIDDLEBURY",
+            "codes": ["C3", "C7", "C13", "C35", "M1"]
+        }
+    ]
+}

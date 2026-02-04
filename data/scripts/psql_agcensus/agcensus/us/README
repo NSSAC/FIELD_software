@@ -1,0 +1,20 @@
+codes for processing dataset from https://www.nass.usda.gov/datasets/qs.census2022.txt.gz
+
+1. download data and load it to a central table, currently hard coded as "nssac_agaid.agcensus_2022"
+usage: sh load.sh
+
+2. create a table, currently hard coded as "nssac_agaid.agcensus_2022_processed" for livestock farm count
+usage: psql -d geodb -f process_livestock.sql
+
+3. create a table, currently hard coded as "nssac_agaid.agcensus_2022_producers_only_county_total" for producers at county level with key demographic infomation, e.g., gender, age group and race, etc.
+usage: psql -d geodb -f process_producers.sql
+
+4. create 3 tables for labor related data, table names are hard coded and set in labor.sh.
+
+'nssac_agaid.agcensus_2022_labor_w_category_county_level' is for county level farm count and total labor count for each employee size category, e.g., 1 to 4, 5-9, 10 and above.
+
+'nssac_agaid.agcensus_2022_labor_only_county_total' is for county level labor count.
+
+'nssac_agaid.agcensus_2022_labor_only_state_total' is for state level labor count.
+
+usage: ./labor.sh

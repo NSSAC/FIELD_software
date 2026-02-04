@@ -1,0 +1,10 @@
+{
+    "NORTH CAROLINA": [
+        {
+            "plant_no": "11",
+            "name": "TRANSYLVANIA VOCATIONAL SRV",
+            "city": "BREVARD",
+            "codes": ["D1", "D2", "S24"]
+        }
+    ]
+}

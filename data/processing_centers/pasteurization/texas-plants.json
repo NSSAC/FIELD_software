@@ -1,0 +1,40 @@
+{
+    "TEXAS": [
+        {
+            "plant_no": "2016",
+            "name": "CONTINENTAL DAIRY FACILITIES SW LLC",
+            "city": "LITTLEFIELD",
+            "codes": ["B1", "B2", "B6", "D1", "D6", "M1", "M2", "M7", "M8", "M13", "M14", "M22", "M23"]
+        },
+        {
+            "plant_no": "943",
+            "name": "DAIRY FARMERS OF AMERICA",
+            "city": "WINNSBORO",
+            "codes": ["B1", "B2", "B3", "B8", "D1", "D6", "M1", "M2", "M13"]
+        },
+        {
+            "plant_no": "1010",
+            "name": "EAGLE FAMILY FOODS",
+            "city": "EL PASO",
+            "codes": ["M1", "M2"]
+        },
+        {
+            "plant_no": "0206",
+            "name": "HILMAR CHEESE COMPANY, INC.",
+            "city": "DALHART",
+            "codes": ["C3", "C7", "C17", "C18", "C20", "C31", "C35", "M1", "M2", "M3", "M24"]
+        },
+        {
+            "plant_no": "0222",
+            "name": "LONE STAR DAIRY PRODUCTS",
+            "city": "CANYON",
+            "codes": ["B1", "D1", "D6", "M1", "M2", "M8", "M9", "M13", "M14"]
+        },
+        {
+            "plant_no": "0230",
+            "name": "PANHANDLE PRODUCTS",
+            "city": "DUMAS",
+            "codes": ["C3", "C6", "C7", "C31", "C45", "C48", "M1", "M2", "M7", "M8", "M9", "W2", "W17"]
+        }
+    ]
+}

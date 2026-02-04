@@ -1,0 +1,34 @@
+{
+    "NEW MEXICO": [
+        {
+            "plant_no": "303",
+            "name": "LEPRINO FOODS COMPANY",
+            "city": "ROSWELL",
+            "codes": ["C17", "C18", "C52", "M1", "M2", "M3", "W15", "W17"]
+        },
+        {
+            "plant_no": "2001",
+            "name": "PORTALES DAIRY PRODUCTS, LLC",
+            "city": "PORTALES",
+            "codes": ["D1", "M1", "M2", "M8", "M9", "M24"]
+        },
+        {
+            "plant_no": "0703",
+            "name": "SAPUTO CHEESE USA INC.",
+            "city": "LAS CRUCES",
+            "codes": ["C17", "C18", "M1", "M2", "M3", "W1", "W2", "W3"]
+        },
+        {
+            "plant_no": "701",
+            "name": "SAPUTO CHEESE USA, INC",
+            "city": "LAS CRUCES",
+            "codes": ["C17", "C18", "M1", "M2", "M3", "W1", "W2"]
+        },
+        {
+            "plant_no": "520",
+            "name": "SOUTHWEST CHEESE COMPANY",
+            "city": "CLOVIS",
+            "codes": ["C3", "C6", "C7", "C31", "C34", "M1", "M2", "M3", "M24", "W1", "W15", "W16", "W17", "W23", "W25"]
+        }
+    ]
+}

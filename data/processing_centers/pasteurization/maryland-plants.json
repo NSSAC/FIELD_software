@@ -1,0 +1,10 @@
+{
+    "MARYLAND": [
+        {
+            "plant_no": "19",
+            "name": "MARYLAND-VIRGINIA MILK",
+            "city": "LAUREL",
+            "codes": ["B1", "D1", "M1", "M2", "M7", "M8", "M9", "M13", "M14", "M22", "M23"]
+        }
+    ]
+}

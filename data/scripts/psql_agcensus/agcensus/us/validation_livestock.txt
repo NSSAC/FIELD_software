@@ -1,0 +1,44 @@
+commodity included (7 categories in total):
+
+ CATTLE
+ GOATS
+ GUINEAS
+ HOGS
+ POULTRY, OTHER
+ POULTRY TOTALS
+ SHEEP
+
+1. check County level data for Washington State:
+
+select sum(num_farm), commodity
+from nssac_agaid.agcensus_2022_processed
+where state_fips = '53'
+group by commodity
+order by commodity;
+
+ sum  |   commodity
+
+------+----------------
+ 9219 | CATTLE
+ 2133 | GOATS
+  148 | GUINEAS
+  949 | HOGS
+ 1999 | POULTRY, OTHER
+ 6090 | POULTRY TOTALS
+ 1722 | SHEEP
+
+ALL 7 commodities are matched, for example:
+
+cattle: https://www.nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_2_County_Level/Washington/st53_2_011_011.pdf
+
+goats https://www.nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_2_County_Level/Washington/st53_2_014_014.pdf
+
+hogs https://www.nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_2_County_Level/Washington/st53_2_012_012.pdf
+
+poultry https://www.nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_2_County_Level/Washington/st53_2_019_019.pdf
+
+sheep https://www.nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_2_County_Level/Washington/st53_2_013_013.pdf
+
+2. I also randomly checked a few commodities for CA/TX/VA. 
+We can get the official number at County level for different state starting from this landing page:
+https://www.nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_2_County_Level/

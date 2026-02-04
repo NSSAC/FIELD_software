@@ -1,0 +1,16 @@
+{
+    "ARIZONA": [
+        {
+            "plant_no": "145",
+            "name": "ARIZONA CHEESE COMPANY",
+            "city": "TEMPE",
+            "codes": ["C3", "C7", "C16", "C36", "M1", "M3", "W1"]
+        },
+        {
+            "plant_no": "15",
+            "name": "UNITED DAIRYMEN OF ARIZONA",
+            "city": "TEMPE",
+            "codes": ["B1", "B6", "D1", "D6", "M1", "M2", "M7", "M8", "M9", "M13", "M14", "M24", "S17"]
+        }
+    ]
+}

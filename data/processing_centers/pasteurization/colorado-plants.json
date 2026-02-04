@@ -1,0 +1,22 @@
+{
+    "COLORADO": [
+        {
+            "plant_no": "32",
+            "name": "DAIRY FARMERS OF AMERICA, INC.",
+            "city": "FT. MORGAN",
+            "codes": ["D1", "M1", "M2", "M8", "M9", "M22"]
+        },
+        {
+            "plant_no": "30",
+            "name": "LEPRINO FOODS COMPANY",
+            "city": "FT. MORGAN",
+            "codes": ["C17", "C51", "M1", "M2", "M3", "W1", "W15", "W17"]
+        },
+        {
+            "plant_no": "1",
+            "name": "LEPRINO FOODS COMPANY",
+            "city": "GREELEY",
+            "codes": ["C17", "C18", "D1", "M1", "M2", "M3", "M8", "M9", "M22", "W1", "W5", "W15", "W17", "W21", "W23", "W25"]
+        }
+    ]
+}

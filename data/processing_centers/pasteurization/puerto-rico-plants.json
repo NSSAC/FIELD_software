@@ -1,0 +1,16 @@
+{
+    "PUERTO RICO": [
+        {
+            "plant_no": "10",
+            "name": "INDULAC",
+            "city": "SAN JUAN",
+            "codes": ["B1", "C26", "M1", "M21"]
+        },
+        {
+            "plant_no": "21",
+            "name": "SUIZA DAIRY CORPORATION",
+            "city": "SAN JUAN",
+            "codes": ["B3", "M1"]
+        }
+    ]
+}

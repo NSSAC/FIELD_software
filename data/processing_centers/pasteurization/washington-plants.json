@@ -1,0 +1,28 @@
+{
+    "WASHINGTON": [
+        {
+            "plant_no": "11",
+            "name": "DARIGOLD INC.",
+            "city": "CHEHALIS",
+            "codes": ["D1", "D6", "D8", "M1", "M2", "M8", "M14", "W3"]
+        },
+        {
+            "plant_no": "48",
+            "name": "DARIGOLD INC.",
+            "city": "ISSAQUAH",
+            "codes": ["B1", "B2", "B6", "M1", "M2", "M13"]
+        },
+        {
+            "plant_no": "3",
+            "name": "DARIGOLD INC.",
+            "city": "LYNDEN",
+            "codes": ["D1", "D6", "M1", "M2", "M8"]
+        },
+        {
+            "plant_no": "9",
+            "name": "DARIGOLD INC.",
+            "city": "SUNNYSIDE",
+            "codes": ["C3", "C7", "C17", "C31", "D1", "M1", "M2", "M3", "M7", "M8", "M24", "S4", "W1", "W2", "W3", "W17"]
+        }
+    ]
+}

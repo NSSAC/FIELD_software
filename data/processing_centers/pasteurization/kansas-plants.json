@@ -1,0 +1,22 @@
+{
+    "KANSAS": [
+        {
+            "plant_no": "416",
+            "name": "KANSAS DAIRY INGREDIENTS",
+            "city": "HUGOTON",
+            "codes": ["M1", "M2", "M24"]
+        },
+        {
+            "plant_no": "420",
+            "name": "KDI CHEESE",
+            "city": "HUGOTON",
+            "codes": ["C3", "C20"]
+        },
+        {
+            "plant_no": "2143",
+            "name": "MEADOWLARK DAIRY NUTRITION, LLC",
+            "city": "GARDEN CITY",
+            "codes": ["D1", "D2", "M1", "M2"]
+        }
+    ]
+}

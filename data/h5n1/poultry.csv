@@ -1,0 +1,1976 @@
+start_date,state,county,production,heads,end_date,commercial,type,quarter,year,month,state_code,county_code,size_category
+2026-01-02,arkansas,faulkner,,-1.0,-1,False,backyard,1,2026,1,5,5045,
+2026-01-02,arkansas,prairie,,-1.0,-1,False,backyard,1,2026,1,5,5117,
+2026-01-02,california,butte,,-1.0,-1,True,mixed,1,2026,1,6,6007,
+2026-01-02,massachusetts,dukes,,-1.0,-1,False,backyard,1,2026,1,25,25007,
+2026-01-02,nebraska,scotts bluff,,-1.0,-1,False,backyard,1,2026,1,31,31157,
+2026-01-02,new york,queens,,-1.0,-1,False,mixed,1,2026,1,36,36081,
+2026-01-02,north carolina,sampson,,-1.0,-1,True,turkeys,1,2026,1,37,37163,
+2025-12-31,nebraska,butler,,-1.0,-1,True,ckn-layers,4,2025,12,31,31023,
+2025-12-31,ohio,morrow,,-1.0,-1,False,backyard,4,2025,12,39,39117,
+2025-12-31,virginia,isle of wight,,-1.0,-1,False,backyard,4,2025,12,51,51093,
+2025-12-29,arkansas,drew,,-1.0,-1,True,ckn-broilers,4,2025,12,5,5043,
+2025-12-29,kansas,jewell,,-1.0,-1,True,mixed,4,2025,12,20,20089,
+2025-12-29,kansas,wabaunsee,,-1.0,-1,False,backyard,4,2025,12,20,20197,
+2025-12-29,maryland,queen anne's,,-1.0,-1,True,ckn-broilers,4,2025,12,24,24035,
+2025-12-29,nebraska,washington,,-1.0,-1,False,backyard,4,2025,12,31,31177,
+2025-12-29,new york,kings,,-1.0,-1,False,mixed,4,2025,12,36,36047,
+2025-12-29,pennsylvania,lancaster,,-1.0,-1,True,ducks,4,2025,12,42,42071,
+2025-12-23,arkansas,cleveland,,-1.0,-1,True,ckn-pullets,4,2025,12,5,5025,
+2025-12-23,arkansas,cross,,-1.0,-1,False,backyard,4,2025,12,5,5037,
+2025-12-23,florida,volusia,,-1.0,-1,False,backyard,4,2025,12,12,12127,
+2025-12-23,illinois,knox,,-1.0,-1,False,backyard,4,2025,12,17,17095,
+2025-12-23,indiana,lagrange,,-1.0,-1,False,backyard,4,2025,12,18,18087,
+2025-12-23,indiana,lagrange,,-1.0,-1,False,backyard,4,2025,12,18,18087,
+2025-12-23,kansas,jackson,,-1.0,-1,False,backyard,4,2025,12,20,20085,
+2025-12-23,kansas,jewell,,-1.0,-1,False,backyard,4,2025,12,20,20089,
+2025-12-23,kansas,sedgwick,,-1.0,-1,False,backyard,4,2025,12,20,20173,
+2025-12-23,kentucky,lawrence,,-1.0,-1,False,backyard,4,2025,12,21,21127,
+2025-12-23,new york,kings,,-1.0,-1,False,mixed,4,2025,12,36,36047,
+2025-12-23,tennessee,obion,,-1.0,-1,False,backyard,4,2025,12,47,47131,
+2025-12-19,arkansas,white,,-1.0,-1,False,backyard,4,2025,12,5,5145,
+2025-12-18,california,placer,,-1.0,-1,False,backyard,4,2025,12,6,6061,
+2025-12-18,illinois,jefferson,,-1.0,-1,False,backyard,4,2025,12,17,17081,
+2025-12-18,indiana,lagrange,,25200.0,2025-12-31 00:00:00,False,backyard,4,2025,12,18,18087,l
+2025-12-18,indiana,ohio,,-1.0,-1,False,backyard,4,2025,12,18,18115,
+2025-12-18,nebraska,howard,,-1.0,-1,False,backyard,4,2025,12,31,31093,
+2025-12-18,south dakota,edmunds,,-1.0,-1,True,turkeys,4,2025,12,46,46045,
+2025-12-17,indiana,lagrange,,-1.0,-1,True,ducks,4,2025,12,18,18087,
+2025-12-17,oregon,malheur,,-1.0,-1,False,backyard,4,2025,12,41,41045,
+2025-12-16,washington,pierce,,-1.0,-1,False,backyard,4,2025,12,53,53053,
+2025-12-15,indiana,lagrange,,-1.0,-1,True,ducks,4,2025,12,18,18087,
+2025-12-15,kansas,smith,,250.0,2025-12-30 00:00:00,False,backyard,4,2025,12,20,20183,m
+2025-12-15,minnesota,nicollet,,-1.0,-1,False,backyard,4,2025,12,27,27103,
+2025-12-15,new york,queens,,-1.0,-1,False,mixed,4,2025,12,36,36081,
+2025-12-15,texas,kaufman,,-1.0,-1,False,backyard,4,2025,12,48,48257,
+2025-12-15,texas,shelby,,-1.0,-1,True,ckn-broilers,4,2025,12,48,48419,
+2025-12-12,kentucky,jessamine,,-1.0,-1,False,backyard,4,2025,12,21,21113,
+2025-12-12,north dakota,sioux,,-1.0,-1,False,backyard,4,2025,12,38,38085,
+2025-12-12,oregon,coos,,-1.0,-1,False,backyard,4,2025,12,41,41011,
+2025-12-12,south dakota,marshall,,-1.0,-1,False,backyard,4,2025,12,46,46091,
+2025-12-12,washington,lewis,,30.0,2025-12-27 00:00:00,False,backyard,4,2025,12,53,53041,s
+2025-12-09,indiana,elkhart,,6200.0,2025-12-27 00:00:00,True,ducks,4,2025,12,18,18039,l
+2025-12-09,minnesota,waseca,,-1.0,-1,True,turkeys,4,2025,12,27,27161,
+2025-12-09,north dakota,richland,,-1.0,-1,True,turkeys,4,2025,12,38,38077,
+2025-12-09,washington,island,,-1.0,-1,False,backyard,4,2025,12,53,53029,
+2025-12-08,indiana,elkhart,,5200.0,2025-12-31 00:00:00,True,ducks,4,2025,12,18,18039,l
+2025-12-08,indiana,lagrange,,4500.0,2025-12-27 00:00:00,True,ducks,4,2025,12,18,18087,l
+2025-12-08,indiana,lagrange,,19400.0,2025-12-26 00:00:00,False,backyard,4,2025,12,18,18087,l
+2025-12-08,indiana,noble,,5700.0,2025-12-31 00:00:00,True,ducks,4,2025,12,18,18113,l
+2025-12-08,north dakota,stutsman,,-1.0,-1,False,backyard,4,2025,12,38,38093,
+2025-12-08,south carolina,york,,-1.0,-1,False,backyard,4,2025,12,45,45091,
+2025-12-08,washington,jefferson,,-1.0,-1,False,backyard,4,2025,12,53,53031,
+2025-12-08,west virginia,jackson,,-1.0,-1,False,backyard,4,2025,12,54,54035,
+2025-12-08,wyoming,carbon,,-1.0,-1,False,backyard,4,2025,12,56,56007,
+2025-12-05,florida,broward,,-1.0,-1,False,backyard,4,2025,12,12,12011,
+2025-12-05,indiana,elkhart,,5400.0,2025-12-19 00:00:00,True,ducks,4,2025,12,18,18039,l
+2025-12-05,indiana,elkhart,,11900.0,2025-12-23 00:00:00,True,ducks,4,2025,12,18,18039,l
+2025-12-05,indiana,lagrange,,37700.0,2026-01-01 00:00:00,False,backyard,4,2025,12,18,18087,l
+2025-12-05,indiana,lagrange,,25300.0,2025-12-20 00:00:00,False,backyard,4,2025,12,18,18087,l
+2025-12-05,indiana,lagrange,,2900.0,2025-12-26 00:00:00,True,ducks,4,2025,12,18,18087,l
+2025-12-05,indiana,lagrange,,3300.0,2025-12-24 00:00:00,True,ducks,4,2025,12,18,18087,l
+2025-12-05,indiana,lagrange,,12300.0,2025-12-20 00:00:00,True,ducks,4,2025,12,18,18087,l
+2025-12-05,indiana,lagrange,,20200.0,2025-12-27 00:00:00,False,backyard,4,2025,12,18,18087,l
+2025-12-05,indiana,lagrange,,23100.0,2025-12-26 00:00:00,True,ducks,4,2025,12,18,18087,l
+2025-12-05,indiana,lagrange,,19800.0,2025-12-24 00:00:00,False,backyard,4,2025,12,18,18087,l
+2025-12-05,indiana,noble,,6500.0,2025-12-23 00:00:00,True,ducks,4,2025,12,18,18113,l
+2025-12-05,nevada,clark,,-1.0,-1,False,backyard,4,2025,12,32,32003,
+2025-12-05,south dakota,kingsbury,,38700.0,2025-12-21 00:00:00,True,turkeys,4,2025,12,46,46077,l
+2025-12-05,texas,galveston,,-1.0,-1,False,backyard,4,2025,12,48,48167,
+2025-12-05,vermont,orleans,,290.0,2025-12-19 00:00:00,False,backyard,4,2025,12,50,50019,m
+2025-12-05,washington,clark,,-1.0,-1,False,backyard,4,2025,12,53,53011,
+2025-12-04,illinois,st. clair,,400.0,2025-12-22 00:00:00,False,backyard,4,2025,12,17,17163,m
+2025-12-04,north carolina,wayne,,18900.0,2025-12-28 00:00:00,True,turkeys,4,2025,12,37,37191,l
+2025-12-04,north dakota,barnes,,-1.0,-1,False,backyard,4,2025,12,38,38003,
+2025-12-04,texas,hays,,-1.0,-1,False,backyard,4,2025,12,48,48209,
+2025-12-04,wisconsin,marquette,,-1.0,-1,False,backyard,4,2025,12,55,55077,
+2025-12-03,iowa,hamilton,,17600.0,2025-12-29 00:00:00,True,turkeys,4,2025,12,19,19079,l
+2025-12-01,maine,penobscot,,-1.0,-1,False,backyard,4,2025,12,23,23019,
+2025-11-28,colorado,morgan,,-1.0,-1,False,backyard,4,2025,11,8,8087,
+2025-11-28,indiana,lagrange,,22600.0,2025-12-19 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-28,indiana,lagrange,,7600.0,2025-12-17 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-28,indiana,lagrange,,23700.0,2025-12-13 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-28,indiana,lagrange,,20000.0,2025-12-17 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-28,pennsylvania,wyoming,,-1.0,-1,False,backyard,4,2025,11,42,42131,
+2025-11-26,north carolina,wayne,,9200.0,2025-12-27 00:00:00,True,turkeys,4,2025,11,37,37191,l
+2025-11-26,north carolina,wayne,,8600.0,2025-12-27 00:00:00,True,turkeys,4,2025,11,37,37191,l
+2025-11-24,arkansas,prairie,,-1.0,-1,False,backyard,4,2025,11,5,5117,
+2025-11-24,indiana,lagrange,,22000.0,2025-12-11 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-24,indiana,lagrange,,19000.0,2025-12-24 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-24,north dakota,mercer,,-1.0,-1,False,backyard,4,2025,11,38,38057,
+2025-11-24,south dakota,edmunds,,24000.0,2025-12-18 00:00:00,True,turkeys,4,2025,11,46,46045,l
+2025-11-24,washington,san juan,,-1.0,-1,False,backyard,4,2025,11,53,53055,
+2025-11-21,indiana,elkhart,,6800.0,2025-12-09 00:00:00,True,ducks,4,2025,11,18,18039,l
+2025-11-21,indiana,lagrange,,3800.0,2025-12-10 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-21,indiana,lagrange,,2900.0,2025-12-16 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-21,indiana,lagrange,,23000.0,2025-12-20 00:00:00,True,ckn-broilers,4,2025,11,18,18087,l
+2025-11-21,indiana,lagrange,,10800.0,2025-12-20 00:00:00,True,ckn-broilers,4,2025,11,18,18087,l
+2025-11-21,indiana,lagrange,,6300.0,2025-12-21 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-21,indiana,lagrange,,3700.0,2025-12-17 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-21,indiana,lagrange,,25700.0,2025-12-09 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-21,indiana,lagrange,,22400.0,2025-12-11 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-21,indiana,lagrange,,20400.0,2025-12-11 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-21,indiana,lagrange,,28800.0,2025-12-10 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-21,michigan,ontonagon,,-1.0,-1,False,backyard,4,2025,11,26,26131,
+2025-11-21,montana,fergus,,-1.0,-1,False,backyard,4,2025,11,30,30027,
+2025-11-21,nebraska,keith,,-1.0,-1,False,backyard,4,2025,11,31,31101,
+2025-11-21,north carolina,wayne,,9800.0,2025-12-23 00:00:00,True,turkeys,4,2025,11,37,37191,l
+2025-11-21,washington,jefferson,,-1.0,-1,False,backyard,4,2025,11,53,53031,
+2025-11-21,washington,snohomish,,-1.0,-1,False,backyard,4,2025,11,53,53061,
+2025-11-19,south dakota,edmunds,,35400.0,2025-12-08 00:00:00,True,turkeys,4,2025,11,46,46045,l
+2025-11-18,indiana,elkhart,,5000.0,2025-12-06 00:00:00,True,ducks,4,2025,11,18,18039,l
+2025-11-18,indiana,lagrange,,28300.0,2025-12-20 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-18,indiana,lagrange,,5500.0,2025-12-14 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-18,indiana,lagrange,,8700.0,2025-12-18 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-18,north carolina,wayne,,9600.0,2025-12-19 00:00:00,True,turkeys,4,2025,11,37,37191,l
+2025-11-18,ohio,clermont,,-1.0,-1,False,backyard,4,2025,11,39,39025,
+2025-11-18,washington,grays harbor,,-1.0,-1,False,backyard,4,2025,11,53,53027,
+2025-11-17,indiana,elkhart,,48800.0,2025-12-23 00:00:00,False,backyard,4,2025,11,18,18039,l
+2025-11-17,indiana,lagrange,,14700.0,2025-12-10 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-17,indiana,lagrange,,10500.0,2025-12-11 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-17,indiana,lagrange,,19600.0,2025-12-07 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-17,indiana,lagrange,,19500.0,2025-12-05 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-17,indiana,lagrange,,25600.0,2025-12-03 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-17,oklahoma,grady,,-1.0,-1,False,backyard,4,2025,11,40,40051,
+2025-11-17,oklahoma,mcclain,,-1.0,-1,False,backyard,4,2025,11,40,40087,
+2025-11-17,oregon,washington,,-1.0,-1,False,backyard,4,2025,11,41,41067,
+2025-11-17,washington,whatcom,,-1.0,-1,False,backyard,4,2025,11,53,53073,
+2025-11-13,indiana,elkhart,,7100.0,2025-12-06 00:00:00,True,ducks,4,2025,11,18,18039,l
+2025-11-13,indiana,lagrange,,6900.0,2025-12-04 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-13,indiana,lagrange,,25500.0,2025-12-11 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-13,indiana,lagrange,,18100.0,2025-12-09 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-13,indiana,lagrange,,18500.0,2025-12-07 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-13,new hampshire,rockingham,,-1.0,-1,False,backyard,4,2025,11,33,33015,
+2025-11-12,indiana,lagrange,,5300.0,2025-12-04 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-12,indiana,lagrange,,3700.0,2025-12-09 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-12,indiana,lagrange,,2900.0,2025-12-12 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-12,indiana,lagrange,,2900.0,2025-12-05 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-12,indiana,lagrange,,1400.0,2025-12-10 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-12,indiana,lagrange,,25600.0,2025-11-28 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-12,indiana,lagrange,,19900.0,2025-12-03 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-12,indiana,lagrange,,5300.0,2025-12-02 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-12,indiana,lagrange,,7400.0,2025-12-07 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-12,indiana,lagrange,,13200.0,2025-12-05 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-12,michigan,monroe,,-1.0,-1,False,backyard,4,2025,11,26,26115,
+2025-11-12,michigan,ottawa,,35900.0,2025-12-10 00:00:00,True,turkeys,4,2025,11,26,26139,l
+2025-11-12,michigan,ottawa,,57400.0,2025-12-05 00:00:00,True,turkeys,4,2025,11,26,26139,l
+2025-11-12,michigan,ottawa,,28700.0,2025-12-04 00:00:00,True,turkeys,4,2025,11,26,26139,l
+2025-11-12,michigan,st. clair,,-1.0,-1,False,backyard,4,2025,11,26,26147,
+2025-11-12,minnesota,mcleod,,-1.0,-1,False,backyard,4,2025,11,27,27085,
+2025-11-12,texas,harris,,-1.0,-1,False,backyard,4,2025,11,48,48201,
+2025-11-10,california,el dorado,,-1.0,-1,False,backyard,4,2025,11,6,6017,
+2025-11-10,delaware,kent,,-1.0,-1,False,backyard,4,2025,11,10,10001,
+2025-11-10,michigan,allegan,,35600.0,2025-12-05 00:00:00,True,turkeys,4,2025,11,26,26005,l
+2025-11-10,oregon,deschutes,,-1.0,-1,False,backyard,4,2025,11,41,41017,
+2025-11-07,indiana,lagrange,,8300.0,2025-12-05 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-07,indiana,lagrange,,8400.0,2025-12-04 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-07,indiana,lagrange,,18300.0,2025-12-28 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-07,oregon,linn,,-1.0,-1,False,backyard,4,2025,11,41,41043,
+2025-11-07,virginia,bedford,,-1.0,-1,False,backyard,4,2025,11,51,51019,
+2025-11-06,indiana,elkhart,,20800.0,2025-12-03 00:00:00,True,ducks,4,2025,11,18,18039,l
+2025-11-06,indiana,johnson,,-1.0,-1,False,backyard,4,2025,11,18,18081,
+2025-11-06,indiana,lagrange,,4800.0,2025-12-05 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-06,michigan,ottawa,,112700.0,2025-12-05 00:00:00,True,turkeys,4,2025,11,26,26139,vl
+2025-11-06,washington,snohomish,,9.0,2025-11-19 00:00:00,False,backyard,4,2025,11,53,53061,s
+2025-11-05,california,sonoma,,63400.0,2025-12-11 00:00:00,False,backyard,4,2025,11,6,6097,l
+2025-11-05,illinois,madison,,-1.0,-1,False,backyard,4,2025,11,17,17119,
+2025-11-05,indiana,lagrange,,18300.0,2025-11-22 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-05,indiana,lagrange,,19900.0,2025-12-16 00:00:00,False,backyard,4,2025,11,18,18087,l
+2025-11-05,indiana,lagrange,,8200.0,2025-11-23 00:00:00,True,ducks,4,2025,11,18,18087,l
+2025-11-04,indiana,elkhart,,3100.0,2025-12-03 00:00:00,True,ducks,4,2025,11,18,18039,l
+2025-11-04,michigan,ottawa,,73600.0,2025-12-03 00:00:00,True,turkeys,4,2025,11,26,26139,l
+2025-11-03,indiana,elkhart,,6900.0,2025-12-03 00:00:00,True,ducks,4,2025,11,18,18039,l
+2025-11-03,north dakota,lamoure,,24700.0,2025-11-24 00:00:00,True,turkeys,4,2025,11,38,38045,l
+2025-11-03,south dakota,mcpherson,,63800.0,2025-11-29 00:00:00,True,turkeys,4,2025,11,46,46089,l
+2025-10-31,michigan,ottawa,,61900.0,2025-12-03 00:00:00,True,turkeys,4,2025,10,26,26139,l
+2025-10-29,illinois,vermilion,,-1.0,-1,False,backyard,4,2025,10,17,17183,
+2025-10-29,indiana,lagrange,,19800.0,2025-11-15 00:00:00,False,backyard,4,2025,10,18,18087,l
+2025-10-29,indiana,lagrange,,24000.0,2025-11-16 00:00:00,False,backyard,4,2025,10,18,18087,l
+2025-10-29,minnesota,clay,,-1.0,-1,False,backyard,4,2025,10,27,27027,
+2025-10-28,california,sonoma,,231000.0,2025-12-11 00:00:00,True,ckn-layers,4,2025,10,6,6097,vl
+2025-10-28,south dakota,spink,,56300.0,2025-11-19 00:00:00,True,turkeys,4,2025,10,46,46115,l
+2025-10-27,california,sonoma,,57300.0,2025-12-25 00:00:00,True,ducks,4,2025,10,6,6097,l
+2025-10-24,georgia,gordon,,139000.0,2025-11-14 00:00:00,True,ckn-broilers,4,2025,10,13,13129,vl
+2025-10-24,montana,valley,,-1.0,-1,False,backyard,4,2025,10,30,30105,
+2025-10-24,pennsylvania,lancaster,,45900.0,2025-11-14 00:00:00,False,backyard,4,2025,10,42,42071,l
+2025-10-23,michigan,ottawa,,-1.0,-1,False,backyard,4,2025,10,26,26139,
+2025-10-23,pennsylvania,lancaster,,1000.0,2025-11-12 00:00:00,False,backyard,4,2025,10,42,42071,l
+2025-10-22,minnesota,meeker,,130700.0,2025-11-15 00:00:00,True,turkeys,4,2025,10,27,27093,vl
+2025-10-22,minnesota,otter tail,,36900.0,2025-11-12 00:00:00,True,turkeys,4,2025,10,27,27111,l
+2025-10-22,pennsylvania,lancaster,,1100.0,2025-11-12 00:00:00,False,backyard,4,2025,10,42,42071,l
+2025-10-21,indiana,lagrange,,19600.0,2025-11-09 00:00:00,False,backyard,4,2025,10,18,18087,l
+2025-10-21,minnesota,washington,,-1.0,-1,False,backyard,4,2025,10,27,27163,
+2025-10-21,montana,cascade,,-1.0,-1,False,backyard,4,2025,10,30,30013,
+2025-10-21,montana,yellowstone,,-1.0,-1,False,backyard,4,2025,10,30,30111,
+2025-10-21,south dakota,spink,,35100.0,2025-11-10 00:00:00,True,turkeys,4,2025,10,46,46115,l
+2025-10-21,wyoming,weston,,-1.0,-1,False,backyard,4,2025,10,56,56045,
+2025-10-20,idaho,canyon,,-1.0,-1,False,backyard,4,2025,10,16,16027,
+2025-10-20,idaho,payette,,11600.0,2025-11-17 00:00:00,False,backyard,4,2025,10,16,16075,l
+2025-10-20,minnesota,swift,,34000.0,2025-11-14 00:00:00,True,mixed,4,2025,10,27,27151,l
+2025-10-20,pennsylvania,lancaster,,1200.0,2025-11-06 00:00:00,False,backyard,4,2025,10,42,42071,l
+2025-10-20,pennsylvania,lancaster,,2800.0,2025-11-06 00:00:00,False,backyard,4,2025,10,42,42071,l
+2025-10-16,indiana,elkhart,,6800.0,2025-10-31 00:00:00,True,ducks,4,2025,10,18,18039,l
+2025-10-16,indiana,lagrange,,5800.0,2025-11-06 00:00:00,True,ducks,4,2025,10,18,18087,l
+2025-10-16,indiana,lagrange,,4000.0,2025-11-06 00:00:00,True,ducks,4,2025,10,18,18087,l
+2025-10-16,minnesota,otter tail,,29700.0,2025-11-01 00:00:00,True,turkeys,4,2025,10,27,27111,l
+2025-10-16,ohio,auglaize,,-1.0,-1,False,backyard,4,2025,10,39,39011,
+2025-10-15,north carolina,rutherford,,-1.0,-1,False,backyard,4,2025,10,37,37161,
+2025-10-14,indiana,elkhart,,3500.0,2025-10-31 00:00:00,True,ducks,4,2025,10,18,18039,l
+2025-10-14,indiana,lagrange,,2600.0,2025-10-31 00:00:00,True,ducks,4,2025,10,18,18087,l
+2025-10-14,minnesota,kandiyohi,,30400.0,2025-11-08 00:00:00,True,turkeys,4,2025,10,27,27067,l
+2025-10-14,minnesota,meeker,,92000.0,2025-11-05 00:00:00,True,turkeys,4,2025,10,27,27093,l
+2025-10-14,minnesota,stearns,,61000.0,2025-11-05 00:00:00,True,turkeys,4,2025,10,27,27145,l
+2025-10-14,oregon,malheur,,-1.0,-1,False,backyard,4,2025,10,41,41045,
+2025-10-14,pennsylvania,lancaster,,5900.0,2025-10-29 00:00:00,False,backyard,4,2025,10,42,42071,l
+2025-10-10,idaho,gem,,-1.0,-1,False,backyard,4,2025,10,16,16045,
+2025-10-10,idaho,madison,,-1.0,-1,False,backyard,4,2025,10,16,16065,
+2025-10-10,wisconsin,racine,,-1.0,-1,False,backyard,4,2025,10,55,55101,
+2025-10-09,minnesota,kandiyohi,,40400.0,2025-10-31 00:00:00,True,turkeys,4,2025,10,27,27067,l
+2025-10-09,minnesota,kandiyohi,,37500.0,2025-10-30 00:00:00,True,turkeys,4,2025,10,27,27067,l
+2025-10-09,minnesota,todd,,-1.0,-1,False,backyard,4,2025,10,27,27153,
+2025-10-09,north carolina,union,,-1.0,-1,False,backyard,4,2025,10,37,37179,
+2025-10-09,oregon,deschutes,,-1.0,-1,False,backyard,4,2025,10,41,41017,
+2025-10-09,oregon,wallowa,,-1.0,-1,False,backyard,4,2025,10,41,41063,
+2025-10-09,oregon,wallowa,,-1.0,-1,False,backyard,4,2025,10,41,41063,
+2025-10-09,washington,grant,,1965700.0,2025-11-27 00:00:00,True,ckn-layers,4,2025,10,53,53025,vl
+2025-10-08,minnesota,becker,,31000.0,2025-10-28 00:00:00,True,turkeys,4,2025,10,27,27005,l
+2025-10-08,minnesota,becker,,68200.0,2025-11-06 00:00:00,True,turkeys,4,2025,10,27,27005,l
+2025-10-08,montana,cascade,,-1.0,-1,False,backyard,4,2025,10,30,30013,
+2025-10-08,utah,sanpete,,13000.0,2025-11-12 00:00:00,True,turkeys,4,2025,10,49,49039,l
+2025-10-08,utah,sanpete,,30900.0,2025-11-21 00:00:00,True,turkeys,4,2025,10,49,49039,l
+2025-10-07,arkansas,mississippi,,-1.0,-1,False,backyard,4,2025,10,5,5093,
+2025-10-07,michigan,ottawa,,31300.0,2025-11-08 00:00:00,True,turkeys,4,2025,10,26,26139,l
+2025-10-07,minnesota,kandiyohi,,32500.0,2025-10-31 00:00:00,True,turkeys,4,2025,10,27,27067,l
+2025-10-07,montana,beaverhead,,-1.0,-1,False,backyard,4,2025,10,30,30001,
+2025-10-07,montana,park,,-1.0,-1,False,backyard,4,2025,10,30,30067,
+2025-10-06,idaho,latah,,160.0,2025-10-21 00:00:00,False,backyard,4,2025,10,16,16057,m
+2025-10-06,oregon,wallowa,,-1.0,-1,False,backyard,4,2025,10,41,41063,
+2025-10-02,iowa,calhoun,,42800.0,2025-10-24 00:00:00,True,turkeys,4,2025,10,19,19025,l
+2025-10-02,wisconsin,jefferson,,493300.0,2025-11-05 00:00:00,True,ckn-layers,4,2025,10,55,55055,vl
+2025-10-01,utah,sanpete,,8700.0,2025-10-31 00:00:00,True,turkeys,4,2025,10,49,49039,l
+2025-10-01,virginia,goochland,,-1.0,-1,False,backyard,4,2025,10,51,51075,
+2025-09-30,minnesota,becker,,20000.0,2025-10-17 00:00:00,True,mixed,3,2025,9,27,27005,l
+2025-09-30,minnesota,otter tail,,15100.0,2025-10-21 00:00:00,True,mixed,3,2025,9,27,27111,l
+2025-09-30,montana,broadwater,,-1.0,-1,False,backyard,3,2025,9,30,30007,
+2025-09-30,north carolina,guilford,,-1.0,-1,False,backyard,3,2025,9,37,37081,
+2025-09-29,utah,sanpete,,34800.0,2025-10-29 00:00:00,True,turkeys,3,2025,9,49,49039,l
+2025-09-26,minnesota,le sueur,,33200.0,2025-10-17 00:00:00,True,turkeys,3,2025,9,27,27079,l
+2025-09-26,south dakota,mcpherson,,45700.0,2025-10-16 00:00:00,True,turkeys,3,2025,9,46,46089,l
+2025-09-25,minnesota,blue earth,,12000.0,2025-10-11 00:00:00,True,turkeys,3,2025,9,27,27013,l
+2025-09-25,wisconsin,jefferson,,3078700.0,2025-11-05 00:00:00,True,ckn-layers,3,2025,9,55,55055,vl
+2025-09-24,south dakota,hamlin,,52200.0,2025-10-19 00:00:00,True,turkeys,3,2025,9,46,46057,l
+2025-09-23,minnesota,stearns,,14100.0,2025-10-10 00:00:00,True,turkeys,3,2025,9,27,27145,l
+2025-09-22,minnesota,blue earth,,11400.0,2025-10-09 00:00:00,True,turkeys,3,2025,9,27,27013,l
+2025-09-22,minnesota,redwood,,28200.0,2025-10-09 00:00:00,True,turkeys,3,2025,9,27,27127,l
+2025-09-19,michigan,allegan,,-1.0,-1,False,backyard,3,2025,9,26,26005,
+2025-09-16,minnesota,redwood,,-1.0,-1,True,turkeys,3,2025,9,27,27127,
+2025-09-16,south dakota,beadle,,53000.0,2025-10-07 00:00:00,True,turkeys,3,2025,9,46,46005,l
+2025-09-13,south dakota,mcpherson,,88100.0,2025-09-30 00:00:00,True,turkeys,3,2025,9,46,46089,l
+2025-09-11,maryland,anne arundel,,-1.0,-1,False,backyard,3,2025,9,24,24003,
+2025-09-11,montana,liberty,,5800.0,2025-10-08 00:00:00,False,backyard,3,2025,9,30,30051,l
+2025-09-11,south dakota,jerauld,,44500.0,2025-10-03 00:00:00,True,turkeys,3,2025,9,46,46073,l
+2025-09-11,south dakota,spink,,750.0,2025-10-02 00:00:00,False,backyard,3,2025,9,46,46115,m
+2025-09-10,north dakota,lamoure,,41100.0,2025-09-27 00:00:00,True,turkeys,3,2025,9,38,38045,l
+2025-09-10,south dakota,beadle,,74100.0,2025-09-30 00:00:00,True,turkeys,3,2025,9,46,46005,l
+2025-09-09,north dakota,dickey,,-1.0,-1,False,backyard,3,2025,9,38,38021,
+2025-09-09,south dakota,beadle,,42300.0,2025-09-27 00:00:00,True,turkeys,3,2025,9,46,46005,l
+2025-09-04,north dakota,dickey,,60300.0,2025-09-24 00:00:00,True,turkeys,3,2025,9,38,38021,l
+2025-09-04,south dakota,mcpherson,,26900.0,2025-09-26 00:00:00,True,turkeys,3,2025,9,46,46089,l
+2025-09-03,georgia,henry,,-1.0,-1,False,backyard,3,2025,9,13,13151,
+2025-09-02,south dakota,beadle,,52600.0,2025-09-24 00:00:00,True,turkeys,3,2025,9,46,46005,l
+2025-08-28,south dakota,faulk,,55400.0,2025-09-20 00:00:00,True,turkeys,3,2025,8,46,46049,l
+2025-08-27,new york,st. lawrence,,-1.0,-1,False,backyard,3,2025,8,36,36089,
+2025-08-15,california,los angeles,,-1.0,-1,False,mixed,3,2025,8,6,6037,
+2025-07-02,pennsylvania,lancaster,,29300.0,2025-07-24 00:00:00,True,mixed,3,2025,7,42,42071,l
+2025-06-11,idaho,lincoln,,-1.0,-1,False,backyard,2,2025,6,16,16063,
+2025-06-10,arizona,maricopa,,-1.0,-1,False,backyard,2,2025,6,4,4013,
+2025-06-05,arizona,maricopa,,342100.0,2025-06-27 00:00:00,True,ckn-layers,2,2025,6,4,4013,vl
+2025-05-30,arizona,maricopa,,1354200.0,2025-07-17 00:00:00,True,ckn-layers,2,2025,5,4,4013,vl
+2025-05-27,arizona,maricopa,,1552000.0,2025-07-23 00:00:00,True,ckn-layers,2,2025,5,4,4013,vl
+2025-05-27,new jersey,essex,,-1.0,-1,False,mixed,2,2025,5,34,34013,
+2025-05-19,arizona,maricopa,,2258100.0,2025-06-29 00:00:00,True,ckn-layers,2,2025,5,4,4013,vl
+2025-05-19,pennsylvania,northampton,,-1.0,-1,False,backyard,2,2025,5,42,42095,
+2025-05-13,south dakota,hutchinson,,30900.0,2025-05-30 00:00:00,True,turkeys,2,2025,5,46,46067,l
+2025-05-12,new jersey,essex,,-1.0,-1,False,mixed,2,2025,5,34,34013,
+2025-05-09,maryland,anne arundel,,-1.0,-1,False,backyard,2,2025,5,24,24003,
+2025-05-08,florida,miami-dade,,-1.0,-1,False,mixed,2,2025,5,12,12086,
+2025-05-05,north dakota,kidder,,310.0,2025-05-27 00:00:00,False,backyard,2,2025,5,38,38043,m
+2025-05-02,illinois,douglas,,4400.0,2025-05-27 00:00:00,False,backyard,2,2025,5,17,17041,l
+2025-05-02,indiana,porter,,-1.0,-1,False,backyard,2,2025,5,18,18127,
+2025-04-30,south dakota,aurora,,633900.0,2025-05-28 00:00:00,True,ckn-layers,2,2025,4,46,46003,vl
+2025-04-24,new york,queens,,-1.0,-1,False,mixed,2,2025,4,36,36081,
+2025-04-24,north dakota,stutsman,,50.0,2025-05-19 00:00:00,False,backyard,2,2025,4,38,38093,s
+2025-04-23,minnesota,stearns,,-1.0,-1,False,backyard,2,2025,4,27,27145,
+2025-04-18,new york,queens,,-1.0,-1,False,mixed,2,2025,4,36,36081,
+2025-04-14,new york,queens,,-1.0,-1,False,mixed,2,2025,4,36,36081,
+2025-04-14,ohio,darke,,293300.0,2025-05-03 00:00:00,True,ckn-layers,2,2025,4,39,39037,vl
+2025-04-11,iowa,hardin,,-1.0,-1,False,backyard,2,2025,4,19,19083,
+2025-04-11,new york,jefferson,,-1.0,-1,False,backyard,2,2025,4,36,36045,
+2025-04-11,new york,queens,,-1.0,-1,False,mixed,2,2025,4,36,36081,
+2025-04-09,new mexico,roosevelt,,-1.0,-1,False,backyard,2,2025,4,35,35041,
+2025-04-08,new york,queens,,-1.0,-1,False,mixed,2,2025,4,36,36081,
+2025-04-08,south dakota,beadle,,33400.0,2025-05-02 00:00:00,True,turkeys,2,2025,4,46,46005,l
+2025-04-07,new mexico,curry,,200.0,2025-04-25 00:00:00,False,backyard,2,2025,4,35,35009,m
+2025-04-07,new york,queens,,-1.0,-1,False,mixed,2,2025,4,36,36081,
+2025-04-07,wisconsin,sheboygan,,38900.0,2025-05-28 00:00:00,False,backyard,2,2025,4,55,55117,l
+2025-04-04,colorado,larimer,,-1.0,-1,False,backyard,2,2025,4,8,8069,
+2025-04-02,new york,queens,,-1.0,-1,False,mixed,2,2025,4,36,36081,
+2025-04-01,new york,delaware,,-1.0,-1,False,backyard,2,2025,4,36,36025,
+2025-03-28,indiana,kosciusko,,21600.0,2025-04-19 00:00:00,True,ckn-layers,1,2025,3,18,18085,l
+2025-03-28,maryland,montgomery,,-1.0,-1,False,backyard,1,2025,3,24,24031,
+2025-03-27,new york,queens,,-1.0,-1,False,mixed,1,2025,3,36,36081,
+2025-03-27,pennsylvania,lancaster,,160.0,2025-04-16 00:00:00,False,backyard,1,2025,3,42,42071,m
+2025-03-26,new york,queens,,-1.0,-1,False,mixed,1,2025,3,36,36081,
+2025-03-25,florida,miami-dade,,-1.0,-1,False,backyard,1,2025,3,12,12086,
+2025-03-24,michigan,ingham,,-1.0,-1,False,backyard,1,2025,3,26,26065,
+2025-03-21,missouri,cass,,-1.0,-1,False,backyard,1,2025,3,29,29037,
+2025-03-21,new york,dutchess,,-1.0,-1,False,backyard,1,2025,3,36,36027,
+2025-03-21,pennsylvania,franklin,,13400.0,2025-04-10 00:00:00,True,turkeys,1,2025,3,42,42055,l
+2025-03-20,illinois,crawford,,18300.0,2025-04-17 00:00:00,True,turkeys,1,2025,3,17,17033,l
+2025-03-20,kansas,reno,,-1.0,-1,False,backyard,1,2025,3,20,20155,
+2025-03-20,new jersey,atlantic,,100.0,2025-04-03 00:00:00,False,backyard,1,2025,3,34,34001,m
+2025-03-20,new mexico,valencia,,-1.0,-1,False,backyard,1,2025,3,35,35061,
+2025-03-20,new york,onondaga,,-1.0,-1,False,mixed,1,2025,3,36,36067,
+2025-03-19,illinois,bond,,-1.0,-1,False,backyard,1,2025,3,17,17005,
+2025-03-19,montana,gallatin,,-1.0,-1,False,backyard,1,2025,3,30,30031,
+2025-03-18,indiana,adams,,3400.0,2025-04-11 00:00:00,True,ducks,1,2025,3,18,18001,l
+2025-03-18,indiana,jay,,1340200.0,2025-04-10 00:00:00,True,ckn-layers,1,2025,3,18,18075,vl
+2025-03-18,kansas,butler,,-1.0,-1,False,backyard,1,2025,3,20,20015,
+2025-03-17,iowa,buena vista,,400000.0,2025-04-08 00:00:00,True,ckn-layers,1,2025,3,19,19021,vl
+2025-03-17,oklahoma,woodward,,-1.0,-1,False,backyard,1,2025,3,40,40153,
+2025-03-13,illinois,lawrence,,15400.0,2025-04-01 00:00:00,True,turkeys,1,2025,3,17,17101,l
+2025-03-13,maryland,anne arundel,,-1.0,-1,False,backyard,1,2025,3,24,24003,
+2025-03-13,new jersey,salem,,-1.0,-1,False,backyard,1,2025,3,34,34033,
+2025-03-13,pennsylvania,lehigh,,-1.0,-1,False,mixed,1,2025,3,42,42077,
+2025-03-12,mississippi,noxubee,,47700.0,2025-04-10 00:00:00,True,ckn-broilers,1,2025,3,28,28103,l
+2025-03-12,new jersey,hudson,,-1.0,-1,False,mixed,1,2025,3,34,34017,
+2025-03-12,new jersey,hudson,,-1.0,-1,False,mixed,1,2025,3,34,34017,
+2025-03-12,new jersey,mercer,,-1.0,-1,False,mixed,1,2025,3,34,34021,
+2025-03-12,oklahoma,grady,,-1.0,-1,False,backyard,1,2025,3,40,40051,
+2025-03-12,pennsylvania,philadelphia,,-1.0,-1,False,mixed,1,2025,3,42,42101,
+2025-03-11,iowa,dallas,,-1.0,-1,False,backyard,1,2025,3,19,19049,
+2025-03-11,nebraska,dawson,,-1.0,-1,False,backyard,1,2025,3,31,31047,
+2025-03-11,new york,rensselaer,,-1.0,-1,False,backyard,1,2025,3,36,36083,
+2025-03-10,colorado,weld,,-1.0,-1,False,backyard,1,2025,3,8,8123,
+2025-03-10,indiana,montgomery,,-1.0,-1,False,backyard,1,2025,3,18,18107,
+2025-03-10,new york,kings,,-1.0,-1,False,mixed,1,2025,3,36,36047,
+2025-03-10,new york,queens,,-1.0,-1,False,mixed,1,2025,3,36,36081,
+2025-03-07,indiana,adams,,3200.0,2025-03-28 00:00:00,True,ducks,1,2025,3,18,18001,l
+2025-03-07,kansas,russell,,-1.0,-1,False,backyard,1,2025,3,20,20167,
+2025-03-07,new york,bronx,,-1.0,-1,False,mixed,1,2025,3,36,36005,
+2025-03-07,new york,richmond,,-1.0,-1,False,mixed,1,2025,3,36,36085,
+2025-03-07,pennsylvania,lancaster,,6500.0,2025-03-28 00:00:00,False,backyard,1,2025,3,42,42071,l
+2025-03-06,michigan,monroe,,-1.0,-1,False,backyard,1,2025,3,26,26115,
+2025-03-06,new york,kings,,-1.0,-1,False,mixed,1,2025,3,36,36047,
+2025-03-06,ohio,mercer,,9500.0,2025-04-02 00:00:00,True,turkeys,1,2025,3,39,39107,l
+2025-03-06,ohio,mercer,,22100.0,2025-03-26 00:00:00,True,turkeys,1,2025,3,39,39107,l
+2025-03-04,illinois,will,,-1.0,-1,False,backyard,1,2025,3,17,17197,
+2025-03-04,indiana,jay,,187200.0,2025-03-29 00:00:00,True,ckn-layers,1,2025,3,18,18075,vl
+2025-03-04,oregon,multnomah,,-1.0,-1,False,backyard,1,2025,3,41,41051,
+2025-03-03,new york,queens,,-1.0,-1,False,mixed,1,2025,3,36,36081,
+2025-03-03,new york,queens,,-1.0,-1,False,mixed,1,2025,3,36,36081,
+2025-02-28,new mexico,bernalillo,,-1.0,-1,False,backyard,1,2025,2,35,35001,
+2025-02-28,new york,suffolk,,-1.0,-1,False,backyard,1,2025,2,36,36103,
+2025-02-28,north carolina,dare,,-1.0,-1,False,backyard,1,2025,2,37,37055,
+2025-02-28,ohio,portage,,-1.0,-1,False,backyard,1,2025,2,39,39133,
+2025-02-28,wyoming,hot springs,,-1.0,-1,False,backyard,1,2025,2,56,56017,
+2025-02-27,florida,collier,,-1.0,-1,False,backyard,1,2025,2,12,12021,
+2025-02-27,florida,miami-dade,,120.0,2025-03-17 00:00:00,False,backyard,1,2025,2,12,12086,m
+2025-02-26,maine,cumberland,,-1.0,-1,False,backyard,1,2025,2,23,23005,
+2025-02-26,massachusetts,dukes,,-1.0,-1,False,backyard,1,2025,2,25,25007,
+2025-02-26,new york,westchester,,-1.0,-1,False,backyard,1,2025,2,36,36119,
+2025-02-25,indiana,elkhart,,1800.0,2025-03-12 00:00:00,True,ducks,1,2025,2,18,18039,l
+2025-02-25,indiana,jasper,,-1.0,-1,False,backyard,1,2025,2,18,18073,
+2025-02-25,indiana,jay,,18600.0,2025-03-13 00:00:00,True,turkeys,1,2025,2,18,18075,l
+2025-02-25,indiana,jay,,16500.0,2025-03-17 00:00:00,True,turkeys,1,2025,2,18,18075,l
+2025-02-25,indiana,lagrange,,3800.0,2025-03-14 00:00:00,True,ducks,1,2025,2,18,18087,l
+2025-02-25,indiana,union,,-1.0,-1,False,backyard,1,2025,2,18,18161,
+2025-02-25,michigan,monroe,,-1.0,-1,False,backyard,1,2025,2,26,26115,
+2025-02-25,ohio,mercer,,90000.0,2025-04-11 00:00:00,True,ckn-layers,1,2025,2,39,39107,l
+2025-02-24,pennsylvania,philadelphia,,-1.0,-1,False,mixed,1,2025,2,42,42101,
+2025-02-22,new jersey,union,,-1.0,-1,False,mixed,1,2025,2,34,34039,
+2025-02-21,florida,broward,,-1.0,-1,False,backyard,1,2025,2,12,12011,
+2025-02-21,indiana,elkhart,,4200.0,2025-03-12 00:00:00,True,ducks,1,2025,2,18,18039,l
+2025-02-21,indiana,washington,,19400.0,2025-03-13 00:00:00,True,turkeys,1,2025,2,18,18175,l
+2025-02-21,new york,delaware,,-1.0,-1,False,backyard,1,2025,2,36,36025,
+2025-02-21,ohio,darke,,3090400.0,2025-04-16 00:00:00,True,ckn-layers,1,2025,2,39,39037,vl
+2025-02-21,ohio,mercer,,84800.0,2025-04-01 00:00:00,True,ckn-layers,1,2025,2,39,39107,l
+2025-02-21,ohio,mercer,,55900.0,2025-03-29 00:00:00,False,backyard,1,2025,2,39,39107,l
+2025-02-20,iowa,sac,,29700.0,2025-03-18 00:00:00,True,turkeys,1,2025,2,19,19161,l
+2025-02-20,maine,cumberland,,-1.0,-1,False,backyard,1,2025,2,23,23005,
+2025-02-20,pennsylvania,butler,,-1.0,-1,False,backyard,1,2025,2,42,42019,
+2025-02-20,pennsylvania,luzerne,,-1.0,-1,False,backyard,1,2025,2,42,42079,
+2025-02-19,arizona,graham,,-1.0,-1,False,backyard,1,2025,2,4,4009,
+2025-02-18,nevada,churchill,,-1.0,-1,False,backyard,1,2025,2,32,32001,
+2025-02-18,ohio,darke,,164900.0,2025-03-20 00:00:00,True,ckn-layers,1,2025,2,39,39037,vl
+2025-02-18,ohio,mercer,,10600.0,2025-03-16 00:00:00,True,turkeys,1,2025,2,39,39107,l
+2025-02-18,ohio,stark,,-1.0,-1,False,backyard,1,2025,2,39,39151,
+2025-02-14,indiana,jay,,1224800.0,2025-04-10 00:00:00,True,ckn-layers,1,2025,2,18,18075,vl
+2025-02-14,indiana,jay,,1454600.0,2025-04-01 00:00:00,True,ckn-layers,1,2025,2,18,18075,vl
+2025-02-14,indiana,randolph,,-1.0,-1,False,backyard,1,2025,2,18,18135,
+2025-02-14,indiana,washington,,14100.0,2025-03-13 00:00:00,True,turkeys,1,2025,2,18,18175,l
+2025-02-14,iowa,buena vista,,26700.0,2025-03-08 00:00:00,True,turkeys,1,2025,2,19,19021,l
+2025-02-14,nebraska,saunders,,-1.0,-1,False,backyard,1,2025,2,31,31155,
+2025-02-14,ohio,darke,,20100.0,2025-03-05 00:00:00,True,turkeys,1,2025,2,39,39037,l
+2025-02-14,ohio,mercer,,16700.0,2025-03-11 00:00:00,True,turkeys,1,2025,2,39,39107,l
+2025-02-13,california,riverside,,11400.0,2025-04-03 00:00:00,False,backyard,1,2025,2,6,6065,l
+2025-02-13,delaware,sussex,,-1.0,-1,False,backyard,1,2025,2,10,10005,
+2025-02-13,michigan,monroe,,-1.0,-1,False,backyard,1,2025,2,26,26115,
+2025-02-13,ohio,auglaize,,210600.0,2025-03-22 00:00:00,True,ckn-layers,1,2025,2,39,39011,vl
+2025-02-13,ohio,mercer,,125800.0,2025-03-18 00:00:00,True,ckn-layers,1,2025,2,39,39107,vl
+2025-02-12,california,merced,,280600.0,2025-03-05 00:00:00,True,ckn-broilers,1,2025,2,6,6047,vl
+2025-02-12,colorado,weld,,150.0,2025-02-28 00:00:00,False,backyard,1,2025,2,8,8123,m
+2025-02-12,colorado,weld,,-1.0,-1,False,backyard,1,2025,2,8,8123,
+2025-02-12,minnesota,crow wing,,-1.0,-1,False,backyard,1,2025,2,27,27035,
+2025-02-12,missouri,lawrence,,13000.0,2025-03-21 00:00:00,True,turkeys,1,2025,2,29,29109,l
+2025-02-12,ohio,mercer,,131000.0,2025-03-20 00:00:00,True,ckn-layers,1,2025,2,39,39107,vl
+2025-02-12,pennsylvania,lancaster,,600.0,2025-03-06 00:00:00,False,backyard,1,2025,2,42,42071,m
+2025-02-12,wyoming,platte,,-1.0,-1,False,backyard,1,2025,2,56,56031,
+2025-02-11,indiana,jay,,912000.0,2025-04-08 00:00:00,True,ckn-layers,1,2025,2,18,18075,vl
+2025-02-11,new york,madison,,-1.0,-1,False,backyard,1,2025,2,36,36053,
+2025-02-11,ohio,mercer,,20000.0,2025-03-09 00:00:00,True,ckn-layers,1,2025,2,39,39107,l
+2025-02-11,pennsylvania,cumberland,,20000.0,2025-03-01 00:00:00,True,ducks,1,2025,2,42,42041,l
+2025-02-11,pennsylvania,lancaster,,80000.0,2025-03-06 00:00:00,True,ckn-broilers,1,2025,2,42,42071,l
+2025-02-11,south dakota,yankton,,-1.0,-1,False,backyard,1,2025,2,46,46135,
+2025-02-10,missouri,lawrence,,14100.0,2025-03-15 00:00:00,True,turkeys,1,2025,2,29,29109,l
+2025-02-10,ohio,mercer,,20100.0,2025-03-01 00:00:00,True,turkeys,1,2025,2,39,39107,l
+2025-02-10,washington,mason,,-1.0,-1,False,backyard,1,2025,2,53,53045,
+2025-02-07,louisiana,calcasieu,,-1.0,-1,False,backyard,1,2025,2,22,22019,
+2025-02-07,ohio,mercer,,96300.0,2025-03-13 00:00:00,True,ckn-layers,1,2025,2,39,39107,l
+2025-02-07,ohio,mercer,,4100.0,2025-02-27 00:00:00,True,turkeys,1,2025,2,39,39107,l
+2025-02-07,ohio,mercer,,388900.0,2025-03-15 00:00:00,True,ckn-layers,1,2025,2,39,39107,vl
+2025-02-07,pennsylvania,lancaster,,610.0,2025-03-11 00:00:00,False,backyard,1,2025,2,42,42071,m
+2025-02-07,pennsylvania,lebanon,,53500.0,2025-03-04 00:00:00,True,ckn-broilers,1,2025,2,42,42075,l
+2025-02-06,connecticut,new london,,-1.0,-1,False,backyard,1,2025,2,9,9011,
+2025-02-06,missouri,lawrence,,9500.0,2025-03-02 00:00:00,True,turkeys,1,2025,2,29,29109,l
+2025-02-06,missouri,newton,,44400.0,2025-03-10 00:00:00,True,ckn-broilers,1,2025,2,29,29145,l
+2025-02-06,new york,bronx,,-1.0,-1,False,mixed,1,2025,2,36,36005,
+2025-02-06,new york,queens,,-1.0,-1,False,mixed,1,2025,2,36,36081,
+2025-02-06,ohio,darke,,522200.0,2025-03-19 00:00:00,True,ckn-layers,1,2025,2,39,39037,vl
+2025-02-06,ohio,mercer,,10100.0,2025-03-03 00:00:00,True,turkeys,1,2025,2,39,39107,l
+2025-02-06,ohio,mercer,,19900.0,2025-03-02 00:00:00,True,turkeys,1,2025,2,39,39107,l
+2025-02-06,ohio,mercer,,232600.0,2025-03-11 00:00:00,True,ckn-layers,1,2025,2,39,39107,vl
+2025-02-06,pennsylvania,lancaster,,14900.0,2025-03-11 00:00:00,False,backyard,1,2025,2,42,42071,l
+2025-02-06,pennsylvania,lancaster,,12100.0,2025-02-26 00:00:00,True,ducks,1,2025,2,42,42071,l
+2025-02-06,pennsylvania,lebanon,,84800.0,2025-03-05 00:00:00,True,ckn-layers,1,2025,2,42,42075,l
+2025-02-05,arizona,pinal,,-1.0,-1,False,backyard,1,2025,2,4,4021,
+2025-02-05,california,stanislaus,,30200.0,2025-03-10 00:00:00,True,turkeys,1,2025,2,6,6099,l
+2025-02-05,colorado,larimer,,-1.0,-1,False,backyard,1,2025,2,8,8069,
+2025-02-05,new york,kings,,-1.0,-1,False,mixed,1,2025,2,36,36047,
+2025-02-05,new york,queens,,-1.0,-1,False,mixed,1,2025,2,36,36081,
+2025-02-05,ohio,auglaize,,11000.0,2025-03-04 00:00:00,True,turkeys,1,2025,2,39,39011,l
+2025-02-05,ohio,mercer,,8900.0,2025-02-26 00:00:00,True,turkeys,1,2025,2,39,39107,l
+2025-02-05,ohio,mercer,,174600.0,2025-03-18 00:00:00,True,ckn-layers,1,2025,2,39,39107,vl
+2025-02-05,pennsylvania,cumberland,,26400.0,2025-03-01 00:00:00,True,ckn-broilers,1,2025,2,42,42041,l
+2025-02-04,kansas,harvey,,-1.0,-1,False,backyard,1,2025,2,20,20079,
+2025-02-04,maryland,worcester,,168300.0,2025-02-26 00:00:00,True,ckn-broilers,1,2025,2,24,24047,vl
+2025-02-04,michigan,alpena,,-1.0,-1,False,backyard,1,2025,2,26,26007,
+2025-02-04,missouri,jasper,,49500.0,2025-03-04 00:00:00,True,turkeys,1,2025,2,29,29097,l
+2025-02-04,missouri,lawrence,,14300.0,2025-03-05 00:00:00,True,turkeys,1,2025,2,29,29109,l
+2025-02-04,missouri,newton,,13600.0,2025-03-02 00:00:00,True,turkeys,1,2025,2,29,29145,l
+2025-02-04,new york,bronx,,-1.0,-1,False,mixed,1,2025,2,36,36005,
+2025-02-04,new york,queens,,-1.0,-1,False,mixed,1,2025,2,36,36081,
+2025-02-04,ohio,darke,,5400.0,2025-02-21 00:00:00,True,turkeys,1,2025,2,39,39037,l
+2025-02-04,ohio,mercer,,96700.0,2025-03-15 00:00:00,True,ckn-layers,1,2025,2,39,39107,l
+2025-02-04,ohio,mercer,,3500.0,2025-02-22 00:00:00,True,turkeys,1,2025,2,39,39107,l
+2025-02-04,ohio,mercer,,12200.0,2025-03-01 00:00:00,True,turkeys,1,2025,2,39,39107,l
+2025-02-04,ohio,mercer,,11600.0,2025-03-05 00:00:00,True,turkeys,1,2025,2,39,39107,l
+2025-02-04,ohio,mercer,,88300.0,2025-03-06 00:00:00,True,ckn-layers,1,2025,2,39,39107,l
+2025-02-04,pennsylvania,adams,,-1.0,-1,False,backyard,1,2025,2,42,42001,
+2025-02-04,pennsylvania,dauphin,,1975300.0,2025-03-11 00:00:00,True,ckn-layers,1,2025,2,42,42043,vl
+2025-02-03,california,san joaquin,,22200.0,2025-03-17 00:00:00,True,turkeys,1,2025,2,6,6077,l
+2025-02-03,oregon,klamath,,-1.0,-1,False,backyard,1,2025,2,41,41035,
+2025-02-02,iowa,o'brien,,241600.0,2025-03-02 00:00:00,True,ckn-layers,1,2025,2,19,19141,vl
+2025-01-31,maryland,montgomery,,-1.0,-1,False,backyard,1,2025,1,24,24031,
+2025-01-31,missouri,barry,,34000.0,2025-03-06 00:00:00,True,turkeys,1,2025,1,29,29009,l
+2025-01-31,missouri,mcdonald,,131400.0,2025-03-12 00:00:00,True,ckn-broilers,1,2025,1,29,29119,vl
+2025-01-31,ohio,darke,,11700.0,2025-02-21 00:00:00,True,turkeys,1,2025,1,39,39037,l
+2025-01-31,ohio,mercer,,22000.0,2025-02-21 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-31,ohio,mercer,,748800.0,2025-03-22 00:00:00,True,ckn-layers,1,2025,1,39,39107,vl
+2025-01-30,florida,broward,,-1.0,-1,False,backyard,1,2025,1,12,12011,
+2025-01-30,idaho,jerome,,-1.0,-1,False,backyard,1,2025,1,16,16053,
+2025-01-30,missouri,mcdonald,,11700.0,2025-03-04 00:00:00,True,turkeys,1,2025,1,29,29119,l
+2025-01-30,nebraska,nance,,-1.0,-1,False,backyard,1,2025,1,31,31125,
+2025-01-30,ohio,darke,,150700.0,2025-03-13 00:00:00,True,ckn-layers,1,2025,1,39,39037,vl
+2025-01-30,ohio,mercer,,21700.0,2025-02-23 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-30,ohio,mercer,,437100.0,2025-03-18 00:00:00,True,ckn-layers,1,2025,1,39,39107,vl
+2025-01-30,ohio,mercer,,8700.0,2025-02-22 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-30,ohio,mercer,,4600.0,2025-02-19 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-30,ohio,mercer,,11200.0,2025-02-26 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-30,ohio,van wert,,21400.0,2025-03-14 00:00:00,True,turkeys,1,2025,1,39,39161,l
+2025-01-30,pennsylvania,monroe,,-1.0,-1,False,backyard,1,2025,1,42,42089,
+2025-01-29,california,madera,,18600.0,2025-03-07 00:00:00,True,ducks,1,2025,1,6,6039,l
+2025-01-29,california,merced,,87800.0,2025-03-15 00:00:00,True,ducks,1,2025,1,6,6047,l
+2025-01-29,california,san mateo,,-1.0,-1,False,backyard,1,2025,1,6,6081,
+2025-01-29,missouri,newton,,19000.0,2025-02-28 00:00:00,True,turkeys,1,2025,1,29,29145,l
+2025-01-29,ohio,darke,,9700.0,2025-02-19 00:00:00,True,turkeys,1,2025,1,39,39037,l
+2025-01-29,ohio,darke,,1356300.0,2025-03-22 00:00:00,True,ckn-layers,1,2025,1,39,39037,vl
+2025-01-29,ohio,mercer,,20100.0,2025-02-26 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-29,ohio,mercer,,9000.0,2025-02-19 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-28,delaware,kent,,145800.0,2025-02-18 00:00:00,True,ckn-broilers,1,2025,1,10,10001,vl
+2025-01-28,indiana,jackson,,2633900.0,2025-03-21 00:00:00,True,ckn-layers,1,2025,1,18,18071,vl
+2025-01-28,indiana,shelby,,-1.0,-1,False,backyard,1,2025,1,18,18145,
+2025-01-28,missouri,mcdonald,,18300.0,2025-02-26 00:00:00,True,ckn-broilers,1,2025,1,29,29119,l
+2025-01-28,missouri,newton,,14300.0,2025-02-21 00:00:00,True,turkeys,1,2025,1,29,29145,l
+2025-01-28,north carolina,sampson,,24100.0,2025-03-05 00:00:00,True,turkeys,1,2025,1,37,37163,l
+2025-01-28,pennsylvania,lehigh,,48000.0,2025-02-15 00:00:00,False,backyard,1,2025,1,42,42077,l
+2025-01-27,arizona,pinal,,316600.0,2025-02-20 00:00:00,True,ckn-layers,1,2025,1,4,4021,vl
+2025-01-27,indiana,adams,,19900.0,2025-02-15 00:00:00,True,turkeys,1,2025,1,18,18001,l
+2025-01-27,nebraska,kearney,,-1.0,-1,False,backyard,1,2025,1,31,31099,
+2025-01-27,new york,ulster,,-1.0,-1,False,backyard,1,2025,1,36,36111,
+2025-01-27,north carolina,sampson,,1900.0,2025-02-24 00:00:00,True,turkeys,1,2025,1,37,37163,l
+2025-01-27,ohio,mercer,,12600.0,2025-03-02 00:00:00,True,ducks,1,2025,1,39,39107,l
+2025-01-27,ohio,mercer,,5100.0,2025-02-26 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-27,ohio,mercer,,9300.0,2025-02-26 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-27,ohio,mercer,,12600.0,2025-02-23 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-24,arkansas,cleveland,,19500.0,2025-02-16 00:00:00,True,ckn-broilers,1,2025,1,5,5025,l
+2025-01-24,connecticut,new haven,,-1.0,-1,False,backyard,1,2025,1,9,9009,
+2025-01-24,florida,orange,,-1.0,-1,False,backyard,1,2025,1,12,12095,
+2025-01-24,indiana,allen,,26100.0,2025-02-14 00:00:00,False,backyard,1,2025,1,18,18003,l
+2025-01-24,massachusetts,plymouth,,-1.0,-1,False,backyard,1,2025,1,25,25023,
+2025-01-24,minnesota,wadena,,296300.0,2025-02-15 00:00:00,True,turkeys,1,2025,1,27,27159,vl
+2025-01-24,missouri,mcdonald,,650.0,2025-02-07 00:00:00,False,ckn-broilers,1,2025,1,29,29119,m
+2025-01-24,missouri,newton,,1149400.0,2025-02-22 00:00:00,True,ckn-layers,1,2025,1,29,29145,vl
+2025-01-24,ohio,darke,,1818000.0,2025-03-08 00:00:00,True,ckn-layers,1,2025,1,39,39037,vl
+2025-01-24,ohio,darke,,22300.0,2025-02-26 00:00:00,True,turkeys,1,2025,1,39,39037,l
+2025-01-24,ohio,mercer,,9500.0,2025-02-19 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-24,ohio,mercer,,19600.0,2025-02-20 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-24,ohio,mercer,,18500.0,2025-02-23 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-24,ohio,mercer,,5100.0,2025-02-26 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-24,rhode island,washington,,-1.0,-1,False,backyard,1,2025,1,44,44009,
+2025-01-24,vermont,windsor,,-1.0,-1,False,backyard,1,2025,1,50,50027,
+2025-01-24,washington,franklin,,307800.0,2025-02-15 00:00:00,True,ckn-layers,1,2025,1,53,53021,vl
+2025-01-23,california,yolo,,-1.0,-1,False,backyard,1,2025,1,6,6113,
+2025-01-23,new york,putnam,,-1.0,-1,False,backyard,1,2025,1,36,36079,
+2025-01-23,ohio,darke,,349200.0,2025-02-15 00:00:00,True,ckn-layers,1,2025,1,39,39037,vl
+2025-01-23,ohio,mercer,,1468900.0,2025-03-03 00:00:00,True,ckn-layers,1,2025,1,39,39107,vl
+2025-01-23,ohio,mercer,,11200.0,2025-02-13 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-23,ohio,mercer,,85000.0,2025-03-01 00:00:00,True,ckn-layers,1,2025,1,39,39107,l
+2025-01-22,arkansas,cleveland,,106900.0,2025-02-15 00:00:00,True,ckn-broilers,1,2025,1,5,5025,vl
+2025-01-22,illinois,cook,,500.0,2025-03-10 00:00:00,False,backyard,1,2025,1,17,17031,m
+2025-01-22,maryland,dorchester,,144000.0,2025-02-14 00:00:00,True,ckn-broilers,1,2025,1,24,24019,vl
+2025-01-22,missouri,jasper,,49400.0,2025-02-19 00:00:00,True,turkeys,1,2025,1,29,29097,l
+2025-01-22,missouri,lawrence,,52400.0,2025-02-22 00:00:00,True,turkeys,1,2025,1,29,29109,l
+2025-01-22,missouri,newton,,21300.0,2025-02-08 00:00:00,True,turkeys,1,2025,1,29,29145,l
+2025-01-22,missouri,newton,,23000.0,2025-02-12 00:00:00,True,turkeys,1,2025,1,29,29145,l
+2025-01-21,georgia,elbert,,130400.0,2025-02-08 00:00:00,True,ckn-broilers,1,2025,1,13,13105,vl
+2025-01-21,maryland,caroline,,108400.0,2025-02-10 00:00:00,True,ckn-broilers,1,2025,1,24,24011,vl
+2025-01-21,missouri,newton,,1175800.0,2025-03-21 00:00:00,True,ckn-layers,1,2025,1,29,29145,vl
+2025-01-21,oregon,umatilla,,-1.0,-1,False,backyard,1,2025,1,41,41059,
+2025-01-21,virginia,accomack,,441000.0,2025-02-15 00:00:00,True,ckn-broilers,1,2025,1,51,51001,vl
+2025-01-17,georgia,elbert,,45500.0,2025-02-07 00:00:00,True,ckn-broilers,1,2025,1,13,13105,l
+2025-01-17,indiana,jay,,18800.0,2025-02-11 00:00:00,True,turkeys,1,2025,1,18,18075,l
+2025-01-17,new york,suffolk,,101000.0,2025-03-19 00:00:00,True,ducks,1,2025,1,36,36103,vl
+2025-01-17,ohio,darke,,200000.0,2025-02-26 00:00:00,True,ckn-layers,1,2025,1,39,39037,vl
+2025-01-17,ohio,darke,,103200.0,2025-02-26 00:00:00,True,ckn-layers,1,2025,1,39,39037,vl
+2025-01-16,california,riverside,,208200.0,2025-02-11 00:00:00,True,ckn-layers,1,2025,1,6,6065,vl
+2025-01-16,indiana,jay,,353300.0,2025-02-14 00:00:00,True,ckn-layers,1,2025,1,18,18075,vl
+2025-01-16,maryland,queen anne's,,146900.0,2025-02-07 00:00:00,True,ckn-broilers,1,2025,1,24,24035,vl
+2025-01-16,michigan,wayne,,-1.0,-1,False,backyard,1,2025,1,26,26163,
+2025-01-16,minnesota,dakota,,79900.0,2025-02-03 00:00:00,True,turkeys,1,2025,1,27,27037,l
+2025-01-16,ohio,mercer,,1432000.0,2025-03-04 00:00:00,True,ckn-layers,1,2025,1,39,39107,vl
+2025-01-16,tennessee,greene,,-1.0,-1,False,backyard,1,2025,1,47,47059,
+2025-01-15,connecticut,new london,,-1.0,-1,False,backyard,1,2025,1,9,9011,
+2025-01-15,idaho,owyhee,,-1.0,-1,False,backyard,1,2025,1,16,16073,
+2025-01-15,ohio,darke,,15800.0,2025-02-09 00:00:00,True,turkeys,1,2025,1,39,39037,l
+2025-01-15,ohio,darke,,5300.0,2025-02-09 00:00:00,True,turkeys,1,2025,1,39,39037,l
+2025-01-15,ohio,darke,,5300.0,2025-02-09 00:00:00,True,turkeys,1,2025,1,39,39037,l
+2025-01-15,ohio,mercer,,10400.0,2025-02-09 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-14,florida,hillsborough,,-1.0,-1,False,mixed,1,2025,1,12,12057,
+2025-01-14,florida,orange,,-1.0,-1,False,mixed,1,2025,1,12,12095,
+2025-01-14,maryland,caroline,,228300.0,2025-02-04 00:00:00,True,ckn-broilers,1,2025,1,24,24011,vl
+2025-01-14,missouri,newton,,1585100.0,2025-03-19 00:00:00,True,ckn-layers,1,2025,1,29,29145,vl
+2025-01-14,ohio,darke,,9900.0,2025-02-03 00:00:00,True,turkeys,1,2025,1,39,39037,l
+2025-01-14,ohio,mercer,,4500.0,2025-02-01 00:00:00,True,turkeys,1,2025,1,39,39107,l
+2025-01-13,kansas,phillips,,-1.0,-1,False,backyard,1,2025,1,20,20147,
+2025-01-13,puerto rico,culebra,,380.0,2025-02-03 00:00:00,False,backyard,1,2025,1,72,72049,m
+2025-01-10,south dakota,gregory,,-1.0,-1,False,backyard,1,2025,1,46,46053,
+2025-01-09,delaware,kent,,194800.0,2025-02-01 00:00:00,True,ckn-broilers,1,2025,1,10,10001,vl
+2025-01-09,georgia,clayton,,-1.0,-1,False,backyard,1,2025,1,13,13063,
+2025-01-09,idaho,canyon,,-1.0,-1,False,backyard,1,2025,1,16,16027,
+2025-01-09,michigan,oakland,,-1.0,-1,False,backyard,1,2025,1,26,26125,
+2025-01-09,ohio,darke,,21100.0,2025-01-31 00:00:00,True,turkeys,1,2025,1,39,39037,l
+2025-01-09,oregon,union,,380.0,2025-01-22 00:00:00,False,backyard,1,2025,1,41,41061,m
+2025-01-09,texas,brazoria,,-1.0,-1,False,backyard,1,2025,1,48,48039,
+2025-01-09,texas,burnet,,-1.0,-1,False,backyard,1,2025,1,48,48053,
+2025-01-08,missouri,perry,,-1.0,-1,False,backyard,1,2025,1,29,29157,
+2025-01-08,ohio,darke,,245300.0,2025-02-16 00:00:00,True,ckn-layers,1,2025,1,39,39037,vl
+2025-01-07,florida,palm beach,,-1.0,-1,False,backyard,1,2025,1,12,12099,
+2025-01-07,indiana,jay,,20300.0,2025-01-29 00:00:00,True,turkeys,1,2025,1,18,18075,l
+2025-01-07,iowa,clinton,,-1.0,-1,False,backyard,1,2025,1,19,19045,
+2025-01-07,north carolina,hyde,,3314900.0,2025-04-05 00:00:00,True,ckn-layers,1,2025,1,37,37095,vl
+2025-01-07,south dakota,hanson,,-1.0,-1,False,backyard,1,2025,1,46,46061,
+2025-01-06,minnesota,olmsted,,-1.0,-1,False,backyard,1,2025,1,27,27109,
+2025-01-04,delaware,kent,,125000.0,2025-01-28 00:00:00,True,ckn-broilers,1,2025,1,10,10001,vl
+2025-01-04,michigan,ottawa,,47000.0,2025-02-09 00:00:00,True,turkeys,1,2025,1,26,26139,l
+2025-01-04,michigan,ottawa,,55200.0,2025-02-11 00:00:00,True,turkeys,1,2025,1,26,26139,l
+2025-01-03,arkansas,sharp,,-1.0,-1,False,backyard,1,2025,1,5,5135,
+2025-01-03,california,butte,,38700.0,2025-01-29 00:00:00,True,mixed,1,2025,1,6,6007,l
+2025-01-03,california,stanislaus,,236100.0,2025-02-15 00:00:00,True,ckn-broilers,1,2025,1,6,6099,vl
+2025-01-03,idaho,canyon,,-1.0,-1,False,backyard,1,2025,1,16,16027,
+2025-01-03,idaho,canyon,,-1.0,-1,False,backyard,1,2025,1,16,16027,
+2025-01-03,idaho,canyon,,-1.0,-1,False,backyard,1,2025,1,16,16027,
+2025-01-03,idaho,canyon,,-1.0,-1,False,backyard,1,2025,1,16,16027,
+2025-01-03,west virginia,pocahontas,,9.0,2025-01-17 00:00:00,False,backyard,1,2025,1,54,54075,s
+2025-01-02,california,stanislaus,,75200.0,2025-03-10 00:00:00,True,ckn-layers,1,2025,1,6,6099,l
+2024-12-31,california,butte,,-1.0,-1,False,backyard,4,2024,12,6,6007,
+2024-12-31,california,riverside,,181300.0,2025-02-15 00:00:00,True,ckn-layers,4,2024,12,6,6065,vl
+2024-12-31,michigan,jackson,,-1.0,-1,False,backyard,4,2024,12,26,26075,
+2024-12-31,michigan,ottawa,,23400.0,2025-02-02 00:00:00,True,turkeys,4,2024,12,26,26139,l
+2024-12-31,michigan,ottawa,,29400.0,2025-02-09 00:00:00,True,turkeys,4,2024,12,26,26139,l
+2024-12-31,south carolina,spartanburg,,920.0,2025-01-28 00:00:00,True,mixed,4,2024,12,45,45083,m
+2024-12-31,south dakota,miner,,1500.0,2025-02-05 00:00:00,False,backyard,4,2024,12,46,46097,l
+2024-12-30,arkansas,clay,,227500.0,2025-02-03 00:00:00,True,ckn-broilers,4,2024,12,5,5021,vl
+2024-12-30,idaho,twin falls,,-1.0,-1,False,backyard,4,2024,12,16,16083,
+2024-12-30,mississippi,copiah,,210000.0,2025-01-25 00:00:00,True,ckn-broilers,4,2024,12,28,28029,vl
+2024-12-30,nebraska,johnson,,209100.0,2025-01-21 00:00:00,True,ckn-broilers,4,2024,12,31,31097,vl
+2024-12-30,tennessee,tipton,,-1.0,-1,False,backyard,4,2024,12,47,47167,
+2024-12-27,california,sacramento,,153800.0,2025-01-18 00:00:00,True,ckn-broilers,4,2024,12,6,6067,vl
+2024-12-27,california,stanislaus,,101700.0,2025-02-04 00:00:00,True,ckn-broilers,4,2024,12,6,6099,vl
+2024-12-27,kansas,anderson,,-1.0,-1,False,backyard,4,2024,12,20,20003,
+2024-12-27,kansas,coffey,,-1.0,-1,False,backyard,4,2024,12,20,20031,
+2024-12-27,michigan,ottawa,,113200.0,2025-02-13 00:00:00,True,turkeys,4,2024,12,26,26139,vl
+2024-12-27,missouri,cooper,,14900.0,2025-01-14 00:00:00,True,turkeys,4,2024,12,29,29053,l
+2024-12-27,missouri,pemiscot,,-1.0,-1,False,backyard,4,2024,12,29,29155,
+2024-12-27,ohio,darke,,931300.0,2025-02-23 00:00:00,True,ckn-layers,4,2024,12,39,39037,vl
+2024-12-27,wisconsin,burnett,,18600.0,2025-01-13 00:00:00,True,turkeys,4,2024,12,55,55013,l
+2024-12-27,wyoming,sheridan,,-1.0,-1,False,backyard,4,2024,12,56,56033,
+2024-12-26,kansas,phillips,,-1.0,-1,False,backyard,4,2024,12,20,20147,
+2024-12-24,california,riverside,,1105500.0,2025-02-05 00:00:00,True,ckn-layers,4,2024,12,6,6065,vl
+2024-12-24,california,san joaquin,,627800.0,2025-02-11 00:00:00,True,ckn-layers,4,2024,12,6,6077,vl
+2024-12-24,california,stanislaus,,392100.0,2025-03-12 00:00:00,True,ckn-layers,4,2024,12,6,6099,vl
+2024-12-24,missouri,cass,,-1.0,-1,False,backyard,4,2024,12,29,29037,
+2024-12-24,missouri,dade,,-1.0,-1,False,backyard,4,2024,12,29,29057,
+2024-12-24,oklahoma,adair,,45000.0,2025-01-30 00:00:00,True,turkeys,4,2024,12,40,40001,l
+2024-12-24,oklahoma,adair,,81400.0,2025-01-30 00:00:00,True,turkeys,4,2024,12,40,40001,l
+2024-12-24,vermont,franklin,,-1.0,-1,False,backyard,4,2024,12,50,50011,
+2024-12-23,california,el dorado,,-1.0,-1,False,backyard,4,2024,12,6,6017,
+2024-12-23,illinois,lawrence,,41400.0,2025-01-17 00:00:00,True,turkeys,4,2024,12,17,17101,l
+2024-12-23,michigan,ottawa,,75500.0,2025-02-11 00:00:00,True,turkeys,4,2024,12,26,26139,l
+2024-12-20,arkansas,craighead,,-1.0,-1,False,backyard,4,2024,12,5,5031,
+2024-12-20,kansas,sedgwick,,-1.0,-1,False,backyard,4,2024,12,20,20173,
+2024-12-20,minnesota,chippewa,,54800.0,2025-01-10 00:00:00,True,turkeys,4,2024,12,27,27023,l
+2024-12-20,minnesota,houston,,-1.0,-1,False,backyard,4,2024,12,27,27055,
+2024-12-20,mississippi,greene,,26000.0,2025-01-14 00:00:00,True,ckn-broilers,4,2024,12,28,28041,l
+2024-12-20,missouri,cooper,,13000.0,2025-01-14 00:00:00,True,turkeys,4,2024,12,29,29053,l
+2024-12-19,alabama,cullman,,116000.0,2025-01-01 00:00:00,True,ckn-broilers,4,2024,12,1,1043,vl
+2024-12-19,alabama,pickens,,-1.0,-1,False,backyard,4,2024,12,1,1107,
+2024-12-19,arkansas,jackson,,-1.0,-1,False,backyard,4,2024,12,5,5067,
+2024-12-19,california,stanislaus,,295800.0,2025-03-05 00:00:00,True,ckn-layers,4,2024,12,6,6099,vl
+2024-12-19,minnesota,fillmore,,28600.0,2025-01-18 00:00:00,True,turkeys,4,2024,12,27,27045,l
+2024-12-19,minnesota,stearns,,12600.0,2025-01-02 00:00:00,True,turkeys,4,2024,12,27,27145,l
+2024-12-19,ohio,greene,,110.0,2025-01-04 00:00:00,False,backyard,4,2024,12,39,39057,m
+2024-12-19,oregon,coos,,-1.0,-1,False,backyard,4,2024,12,41,41011,
+2024-12-19,oregon,deschutes,,-1.0,-1,False,backyard,4,2024,12,41,41017,
+2024-12-19,wisconsin,kenosha,,6.0,2025-01-06 00:00:00,False,backyard,4,2024,12,55,55059,s
+2024-12-18,kansas,doniphan,,5700.0,2025-01-03 00:00:00,True,mixed,4,2024,12,20,20043,l
+2024-12-18,kansas,rooks,,5300.0,2025-01-06 00:00:00,True,mixed,4,2024,12,20,20163,l
+2024-12-18,missouri,howard,,-1.0,-1,False,backyard,4,2024,12,29,29089,
+2024-12-18,north dakota,nelson,,-1.0,-1,False,backyard,4,2024,12,38,38063,
+2024-12-17,california,stanislaus,,33100.0,2025-01-29 00:00:00,True,turkeys,4,2024,12,6,6099,l
+2024-12-17,idaho,lemhi,,-1.0,-1,False,backyard,4,2024,12,16,16059,
+2024-12-17,idaho,lemhi,,-1.0,-1,False,backyard,4,2024,12,16,16059,
+2024-12-17,iowa,monona,,-1.0,-1,False,backyard,4,2024,12,19,19133,
+2024-12-17,iowa,o'brien,,351400.0,2025-01-06 00:00:00,True,ckn-layers,4,2024,12,19,19141,vl
+2024-12-17,iowa,sioux,,428600.0,2025-01-14 00:00:00,True,ckn-layers,4,2024,12,19,19167,vl
+2024-12-17,iowa,worth,,19500.0,2025-01-15 00:00:00,True,turkeys,4,2024,12,19,19195,l
+2024-12-17,nebraska,lancaster,,290.0,2024-12-31 00:00:00,False,backyard,4,2024,12,31,31109,m
+2024-12-17,south dakota,bon homme,,48700.0,2025-01-09 00:00:00,True,turkeys,4,2024,12,46,46009,l
+2024-12-17,south dakota,charles mix,,1800.0,2025-02-05 00:00:00,False,backyard,4,2024,12,46,46023,l
+2024-12-17,south dakota,charles mix,,74800.0,2025-01-09 00:00:00,True,turkeys,4,2024,12,46,46023,l
+2024-12-16,california,merced,,53100.0,2025-02-12 00:00:00,True,turkeys,4,2024,12,6,6047,l
+2024-12-16,california,merced,,424700.0,2025-02-13 00:00:00,True,ckn-layers,4,2024,12,6,6047,vl
+2024-12-16,nebraska,sarpy,,-1.0,-1,False,backyard,4,2024,12,31,31153,
+2024-12-14,california,merced,,119000.0,2025-02-06 00:00:00,True,ducks,4,2024,12,6,6047,vl
+2024-12-14,california,monterey,,13700.0,2024-12-28 00:00:00,True,ducks,4,2024,12,6,6053,l
+2024-12-14,california,tulare,,41100.0,2024-12-29 00:00:00,True,ducks,4,2024,12,6,6107,l
+2024-12-14,louisiana,bossier,,-1.0,-1,False,backyard,4,2024,12,22,22015,
+2024-12-13,california,tulare,,514500.0,2025-01-27 00:00:00,True,ckn-broilers,4,2024,12,6,6107,vl
+2024-12-13,illinois,livingston,,40500.0,2025-01-15 00:00:00,True,turkeys,4,2024,12,17,17105,l
+2024-12-13,wisconsin,barron,,13200.0,2025-01-02 00:00:00,True,turkeys,4,2024,12,55,55005,l
+2024-12-12,arkansas,craighead,,-1.0,-1,False,backyard,4,2024,12,5,5031,
+2024-12-12,arkansas,pope,,-1.0,-1,False,backyard,4,2024,12,5,5115,
+2024-12-12,iowa,sac,,45200.0,2025-01-07 00:00:00,True,turkeys,4,2024,12,19,19161,l
+2024-12-12,south dakota,kingsbury,,39300.0,2024-12-26 00:00:00,True,turkeys,4,2024,12,46,46077,l
+2024-12-11,iowa,palo alto,,31100.0,2024-12-30 00:00:00,True,turkeys,4,2024,12,19,19147,l
+2024-12-11,iowa,sioux,,1575700.0,2025-01-03 00:00:00,True,ckn-layers,4,2024,12,19,19167,vl
+2024-12-11,nebraska,dodge,,-1.0,-1,False,backyard,4,2024,12,31,31053,
+2024-12-11,oklahoma,adair,,40000.0,2025-01-08 00:00:00,False,backyard,4,2024,12,40,40001,l
+2024-12-11,south dakota,brule,,50900.0,2024-12-31 00:00:00,True,turkeys,4,2024,12,46,46015,l
+2024-12-10,california,stanislaus,,82600.0,2025-01-23 00:00:00,True,ducks,4,2024,12,6,6099,l
+2024-12-10,california,tulare,,330200.0,2025-01-29 00:00:00,True,ckn-broilers,4,2024,12,6,6107,vl
+2024-12-10,colorado,la plata,,-1.0,-1,False,backyard,4,2024,12,8,8067,
+2024-12-10,idaho,franklin,,-1.0,-1,False,backyard,4,2024,12,16,16041,
+2024-12-10,idaho,jefferson,,-1.0,-1,False,backyard,4,2024,12,16,16051,
+2024-12-10,kansas,jewell,,-1.0,-1,False,backyard,4,2024,12,20,20089,
+2024-12-10,missouri,cedar,,-1.0,-1,False,backyard,4,2024,12,29,29039,
+2024-12-10,missouri,daviess,,19900.0,2024-12-26 00:00:00,False,backyard,4,2024,12,29,29061,l
+2024-12-10,south dakota,beadle,,52200.0,2024-12-29 00:00:00,True,turkeys,4,2024,12,46,46005,l
+2024-12-10,south dakota,charles mix,,32400.0,2024-12-24 00:00:00,True,turkeys,4,2024,12,46,46023,l
+2024-12-10,south dakota,moody,,46700.0,2024-12-26 00:00:00,True,turkeys,4,2024,12,46,46101,l
+2024-12-09,arkansas,lafayette,,-1.0,-1,False,backyard,4,2024,12,5,5073,
+2024-12-09,california,kern,,45400.0,2025-01-24 00:00:00,False,backyard,4,2024,12,6,6029,l
+2024-12-09,south dakota,beadle,,50600.0,2024-12-23 00:00:00,True,turkeys,4,2024,12,46,46005,l
+2024-12-09,south dakota,hutchinson,,42800.0,2024-12-22 00:00:00,True,turkeys,4,2024,12,46,46067,l
+2024-12-06,california,stanislaus,,44100.0,2025-02-28 00:00:00,False,backyard,4,2024,12,6,6099,l
+2024-12-06,colorado,pitkin,,-1.0,-1,False,backyard,4,2024,12,8,8097,
+2024-12-06,iowa,sioux,,4200000.0,2025-01-07 00:00:00,True,ckn-layers,4,2024,12,19,19167,vl
+2024-12-06,nebraska,nemaha,,12400.0,2024-12-31 00:00:00,True,turkeys,4,2024,12,31,31127,l
+2024-12-06,wyoming,washakie,,-1.0,-1,False,backyard,4,2024,12,56,56043,
+2024-12-05,california,merced,,1723800.0,2025-02-05 00:00:00,True,ckn-layers,4,2024,12,6,6047,vl
+2024-12-05,california,merced,,793700.0,2025-02-13 00:00:00,True,ckn-layers,4,2024,12,6,6047,vl
+2024-12-05,california,merced,,306100.0,2025-02-28 00:00:00,True,ckn-layers,4,2024,12,6,6047,vl
+2024-12-05,california,san joaquin,,13000.0,2025-01-12 00:00:00,True,ducks,4,2024,12,6,6077,l
+2024-12-04,california,riverside,,-1.0,-1,False,backyard,4,2024,12,6,6065,
+2024-12-04,california,sacramento,,61200.0,2024-12-28 00:00:00,True,turkeys,4,2024,12,6,6067,l
+2024-12-04,california,stanislaus,,23100.0,2025-01-01 00:00:00,True,turkeys,4,2024,12,6,6099,l
+2024-12-04,california,stanislaus,,720800.0,2025-02-04 00:00:00,True,ckn-layers,4,2024,12,6,6099,vl
+2024-12-04,california,stanislaus,,57700.0,2025-02-04 00:00:00,True,turkeys,4,2024,12,6,6099,l
+2024-12-04,south dakota,charles mix,,65200.0,2024-12-23 00:00:00,True,turkeys,4,2024,12,46,46023,l
+2024-12-03,california,fresno,,237100.0,2024-12-29 00:00:00,True,ckn-broilers,4,2024,12,6,6019,vl
+2024-12-03,kansas,douglas,,-1.0,-1,False,backyard,4,2024,12,20,20045,
+2024-12-03,oklahoma,adair,,63700.0,2025-01-08 00:00:00,True,ckn-broilers,4,2024,12,40,40001,l
+2024-12-03,south dakota,mcpherson,,78200.0,2025-01-07 00:00:00,True,turkeys,4,2024,12,46,46089,l
+2024-12-03,south dakota,spink,,41400.0,2025-01-07 00:00:00,True,turkeys,4,2024,12,46,46115,l
+2024-12-03,utah,utah,,-1.0,-1,False,backyard,4,2024,12,49,49049,
+2024-12-02,north dakota,bottineau,,30.0,2025-01-14 00:00:00,False,backyard,4,2024,12,38,38009,s
+2024-11-29,california,fresno,,23100.0,2024-12-29 00:00:00,True,ducks,4,2024,11,6,6019,l
+2024-11-29,california,fresno,,266400.0,2025-01-01 00:00:00,True,ckn-broilers,4,2024,11,6,6019,vl
+2024-11-29,california,merced,,25200.0,2024-12-22 00:00:00,True,turkeys,4,2024,11,6,6047,l
+2024-11-29,california,tulare,,26500.0,2025-01-04 00:00:00,True,ducks,4,2024,11,6,6107,l
+2024-11-29,minnesota,meeker,,223800.0,2024-12-26 00:00:00,True,turkeys,4,2024,11,27,27093,vl
+2024-11-29,tennessee,gibson,,37700.0,2024-12-21 00:00:00,True,ckn-broilers,4,2024,11,47,47053,l
+2024-11-27,minnesota,meeker,,24700.0,2024-12-19 00:00:00,True,turkeys,4,2024,11,27,27093,l
+2024-11-27,north dakota,ransom,,59500.0,2025-01-14 00:00:00,True,turkeys,4,2024,11,38,38073,l
+2024-11-27,oregon,union,,-1.0,-1,False,backyard,4,2024,11,41,41061,
+2024-11-27,south dakota,beadle,,41100.0,2024-12-18 00:00:00,True,turkeys,4,2024,11,46,46005,l
+2024-11-27,south dakota,faulk,,56000.0,2024-12-19 00:00:00,True,turkeys,4,2024,11,46,46049,l
+2024-11-27,utah,sanpete,,51800.0,2024-12-23 00:00:00,True,turkeys,4,2024,11,49,49039,l
+2024-11-25,minnesota,meeker,,30500.0,2024-12-18 00:00:00,True,turkeys,4,2024,11,27,27093,l
+2024-11-22,california,merced,,538600.0,2025-01-04 00:00:00,True,ckn-layers,4,2024,11,6,6047,vl
+2024-11-22,north dakota,mchenry,,80.0,2025-01-14 00:00:00,False,backyard,4,2024,11,38,38049,s
+2024-11-21,arizona,maricopa,,-1.0,-1,False,backyard,4,2024,11,4,4013,
+2024-11-21,california,madera,,-1.0,-1,False,backyard,4,2024,11,6,6039,
+2024-11-21,california,tulare,,96900.0,2025-01-03 00:00:00,True,ducks,4,2024,11,6,6107,l
+2024-11-21,idaho,lemhi,,-1.0,-1,False,backyard,4,2024,11,16,16059,
+2024-11-21,oklahoma,roger mills,,-1.0,-1,False,backyard,4,2024,11,40,40129,
+2024-11-21,utah,piute,,35500.0,2024-12-28 00:00:00,True,turkeys,4,2024,11,49,49031,l
+2024-11-21,utah,salt lake,,-1.0,-1,False,backyard,4,2024,11,49,49035,
+2024-11-20,california,kern,,1022400.0,2025-01-27 00:00:00,True,ckn-layers,4,2024,11,6,6029,vl
+2024-11-20,california,marin,,6500.0,2025-01-31 00:00:00,True,ducks,4,2024,11,6,6041,l
+2024-11-19,california,fresno,,172800.0,2024-12-29 00:00:00,True,ckn-broilers,4,2024,11,6,6019,vl
+2024-11-19,california,merced,,38200.0,2025-01-04 00:00:00,True,turkeys,4,2024,11,6,6047,l
+2024-11-19,illinois,henry,,5600.0,2025-01-03 00:00:00,False,backyard,4,2024,11,17,17073,l
+2024-11-19,south dakota,lake,,-1.0,-1,False,backyard,4,2024,11,46,46079,
+2024-11-19,washington,whatcom,,-1.0,-1,False,backyard,4,2024,11,53,53073,
+2024-11-18,hawaii,honolulu,,-1.0,-1,False,backyard,4,2024,11,15,15003,
+2024-11-18,minnesota,martin,,-1.0,-1,False,backyard,4,2024,11,27,27091,
+2024-11-18,minnesota,martin,,-1.0,-1,False,backyard,4,2024,11,27,27091,
+2024-11-15,california,stanislaus,,21500.0,2024-12-03 00:00:00,True,turkeys,4,2024,11,6,6099,l
+2024-11-15,hawaii,honolulu,,-1.0,-1,False,backyard,4,2024,11,15,15003,
+2024-11-15,utah,piute,,35000.0,2024-12-25 00:00:00,True,turkeys,4,2024,11,49,49031,l
+2024-11-14,california,fresno,,17700.0,2024-12-17 00:00:00,True,turkeys,4,2024,11,6,6019,l
+2024-11-14,california,fresno,,17500.0,2024-12-17 00:00:00,True,turkeys,4,2024,11,6,6019,l
+2024-11-14,california,fresno,,39600.0,2024-12-18 00:00:00,True,turkeys,4,2024,11,6,6019,l
+2024-11-14,california,fresno,,259000.0,2024-12-21 00:00:00,True,ckn-broilers,4,2024,11,6,6019,vl
+2024-11-14,california,kings,,279300.0,2024-12-12 00:00:00,True,ckn-broilers,4,2024,11,6,6031,vl
+2024-11-14,california,kings,,53300.0,2024-12-19 00:00:00,True,ckn-broilers,4,2024,11,6,6031,l
+2024-11-14,california,kings,,-1.0,-1,False,backyard,4,2024,11,6,6031,
+2024-11-14,california,merced,,53200.0,2025-01-18 00:00:00,True,turkeys,4,2024,11,6,6047,l
+2024-11-14,california,san joaquin,,29100.0,2024-12-21 00:00:00,True,ckn-broilers,4,2024,11,6,6077,l
+2024-11-14,colorado,weld,,-1.0,-1,False,backyard,4,2024,11,8,8123,
+2024-11-13,arizona,pinal,,829200.0,2024-12-20 00:00:00,True,ckn-layers,4,2024,11,4,4021,vl
+2024-11-13,oregon,malheur,,-1.0,-1,False,backyard,4,2024,11,41,41045,
+2024-11-12,california,fresno,,237700.0,2024-12-06 00:00:00,True,ckn-broilers,4,2024,11,6,6019,vl
+2024-11-12,california,fresno,,34800.0,2025-01-25 00:00:00,True,turkeys,4,2024,11,6,6019,l
+2024-11-12,california,kern,,2155100.0,2025-01-10 00:00:00,True,ckn-layers,4,2024,11,6,6029,vl
+2024-11-12,california,tulare,,-1.0,-1,False,backyard,4,2024,11,6,6107,
+2024-11-12,montana,missoula,,280.0,2024-12-02 00:00:00,False,backyard,4,2024,11,30,30063,m
+2024-11-12,utah,piute,,37500.0,2024-12-19 00:00:00,True,turkeys,4,2024,11,49,49031,l
+2024-11-07,washington,snohomish,,-1.0,-1,False,backyard,4,2024,11,53,53061,
+2024-11-02,california,sacramento,,48300.0,2024-12-12 00:00:00,True,turkeys,4,2024,11,6,6067,l
+2024-11-02,california,sonoma,,-1.0,-1,False,backyard,4,2024,11,6,6097,
+2024-11-01,montana,flathead,,-1.0,-1,False,backyard,4,2024,11,30,30029,
+2024-11-01,oregon,jackson,,-1.0,-1,False,backyard,4,2024,11,41,41029,
+2024-11-01,washington,okanogan,,-1.0,-1,False,backyard,4,2024,11,53,53047,
+2024-11-01,washington,stevens,,-1.0,-1,False,backyard,4,2024,11,53,53065,
+2024-10-30,california,fresno,,204600.0,2024-12-09 00:00:00,True,ckn-broilers,4,2024,10,6,6019,vl
+2024-10-30,california,kings,,117200.0,2024-12-15 00:00:00,True,ckn-broilers,4,2024,10,6,6031,vl
+2024-10-30,pennsylvania,venango,,-1.0,-1,False,backyard,4,2024,10,42,42121,
+2024-10-29,california,kings,,104500.0,2024-12-06 00:00:00,True,ckn-broilers,4,2024,10,6,6031,vl
+2024-10-29,california,kings,,305500.0,2024-12-06 00:00:00,True,ckn-broilers,4,2024,10,6,6031,vl
+2024-10-29,california,tulare,,-1.0,-1,False,backyard,4,2024,10,6,6107,
+2024-10-25,oregon,crook,,-1.0,-1,False,backyard,4,2024,10,41,41013,
+2024-10-25,washington,lewis,,-1.0,-1,False,backyard,4,2024,10,53,53041,
+2024-10-24,california,tulare,,6000.0,2024-11-25 00:00:00,True,ckn-broilers,4,2024,10,6,6107,l
+2024-10-23,oregon,clackamas,,150000.0,2024-11-29 00:00:00,True,ckn-layers,4,2024,10,41,41005,vl
+2024-10-17,washington,kitsap,,-1.0,-1,False,backyard,4,2024,10,53,53035,
+2024-10-16,california,tulare,,786600.0,2024-12-02 00:00:00,True,ckn-broilers,4,2024,10,6,6107,vl
+2024-10-15,utah,cache,,1852900.0,2024-11-17 00:00:00,True,ckn-layers,4,2024,10,49,49005,vl
+2024-10-15,washington,franklin,,839700.0,2024-11-27 00:00:00,True,ckn-layers,4,2024,10,53,53021,vl
+2024-10-07,florida,miami-dade,,70.0,2024-10-23 00:00:00,False,mixed,4,2024,10,12,12086,s
+2024-10-03,idaho,canyon,,100.0,2024-11-07 00:00:00,False,backyard,4,2024,10,16,16027,m
+2024-09-27,idaho,lincoln,,700.0,2024-10-16 00:00:00,False,backyard,3,2024,9,16,16063,m
+2024-09-18,california,merced,,64800.0,2024-10-11 00:00:00,True,turkeys,3,2024,9,6,6047,l
+2024-09-18,florida,orange,,-1.0,-1,False,mixed,3,2024,9,12,12095,
+2024-08-20,florida,hillsborough,,-1.0,-1,False,mixed,3,2024,8,12,12057,
+2024-08-05,florida,miami-dade,,5400.0,2024-08-21 00:00:00,False,backyard,3,2024,8,12,12086,l
+2024-07-24,florida,hendry,,-1.0,-1,False,backyard,3,2024,7,12,12051,
+2024-07-19,colorado,weld,,300800.0,2024-08-27 00:00:00,True,ckn-layers,3,2024,7,8,8123,vl
+2024-07-19,florida,miami-dade,,-1.0,-1,False,mixed,3,2024,7,12,12086,
+2024-07-19,florida,miami-dade,,-1.0,-1,False,mixed,3,2024,7,12,12086,
+2024-07-19,florida,miami-dade,,-1.0,-1,False,mixed,3,2024,7,12,12086,
+2024-07-16,colorado,weld,,1313800.0,2024-08-12 00:00:00,True,ckn-layers,3,2024,7,8,8123,vl
+2024-07-11,idaho,twin falls,,-1.0,-1,False,backyard,3,2024,7,16,16083,
+2024-07-09,minnesota,kandiyohi,,4200.0,2024-08-02 00:00:00,True,turkeys,3,2024,7,27,27067,l
+2024-07-09,minnesota,kandiyohi,,21900.0,2024-08-01 00:00:00,True,turkeys,3,2024,7,27,27067,l
+2024-07-09,minnesota,renville,,15400.0,2024-08-10 00:00:00,True,turkeys,3,2024,7,27,27129,l
+2024-07-08,colorado,weld,,1790800.0,2024-08-27 00:00:00,True,ckn-layers,3,2024,7,8,8123,vl
+2024-06-27,colorado,morgan,,-1.0,-1,False,backyard,2,2024,6,8,8087,
+2024-06-27,minnesota,otter tail,,67400.0,2024-07-18 00:00:00,True,turkeys,2,2024,6,27,27111,l
+2024-06-27,minnesota,swift,,25300.0,2024-07-17 00:00:00,True,turkeys,2,2024,6,27,27151,l
+2024-06-26,colorado,larimer,,-1.0,-1,False,backyard,2,2024,6,8,8069,
+2024-06-24,minnesota,stearns,,-1.0,-1,False,backyard,2,2024,6,27,27145,
+2024-06-21,iowa,sac,,46100.0,2024-07-12 00:00:00,True,turkeys,2,2024,6,19,19161,l
+2024-06-18,minnesota,pipestone,,70800.0,2024-07-11 00:00:00,True,turkeys,2,2024,6,27,27117,l
+2024-06-18,minnesota,swift,,113600.0,2024-07-14 00:00:00,True,turkeys,2,2024,6,27,27151,vl
+2024-06-13,minnesota,stearns,,32900.0,2024-07-06 00:00:00,True,turkeys,2,2024,6,27,27145,l
+2024-06-12,minnesota,lyon,,89500.0,2024-07-01 00:00:00,True,turkeys,2,2024,6,27,27083,l
+2024-06-10,idaho,jerome,,-1.0,-1,False,backyard,2,2024,6,16,16053,
+2024-06-03,iowa,cherokee,,100000.0,2024-07-05 00:00:00,True,turkeys,2,2024,6,19,19035,vl
+2024-05-31,minnesota,stearns,,43000.0,2024-06-20 00:00:00,True,turkeys,2,2024,5,27,27145,l
+2024-05-31,south carolina,richland,,-1.0,-1,False,backyard,2,2024,5,45,45079,
+2024-05-29,minnesota,stearns,,32400.0,2024-06-18 00:00:00,True,turkeys,2,2024,5,27,27145,l
+2024-05-28,iowa,sioux,,4287400.0,2024-07-05 00:00:00,True,ckn-layers,2,2024,5,19,19167,vl
+2024-05-21,minnesota,meeker,,1368800.0,2024-06-18 00:00:00,True,ckn-layers,2,2024,5,27,27093,vl
+2024-05-21,minnesota,morrison,,51900.0,2024-06-07 00:00:00,True,turkeys,2,2024,5,27,27097,l
+2024-05-21,minnesota,stearns,,17100.0,2024-06-05 00:00:00,True,turkeys,2,2024,5,27,27145,l
+2024-05-21,minnesota,stearns,,-1.0,-1,True,turkeys,2,2024,5,27,27145,
+2024-05-21,minnesota,stearns,,6800.0,2024-06-08 00:00:00,True,turkeys,2,2024,5,27,27145,l
+2024-05-20,idaho,jerome,,80.0,2024-06-06 00:00:00,False,backyard,2,2024,5,16,16053,s
+2024-05-10,idaho,jerome,,1100.0,2024-06-06 00:00:00,False,backyard,2,2024,5,16,16053,l
+2024-05-10,idaho,jerome,,-1.0,-1,False,backyard,2,2024,5,16,16053,
+2024-05-10,michigan,ionia,,-1.0,-1,False,backyard,2,2024,5,26,26067,
+2024-05-09,california,san francisco,,-1.0,-1,False,mixed,2,2024,5,6,6075,
+2024-05-06,idaho,cassia,,-1.0,-1,False,backyard,2,2024,5,16,16031,
+2024-05-02,michigan,gratiot,,26400.0,2024-06-06 00:00:00,True,turkeys,2,2024,5,26,26057,l
+2024-05-02,minnesota,dodge,,14100.0,2024-05-23 00:00:00,True,mixed,2,2024,5,27,27039,l
+2024-04-30,florida,clay,,-1.0,-1,False,backyard,2,2024,4,12,12019,
+2024-04-26,michigan,gratiot,,27700.0,2024-05-30 00:00:00,True,turkeys,2,2024,4,26,26057,l
+2024-04-25,idaho,cassia,,-1.0,-1,False,backyard,2,2024,4,16,16031,
+2024-04-24,michigan,ottawa,,104000.0,2024-06-03 00:00:00,True,turkeys,2,2024,4,26,26139,vl
+2024-04-17,michigan,newaygo,,67200.0,2024-06-06 00:00:00,True,turkeys,2,2024,4,26,26123,l
+2024-04-17,new mexico,roosevelt,,51800.0,2024-07-26 00:00:00,True,mixed,2,2024,4,35,35041,l
+2024-04-16,michigan,ionia,,2422700.0,2024-06-01 00:00:00,True,ckn-layers,2,2024,4,26,26067,vl
+2024-04-15,florida,miami-dade,,-1.0,-1,False,mixed,2,2024,4,12,12086,
+2024-04-15,new mexico,roosevelt,,15900.0,2024-05-29 00:00:00,True,mixed,2,2024,4,35,35041,l
+2024-04-12,new mexico,roosevelt,,61500.0,2024-06-20 00:00:00,True,mixed,2,2024,4,35,35041,l
+2024-04-11,minnesota,meeker,,68500.0,2024-05-05 00:00:00,True,turkeys,2,2024,4,27,27093,l
+2024-04-10,kansas,grant,,17700.0,2024-05-03 00:00:00,False,backyard,2,2024,4,20,20067,l
+2024-04-09,michigan,ionia,,2147500.0,2024-05-25 00:00:00,True,ckn-layers,2,2024,4,26,26067,vl
+2024-04-02,michigan,ionia,,1928500.0,2024-05-23 00:00:00,True,ckn-layers,2,2024,4,26,26067,vl
+2024-04-02,texas,parmer,,1894100.0,2024-05-21 00:00:00,True,ckn-layers,2,2024,4,48,48369,vl
+2024-03-28,north carolina,guilford,,-1.0,-1,False,backyard,1,2024,3,37,37081,
+2024-03-20,texas,deaf smith,,-1.0,-1,False,backyard,1,2024,3,48,48117,
+2024-03-18,maine,knox,,-1.0,-1,False,backyard,1,2024,3,23,23013,
+2024-03-14,oregon,klamath,,-1.0,-1,False,backyard,1,2024,3,41,41035,
+2024-03-12,south dakota,hutchinson,,31200.0,2024-04-03 00:00:00,True,turkeys,1,2024,3,46,46067,l
+2024-03-11,minnesota,clay,,-1.0,-1,False,backyard,1,2024,3,27,27027,
+2024-03-11,texas,moore,,-1.0,-1,False,backyard,1,2024,3,48,48341,
+2024-03-07,massachusetts,essex,,70.0,2024-03-21 00:00:00,False,backyard,1,2024,3,25,25009,s
+2024-02-27,minnesota,stevens,,-1.0,-1,False,backyard,1,2024,2,27,27149,
+2024-02-27,ohio,mahoning,,-1.0,-1,False,backyard,1,2024,2,39,39099,
+2024-02-26,new york,monroe,,-1.0,-1,False,backyard,1,2024,2,36,36055,
+2024-02-23,indiana,allen,,-1.0,-1,False,backyard,1,2024,2,18,18003,
+2024-02-23,missouri,dallas,,20300.0,2024-03-14 00:00:00,False,backyard,1,2024,2,29,29059,l
+2024-02-23,new york,onondaga,,-1.0,-1,False,backyard,1,2024,2,36,36067,
+2024-02-22,maryland,charles,,-1.0,-1,False,backyard,1,2024,2,24,24017,
+2024-02-21,missouri,dallas,,28500.0,2024-03-16 00:00:00,True,turkeys,1,2024,2,29,29059,l
+2024-02-21,missouri,dallas,,31000.0,2024-03-16 00:00:00,True,turkeys,1,2024,2,29,29059,l
+2024-02-21,missouri,dallas,,12300.0,2024-03-16 00:00:00,True,turkeys,1,2024,2,29,29059,l
+2024-02-21,ohio,franklin,,-1.0,-1,False,backyard,1,2024,2,39,39049,
+2024-02-20,north carolina,duplin,,20900.0,2024-03-11 00:00:00,True,turkeys,1,2024,2,37,37061,l
+2024-02-16,west virginia,kanawha,,-1.0,-1,False,backyard,1,2024,2,54,54039,
+2024-02-12,idaho,twin falls,,-1.0,-1,False,backyard,1,2024,2,16,16083,
+2024-02-12,pennsylvania,schuylkill,,-1.0,-1,False,backyard,1,2024,2,42,42107,
+2024-02-09,north carolina,lenoir,,32400.0,2024-03-24 00:00:00,True,turkeys,1,2024,2,37,37107,l
+2024-02-08,colorado,delta,,66500.0,2024-03-05 00:00:00,True,ckn-broilers,1,2024,2,8,8029,l
+2024-02-08,florida,miami-dade,,-1.0,-1,False,mixed,1,2024,2,12,12086,
+2024-02-08,idaho,owyhee,,-1.0,-1,False,backyard,1,2024,2,16,16073,
+2024-02-06,massachusetts,essex,,-1.0,-1,False,backyard,1,2024,2,25,25009,
+2024-02-06,nebraska,gage,,102000.0,2024-02-27 00:00:00,True,ckn-broilers,1,2024,2,31,31067,vl
+2024-02-06,pennsylvania,wayne,,-1.0,-1,False,backyard,1,2024,2,42,42127,
+2024-01-31,california,placer,,-1.0,-1,False,backyard,1,2024,1,6,6061,
+2024-01-25,indiana,daviess,,13100.0,2024-02-14 00:00:00,True,turkeys,1,2024,1,18,18027,l
+2024-01-25,maine,kennebec,,-1.0,-1,False,backyard,1,2024,1,23,23011,
+2024-01-23,south dakota,edmunds,,22200.0,2024-03-08 00:00:00,True,mixed,1,2024,1,46,46045,l
+2024-01-22,kansas,mitchell,,5800.0,2024-02-07 00:00:00,True,mixed,1,2024,1,20,20123,l
+2024-01-22,south carolina,orangeburg,,-1.0,-1,False,backyard,1,2024,1,45,45075,
+2024-01-18,california,merced,,285600.0,2024-02-14 00:00:00,True,ckn-layers,1,2024,1,6,6047,vl
+2024-01-17,south carolina,horry,,-1.0,-1,False,backyard,1,2024,1,45,45051,
+2024-01-16,kansas,mitchell,,220.0,2024-01-26 00:00:00,False,backyard,1,2024,1,20,20123,m
+2024-01-16,massachusetts,barnstable,,-1.0,-1,False,backyard,1,2024,1,25,25001,
+2024-01-16,montana,cascade,,-1.0,-1,False,backyard,1,2024,1,30,30013,
+2024-01-16,south dakota,spink,,1900.0,2024-02-15 00:00:00,True,mixed,1,2024,1,46,46115,l
+2024-01-11,kansas,mitchell,,1400.0,2024-01-29 00:00:00,True,mixed,1,2024,1,20,20123,l
+2024-01-10,kansas,mitchell,,32000.0,2024-01-29 00:00:00,True,mixed,1,2024,1,20,20123,l
+2024-01-10,kansas,mitchell,,3700.0,2024-01-29 00:00:00,True,mixed,1,2024,1,20,20123,l
+2024-01-10,maine,york,,-1.0,-1,False,backyard,1,2024,1,23,23031,
+2024-01-10,minnesota,sherburne,,-1.0,-1,False,backyard,1,2024,1,27,27141,
+2024-01-08,california,merced,,-1.0,-1,False,backyard,1,2024,1,6,6047,
+2024-01-08,california,sacramento,,-1.0,-1,False,backyard,1,2024,1,6,6067,
+2024-01-08,colorado,arapahoe,,-1.0,-1,False,backyard,1,2024,1,8,8005,
+2024-01-05,wisconsin,washburn,,41000.0,2024-01-24 00:00:00,True,turkeys,1,2024,1,55,55129,l
+2024-01-04,kansas,rice,,240000.0,2024-01-19 00:00:00,True,ckn-layers,1,2024,1,20,20159,vl
+2024-01-03,california,merced,,764300.0,2024-02-29 00:00:00,True,ckn-layers,1,2024,1,6,6047,vl
+2024-01-03,california,merced,,534800.0,2024-01-16 00:00:00,True,ckn-broilers,1,2024,1,6,6047,vl
+2024-01-03,california,sonoma,,77900.0,2024-02-03 00:00:00,True,ckn-broilers,1,2024,1,6,6097,l
+2023-12-30,south dakota,edmunds,,1400.0,2024-03-08 00:00:00,True,mixed,4,2023,12,46,46045,l
+2023-12-29,north dakota,mcintosh,,-1.0,-1,False,backyard,4,2023,12,38,38051,
+2023-12-29,texas,carson,,-1.0,-1,False,backyard,4,2023,12,48,48065,
+2023-12-28,california,marin,,151000.0,2024-02-11 00:00:00,True,ckn-layers,4,2023,12,6,6041,vl
+2023-12-28,california,sonoma,,52400.0,2024-02-17 00:00:00,True,ckn-layers,4,2023,12,6,6097,l
+2023-12-28,california,sonoma,,37300.0,2024-01-26 00:00:00,True,ckn-layers,4,2023,12,6,6097,l
+2023-12-28,missouri,audrain,,330.0,2024-01-13 00:00:00,False,backyard,4,2023,12,29,29007,m
+2023-12-28,montana,missoula,,-1.0,-1,False,backyard,4,2023,12,30,30063,
+2023-12-27,michigan,muskegon,,31500.0,2024-01-26 00:00:00,True,turkeys,4,2023,12,26,26121,l
+2023-12-27,minnesota,todd,,78800.0,2024-01-19 00:00:00,True,turkeys,4,2023,12,27,27153,l
+2023-12-27,ohio,hardin,,1363900.0,2024-02-08 00:00:00,True,ckn-layers,4,2023,12,39,39065,vl
+2023-12-27,oklahoma,garfield,,-1.0,-1,False,backyard,4,2023,12,40,40047,
+2023-12-27,pennsylvania,northumberland,,98300.0,2024-01-19 00:00:00,True,mixed,4,2023,12,42,42097,l
+2023-12-26,california,merced,,709000.0,2024-02-12 00:00:00,True,ckn-layers,4,2023,12,6,6047,vl
+2023-12-21,nebraska,dodge,,-1.0,-1,False,backyard,4,2023,12,31,31053,
+2023-12-21,south dakota,edmunds,,3800.0,2024-03-08 00:00:00,True,mixed,4,2023,12,46,46045,l
+2023-12-20,california,merced,,243300.0,2024-02-29 00:00:00,True,ckn-layers,4,2023,12,6,6047,vl
+2023-12-20,california,merced,,73700.0,2024-01-13 00:00:00,True,turkeys,4,2023,12,6,6047,l
+2023-12-20,iowa,mahaska,,-1.0,-1,False,backyard,4,2023,12,19,19123,
+2023-12-20,oregon,benton,,-1.0,-1,False,backyard,4,2023,12,41,41003,
+2023-12-20,south dakota,charles mix,,50.0,2024-01-17 00:00:00,True,mixed,4,2023,12,46,46023,s
+2023-12-19,california,lassen,,-1.0,-1,False,backyard,4,2023,12,6,6035,
+2023-12-19,california,sonoma,,3600.0,2024-02-28 00:00:00,True,ducks,4,2023,12,6,6097,l
+2023-12-19,kansas,barton,,-1.0,-1,False,backyard,4,2023,12,20,20009,
+2023-12-19,kansas,mcpherson,,20000.0,2024-01-13 00:00:00,False,backyard,4,2023,12,20,20113,l
+2023-12-19,kansas,rice,,800000.0,2024-01-13 00:00:00,True,ckn-layers,4,2023,12,20,20159,vl
+2023-12-19,michigan,muskegon,,47900.0,2024-01-26 00:00:00,True,turkeys,4,2023,12,26,26121,l
+2023-12-19,washington,king,,90.0,2024-01-03 00:00:00,False,backyard,4,2023,12,53,53033,s
+2023-12-18,california,sonoma,,38100.0,2024-02-29 00:00:00,False,backyard,4,2023,12,6,6097,l
+2023-12-18,california,sonoma,,497700.0,2024-02-17 00:00:00,True,ckn-layers,4,2023,12,6,6097,vl
+2023-12-18,kansas,rice,,-1.0,-1,False,backyard,4,2023,12,20,20159,
+2023-12-18,south dakota,edmunds,,1000.0,2024-03-08 00:00:00,True,mixed,4,2023,12,46,46045,l
+2023-12-15,idaho,latah,,200.0,2023-12-30 00:00:00,False,backyard,4,2023,12,16,16057,m
+2023-12-15,minnesota,waseca,,-1.0,-1,False,backyard,4,2023,12,27,27161,
+2023-12-14,arkansas,scott,,-1.0,-1,False,backyard,4,2023,12,5,5127,
+2023-12-14,ohio,darke,,522300.0,2024-01-20 00:00:00,True,ckn-layers,4,2023,12,39,39037,vl
+2023-12-14,oregon,clatsop,,-1.0,-1,False,backyard,4,2023,12,41,41007,
+2023-12-13,california,merced,,1358600.0,2024-03-10 00:00:00,True,ckn-layers,4,2023,12,6,6047,vl
+2023-12-13,california,merced,,183100.0,2024-02-11 00:00:00,True,ckn-broilers,4,2023,12,6,6047,vl
+2023-12-13,california,san joaquin,,6000.0,2024-01-06 00:00:00,True,ducks,4,2023,12,6,6077,l
+2023-12-13,colorado,weld,,-1.0,-1,False,backyard,4,2023,12,8,8123,
+2023-12-13,kansas,mcpherson,,20000.0,2024-01-03 00:00:00,False,backyard,4,2023,12,20,20113,l
+2023-12-13,kansas,rice,,700000.0,2024-01-10 00:00:00,True,ckn-layers,4,2023,12,20,20159,vl
+2023-12-12,alabama,etowah,,-1.0,-1,False,backyard,4,2023,12,1,1055,
+2023-12-12,missouri,st. louis,,-1.0,-1,False,backyard,4,2023,12,29,29189,
+2023-12-12,missouri,st. louis,,-1.0,-1,False,backyard,4,2023,12,29,29510,
+2023-12-12,new york,dutchess,,4200.0,2024-01-03 00:00:00,False,backyard,4,2023,12,36,36027,l
+2023-12-12,south dakota,lake,,76000.0,2024-01-05 00:00:00,True,turkeys,4,2023,12,46,46079,l
+2023-12-11,minnesota,olmsted,,14400.0,2024-01-05 00:00:00,True,turkeys,4,2023,12,27,27109,l
+2023-12-08,iowa,mills,,-1.0,-1,False,backyard,4,2023,12,19,19129,
+2023-12-08,kansas,barton,,-1.0,-1,False,backyard,4,2023,12,20,20009,
+2023-12-08,south dakota,charles mix,,32400.0,2024-01-06 00:00:00,True,turkeys,4,2023,12,46,46023,l
+2023-12-08,wisconsin,barron,,70000.0,2024-01-05 00:00:00,True,turkeys,4,2023,12,55,55005,l
+2023-12-07,arkansas,carroll,,33300.0,2023-12-28 00:00:00,True,turkeys,4,2023,12,5,5015,l
+2023-12-07,california,sonoma,,4900.0,2024-01-13 00:00:00,True,ducks,4,2023,12,6,6097,l
+2023-12-07,california,stanislaus,,258600.0,2023-12-25 00:00:00,True,ckn-broilers,4,2023,12,6,6099,vl
+2023-12-07,michigan,montmorency,,100.0,2024-03-21 00:00:00,False,backyard,4,2023,12,26,26119,m
+2023-12-07,ohio,darke,,15200.0,2023-12-28 00:00:00,True,turkeys,4,2023,12,39,39037,l
+2023-12-07,ohio,hardin,,2613600.0,2024-03-12 00:00:00,True,ckn-layers,4,2023,12,39,39065,vl
+2023-12-07,vermont,orleans,,-1.0,-1,False,backyard,4,2023,12,50,50019,
+2023-12-06,california,sonoma,,232000.0,2024-02-23 00:00:00,True,ckn-layers,4,2023,12,6,6097,vl
+2023-12-06,minnesota,becker,,20600.0,2023-12-27 00:00:00,True,mixed,4,2023,12,27,27005,l
+2023-12-06,minnesota,todd,,64000.0,2023-12-23 00:00:00,True,turkeys,4,2023,12,27,27153,l
+2023-12-06,south dakota,bon homme,,47600.0,2023-12-26 00:00:00,True,turkeys,4,2023,12,46,46009,l
+2023-12-06,south dakota,hamlin,,56200.0,2023-12-24 00:00:00,True,turkeys,4,2023,12,46,46057,l
+2023-12-05,california,stanislaus,,254400.0,2023-12-25 00:00:00,True,ckn-broilers,4,2023,12,6,6099,vl
+2023-12-05,california,stanislaus,,239900.0,2023-12-25 00:00:00,True,ckn-broilers,4,2023,12,6,6099,vl
+2023-12-05,kansas,shawnee,,-1.0,-1,False,backyard,4,2023,12,20,20177,
+2023-12-05,minnesota,otter tail,,26300.0,2023-12-23 00:00:00,True,turkeys,4,2023,12,27,27111,l
+2023-12-05,south dakota,kingsbury,,-1.0,-1,False,backyard,4,2023,12,46,46077,
+2023-12-05,south dakota,spink,,26600.0,2023-12-24 00:00:00,True,turkeys,4,2023,12,46,46115,l
+2023-12-04,arkansas,johnson,,109000.0,2023-12-28 00:00:00,True,ckn-broilers,4,2023,12,5,5071,vl
+2023-12-04,kansas,pottawatomie,,-1.0,-1,False,backyard,4,2023,12,20,20149,
+2023-12-04,south dakota,mcpherson,,40800.0,2023-12-20 00:00:00,True,turkeys,4,2023,12,46,46089,l
+2023-12-04,wisconsin,barron,,113800.0,2024-01-05 00:00:00,True,turkeys,4,2023,12,55,55005,vl
+2023-12-01,idaho,canyon,,-1.0,-1,False,backyard,4,2023,12,16,16027,
+2023-12-01,iowa,woodbury,,-1.0,-1,False,backyard,4,2023,12,19,19193,
+2023-12-01,michigan,bay,,-1.0,-1,False,backyard,4,2023,12,26,26017,
+2023-12-01,ohio,darke,,33000.0,2023-12-30 00:00:00,True,turkeys,4,2023,12,39,39037,l
+2023-11-30,california,san benito,,5000.0,2023-12-22 00:00:00,True,ducks,4,2023,11,6,6069,l
+2023-11-30,california,sonoma,,82500.0,2024-02-23 00:00:00,True,ckn-layers,4,2023,11,6,6097,l
+2023-11-30,colorado,bent,,4100.0,2023-12-15 00:00:00,False,backyard,4,2023,11,8,8011,l
+2023-11-30,montana,lewis and clark,,-1.0,-1,False,backyard,4,2023,11,30,30049,
+2023-11-30,south dakota,minnehaha,,-1.0,-1,False,backyard,4,2023,11,46,46099,
+2023-11-29,arkansas,carroll,,81200.0,2023-12-23 00:00:00,True,ckn-broilers,4,2023,11,5,5015,l
+2023-11-29,colorado,morgan,,-1.0,-1,False,backyard,4,2023,11,8,8087,
+2023-11-29,iowa,woodbury,,-1.0,-1,False,backyard,4,2023,11,19,19193,
+2023-11-29,minnesota,becker,,23200.0,2023-12-27 00:00:00,True,turkeys,4,2023,11,27,27005,l
+2023-11-29,minnesota,douglas,,13500.0,2023-12-20 00:00:00,True,turkeys,4,2023,11,27,27041,l
+2023-11-29,minnesota,otter tail,,18800.0,2023-12-18 00:00:00,True,turkeys,4,2023,11,27,27111,l
+2023-11-29,north dakota,dickey,,130.0,2024-01-03 00:00:00,False,backyard,4,2023,11,38,38021,m
+2023-11-28,iowa,sioux,,1616300.0,2024-01-02 00:00:00,True,ckn-layers,4,2023,11,19,19167,vl
+2023-11-28,nebraska,colfax,,-1.0,-1,False,backyard,4,2023,11,31,31037,
+2023-11-28,north dakota,dickey,,60300.0,2024-01-03 00:00:00,True,turkeys,4,2023,11,38,38021,l
+2023-11-28,north dakota,emmons,,-1.0,-1,False,backyard,4,2023,11,38,38029,
+2023-11-28,south dakota,mcpherson,,61800.0,2023-12-20 00:00:00,True,turkeys,4,2023,11,46,46089,l
+2023-11-28,south dakota,yankton,,49000.0,2023-12-22 00:00:00,True,turkeys,4,2023,11,46,46135,l
+2023-11-28,washington,pierce,,-1.0,-1,False,backyard,4,2023,11,53,53053,
+2023-11-28,wisconsin,trempealeau,,23500.0,2023-12-22 00:00:00,True,turkeys,4,2023,11,55,55121,l
+2023-11-28,wisconsin,trempealeau,,48700.0,2023-12-27 00:00:00,True,turkeys,4,2023,11,55,55121,l
+2023-11-27,california,sonoma,,205500.0,2023-12-29 00:00:00,True,ducks,4,2023,11,6,6097,vl
+2023-11-27,minnesota,brown,,7800.0,2023-12-14 00:00:00,True,turkeys,4,2023,11,27,27015,l
+2023-11-24,minnesota,freeborn,,-1.0,-1,False,backyard,4,2023,11,27,27047,
+2023-11-24,minnesota,kandiyohi,,7300.0,2023-12-22 00:00:00,True,turkeys,4,2023,11,27,27067,l
+2023-11-24,minnesota,otter tail,,19400.0,2023-12-13 00:00:00,True,mixed,4,2023,11,27,27111,l
+2023-11-24,oregon,clackamas,,-1.0,-1,False,backyard,4,2023,11,41,41005,
+2023-11-22,minnesota,otter tail,,28000.0,2023-12-13 00:00:00,True,turkeys,4,2023,11,27,27111,l
+2023-11-22,minnesota,stearns,,34200.0,2023-12-07 00:00:00,True,turkeys,4,2023,11,27,27145,l
+2023-11-22,south dakota,brule,,45100.0,2023-12-15 00:00:00,True,turkeys,4,2023,11,46,46015,l
+2023-11-22,wisconsin,trempealeau,,51300.0,2023-12-27 00:00:00,True,turkeys,4,2023,11,55,55121,l
+2023-11-21,florida,broward,,-1.0,-1,False,backyard,4,2023,11,12,12011,
+2023-11-21,georgia,sumter,,30000.0,2023-12-14 00:00:00,True,waterfowl,4,2023,11,13,13261,l
+2023-11-21,maryland,caroline,,192900.0,2023-12-17 00:00:00,True,ckn-broilers,4,2023,11,24,24011,vl
+2023-11-21,minnesota,big stone,,78500.0,2023-12-15 00:00:00,True,turkeys,4,2023,11,27,27011,l
+2023-11-21,minnesota,brown,,6400.0,2023-12-13 00:00:00,True,turkeys,4,2023,11,27,27015,l
+2023-11-21,minnesota,kandiyohi,,8400.0,2023-12-23 00:00:00,True,mixed,4,2023,11,27,27067,l
+2023-11-21,ohio,union,,1348900.0,2024-01-18 00:00:00,True,ckn-layers,4,2023,11,39,39159,vl
+2023-11-21,south dakota,beadle,,78200.0,2023-12-13 00:00:00,True,turkeys,4,2023,11,46,46005,l
+2023-11-21,south dakota,clark,,23600.0,2023-12-07 00:00:00,True,turkeys,4,2023,11,46,46025,l
+2023-11-21,south dakota,clark,,57400.0,2023-12-09 00:00:00,True,turkeys,4,2023,11,46,46025,l
+2023-11-21,south dakota,kingsbury,,28800.0,2023-12-12 00:00:00,True,turkeys,4,2023,11,46,46077,l
+2023-11-21,texas,grimes,,-1.0,-1,False,backyard,4,2023,11,48,48185,
+2023-11-20,california,fresno,,23400.0,2023-12-29 00:00:00,True,ducks,4,2023,11,6,6019,l
+2023-11-20,minnesota,swift,,134300.0,2023-12-12 00:00:00,True,turkeys,4,2023,11,27,27151,vl
+2023-11-20,new mexico,san juan,,-1.0,-1,False,backyard,4,2023,11,35,35045,
+2023-11-20,south dakota,day,,60.0,2024-01-25 00:00:00,False,backyard,4,2023,11,46,46037,s
+2023-11-20,south dakota,edmunds,,30100.0,2023-12-08 00:00:00,True,turkeys,4,2023,11,46,46045,l
+2023-11-20,south dakota,edmunds,,19200.0,2023-12-14 00:00:00,True,turkeys,4,2023,11,46,46045,l
+2023-11-20,south dakota,edmunds,,33400.0,2023-12-07 00:00:00,True,turkeys,4,2023,11,46,46045,l
+2023-11-20,south dakota,walworth,,-1.0,-1,False,backyard,4,2023,11,46,46129,
+2023-11-20,wisconsin,taylor,,-1.0,-1,False,backyard,4,2023,11,55,55119,
+2023-11-17,south dakota,fall river,,-1.0,-1,False,backyard,4,2023,11,46,46047,
+2023-11-16,florida,duval,,-1.0,-1,False,backyard,4,2023,11,12,12031,
+2023-11-16,iowa,benton,,-1.0,-1,False,backyard,4,2023,11,19,19011,
+2023-11-16,minnesota,stearns,,43100.0,2023-12-02 00:00:00,True,turkeys,4,2023,11,27,27145,l
+2023-11-16,oregon,linn,,630700.0,2023-12-29 00:00:00,True,ckn-broilers,4,2023,11,41,41043,vl
+2023-11-16,oregon,marion,,123500.0,2023-12-08 00:00:00,True,ckn-broilers,4,2023,11,41,41047,vl
+2023-11-15,michigan,cass,,-1.0,-1,False,backyard,4,2023,11,26,26027,
+2023-11-15,north dakota,lamoure,,25100.0,2023-12-22 00:00:00,True,turkeys,4,2023,11,38,38045,l
+2023-11-15,north dakota,mcintosh,,100.0,2023-12-21 00:00:00,False,backyard,4,2023,11,38,38051,m
+2023-11-15,south dakota,edmunds,,24500.0,2023-12-08 00:00:00,True,turkeys,4,2023,11,46,46045,l
+2023-11-14,iowa,cerro gordo,,-1.0,-1,False,backyard,4,2023,11,19,19033,
+2023-11-14,iowa,jones,,-1.0,-1,False,backyard,4,2023,11,19,19105,
+2023-11-14,iowa,kossuth,,13000.0,2023-12-01 00:00:00,False,backyard,4,2023,11,19,19109,l
+2023-11-14,iowa,taylor,,1121100.0,2024-01-02 00:00:00,True,ckn-layers,4,2023,11,19,19173,vl
+2023-11-14,minnesota,kandiyohi,,35600.0,2023-12-07 00:00:00,True,turkeys,4,2023,11,27,27067,l
+2023-11-14,minnesota,redwood,,18700.0,2023-12-02 00:00:00,True,turkeys,4,2023,11,27,27127,l
+2023-11-14,missouri,jasper,,29300.0,2023-12-06 00:00:00,True,turkeys,4,2023,11,29,29097,l
+2023-11-14,montana,missoula,,-1.0,-1,False,backyard,4,2023,11,30,30063,
+2023-11-14,oregon,deschutes,,-1.0,-1,False,backyard,4,2023,11,41,41017,
+2023-11-14,oregon,marion,,-1.0,-1,False,backyard,4,2023,11,41,41047,
+2023-11-14,texas,ellis,,-1.0,-1,False,backyard,4,2023,11,48,48139,
+2023-11-13,colorado,montrose,,-1.0,-1,False,backyard,4,2023,11,8,8085,
+2023-11-13,idaho,bonneville,,-1.0,-1,False,backyard,4,2023,11,16,16019,
+2023-11-13,north dakota,mcintosh,,-1.0,-1,False,backyard,4,2023,11,38,38051,
+2023-11-09,minnesota,redwood,,18500.0,2023-11-30 00:00:00,True,turkeys,4,2023,11,27,27127,l
+2023-11-09,minnesota,steele,,46900.0,2023-12-06 00:00:00,True,turkeys,4,2023,11,27,27147,l
+2023-11-09,montana,sweet grass,,-1.0,-1,False,backyard,4,2023,11,30,30097,
+2023-11-09,montana,wheatland,,4500.0,2023-12-21 00:00:00,False,backyard,4,2023,11,30,30107,l
+2023-11-09,south dakota,mcpherson,,58400.0,2023-11-28 00:00:00,True,turkeys,4,2023,11,46,46089,l
+2023-11-09,south dakota,roberts,,51200.0,2023-12-01 00:00:00,True,turkeys,4,2023,11,46,46109,l
+2023-11-08,iowa,kossuth,,8200.0,2023-11-28 00:00:00,False,backyard,4,2023,11,19,19109,l
+2023-11-08,south dakota,charles mix,,74100.0,2023-11-29 00:00:00,True,turkeys,4,2023,11,46,46023,l
+2023-11-08,south dakota,clark,,8500.0,2023-12-07 00:00:00,True,mixed,4,2023,11,46,46025,l
+2023-11-08,utah,utah,,-1.0,-1,False,backyard,4,2023,11,49,49049,
+2023-11-07,minnesota,stearns,,70900.0,2023-11-24 00:00:00,True,turkeys,4,2023,11,27,27145,l
+2023-11-06,iowa,clay,,1700.0,2023-12-02 00:00:00,False,backyard,4,2023,11,19,19041,l
+2023-11-06,iowa,hamilton,,15000.0,2023-11-30 00:00:00,True,mixed,4,2023,11,19,19079,l
+2023-11-06,missouri,benton,,16600.0,2023-12-14 00:00:00,True,ckn-broilers,4,2023,11,29,29015,l
+2023-11-03,iowa,clay,,7700.0,2023-12-01 00:00:00,False,backyard,4,2023,11,19,19041,l
+2023-11-03,iowa,clay,,8300.0,2023-11-29 00:00:00,False,backyard,4,2023,11,19,19041,l
+2023-11-03,minnesota,wright,,940000.0,2023-11-30 00:00:00,True,ckn-layers,4,2023,11,27,27171,vl
+2023-11-03,south dakota,mcpherson,,26800.0,2023-11-29 00:00:00,True,turkeys,4,2023,11,46,46089,l
+2023-11-02,alabama,marshall,,47900.0,2023-12-05 00:00:00,True,ckn-pullets,4,2023,11,1,1095,l
+2023-11-02,oklahoma,grady,,-1.0,-1,False,backyard,4,2023,11,40,40051,
+2023-11-01,iowa,buena vista,,30000.0,2023-11-21 00:00:00,True,turkeys,4,2023,11,19,19021,l
+2023-10-31,arkansas,madison,,31600.0,2023-11-24 00:00:00,True,ckn-pullets,4,2023,10,5,5087,l
+2023-10-31,minnesota,meeker,,32100.0,2023-11-18 00:00:00,True,turkeys,4,2023,10,27,27093,l
+2023-10-31,oklahoma,wagoner,,-1.0,-1,False,backyard,4,2023,10,40,40145,
+2023-10-31,south dakota,beadle,,29700.0,2023-11-22 00:00:00,True,turkeys,4,2023,10,46,46005,l
+2023-10-31,tennessee,lincoln,,-1.0,-1,False,backyard,4,2023,10,47,47103,
+2023-10-27,alabama,chilton,,306500.0,2023-12-01 00:00:00,True,mixed,4,2023,10,1,1021,vl
+2023-10-27,washington,kittitas,,70.0,2023-11-15 00:00:00,False,backyard,4,2023,10,53,53037,s
+2023-10-26,california,merced,,31600.0,2023-11-11 00:00:00,True,turkeys,4,2023,10,6,6047,l
+2023-10-25,minnesota,brown,,-1.0,-1,False,backyard,4,2023,10,27,27015,
+2023-10-25,minnesota,meeker,,33000.0,2023-11-18 00:00:00,True,turkeys,4,2023,10,27,27093,l
+2023-10-25,minnesota,pine,,-1.0,-1,False,backyard,4,2023,10,27,27115,
+2023-10-25,oregon,union,,-1.0,-1,False,backyard,4,2023,10,41,41061,
+2023-10-25,south dakota,beadle,,51100.0,2023-11-21 00:00:00,True,turkeys,4,2023,10,46,46005,l
+2023-10-25,south dakota,clark,,31100.0,2023-12-15 00:00:00,True,turkeys,4,2023,10,46,46025,l
+2023-10-25,south dakota,hanson,,13400.0,2023-11-15 00:00:00,True,turkeys,4,2023,10,46,46061,l
+2023-10-24,iowa,guthrie,,-1.0,-1,False,backyard,4,2023,10,19,19077,
+2023-10-24,iowa,pocahontas,,50000.0,2023-11-16 00:00:00,True,turkeys,4,2023,10,19,19151,l
+2023-10-24,minnesota,blue earth,,11900.0,2023-11-17 00:00:00,True,turkeys,4,2023,10,27,27013,l
+2023-10-24,minnesota,kandiyohi,,53700.0,2023-11-10 00:00:00,True,turkeys,4,2023,10,27,27067,l
+2023-10-23,iowa,buena vista,,49100.0,2023-11-12 00:00:00,True,turkeys,4,2023,10,19,19021,l
+2023-10-20,oregon,union,,100.0,2023-11-13 00:00:00,False,backyard,4,2023,10,41,41061,m
+2023-10-19,minnesota,becker,,20200.0,2023-11-18 00:00:00,True,mixed,4,2023,10,27,27005,l
+2023-10-19,montana,park,,-1.0,-1,False,backyard,4,2023,10,30,30067,
+2023-10-19,south dakota,spink,,34000.0,2023-11-27 00:00:00,True,turkeys,4,2023,10,46,46115,l
+2023-10-18,minnesota,blue earth,,11500.0,2023-11-18 00:00:00,True,turkeys,4,2023,10,27,27013,l
+2023-10-18,minnesota,redwood,,8900.0,2023-11-04 00:00:00,True,turkeys,4,2023,10,27,27127,l
+2023-10-17,minnesota,becker,,2700.0,2023-11-10 00:00:00,True,turkeys,4,2023,10,27,27005,l
+2023-10-17,south dakota,faulk,,49700.0,2023-11-07 00:00:00,True,turkeys,4,2023,10,46,46049,l
+2023-10-17,south dakota,mcpherson,,65000.0,2023-11-07 00:00:00,True,turkeys,4,2023,10,46,46089,l
+2023-10-17,washington,king,,-1.0,-1,False,backyard,4,2023,10,53,53033,
+2023-10-16,oklahoma,carter,,-1.0,-1,False,backyard,4,2023,10,40,40019,
+2023-10-13,minnesota,meeker,,71000.0,2023-11-03 00:00:00,True,turkeys,4,2023,10,27,27093,l
+2023-10-13,montana,flathead,,-1.0,-1,False,backyard,4,2023,10,30,30029,
+2023-10-13,north dakota,golden valley,,-1.0,-1,False,backyard,4,2023,10,38,38033,
+2023-10-12,colorado,weld,,-1.0,-1,False,backyard,4,2023,10,8,8123,
+2023-10-12,north dakota,williams,,-1.0,-1,False,backyard,4,2023,10,38,38105,
+2023-10-11,minnesota,meeker,,115000.0,2023-11-07 00:00:00,True,turkeys,4,2023,10,27,27093,vl
+2023-10-10,montana,glacier,,77100.0,2023-11-23 00:00:00,False,backyard,4,2023,10,30,30035,l
+2023-10-06,utah,sanpete,,134200.0,2023-11-12 00:00:00,True,turkeys,4,2023,10,49,49039,vl
+2023-10-06,utah,sanpete,,7600.0,2023-11-25 00:00:00,True,turkeys,4,2023,10,49,49039,l
+2023-10-04,south dakota,jerauld,,47300.0,2023-10-28 00:00:00,True,turkeys,4,2023,10,46,46073,l
+2023-10-03,idaho,canyon,,-1.0,-1,False,backyard,4,2023,10,16,16027,
+2023-09-15,new jersey,union,,-1.0,-1,False,mixed,3,2023,9,34,34039,
+2023-08-03,new york,kings,,-1.0,-1,False,mixed,3,2023,8,36,36047,
+2023-07-28,new york,kings,,-1.0,-1,False,mixed,3,2023,7,36,36047,
+2023-07-25,new york,kings,,-1.0,-1,False,mixed,3,2023,7,36,36047,
+2023-05-18,missouri,phelps,,-1.0,-1,False,backyard,2,2023,5,29,29161,
+2023-05-18,north carolina,rowan,,-1.0,-1,False,backyard,2,2023,5,37,37159,
+2023-05-11,minnesota,nobles,,-1.0,-1,False,backyard,2,2023,5,27,27105,
+2023-05-05,indiana,posey,,-1.0,-1,False,backyard,2,2023,5,18,18129,
+2023-04-24,colorado,routt,,-1.0,-1,False,backyard,2,2023,4,8,8107,
+2023-04-19,north dakota,dickey,,58500.0,2023-06-01 00:00:00,True,turkeys,2,2023,4,38,38021,l
+2023-04-19,south dakota,beadle,,75800.0,2023-05-13 00:00:00,True,turkeys,2,2023,4,46,46005,l
+2023-04-18,new york,kings,,-1.0,-1,False,mixed,2,2023,4,36,36047,
+2023-04-17,colorado,moffat,,-1.0,-1,False,backyard,2,2023,4,8,8081,
+2023-04-17,idaho,bonneville,,-1.0,-1,False,backyard,2,2023,4,16,16019,
+2023-04-17,new york,putnam,,110.0,2023-05-04 00:00:00,False,backyard,2,2023,4,36,36079,m
+2023-04-14,montana,rosebud,,-1.0,-1,False,backyard,2,2023,4,30,30087,
+2023-04-14,nebraska,sheridan,,-1.0,-1,False,backyard,2,2023,4,31,31161,
+2023-04-12,california,modoc,,-1.0,-1,False,backyard,2,2023,4,6,6049,
+2023-04-12,colorado,pueblo,,-1.0,-1,False,backyard,2,2023,4,8,8101,
+2023-04-12,new york,putnam,,200.0,2023-04-28 00:00:00,False,backyard,2,2023,4,36,36079,m
+2023-04-10,kansas,mitchell,,-1.0,-1,False,backyard,2,2023,4,20,20123,
+2023-04-05,new york,queens,,-1.0,-1,False,mixed,2,2023,4,36,36081,
+2023-04-03,minnesota,le sueur,,-1.0,-1,False,backyard,2,2023,4,27,27079,
+2023-03-30,oregon,umatilla,,-1.0,-1,False,backyard,1,2023,3,41,41059,
+2023-03-28,colorado,yuma,,310.0,2023-04-11 00:00:00,False,backyard,1,2023,3,8,8125,m
+2023-03-24,colorado,arapahoe,,-1.0,-1,False,backyard,1,2023,3,8,8005,
+2023-03-24,kansas,ellsworth,,-1.0,-1,False,backyard,1,2023,3,20,20053,
+2023-03-23,michigan,lapeer,,950.0,2023-04-27 00:00:00,False,backyard,1,2023,3,26,26087,m
+2023-03-22,new york,queens,,-1.0,-1,False,mixed,1,2023,3,36,36081,
+2023-03-22,new york,tompkins,,6500.0,2023-04-07 00:00:00,False,backyard,1,2023,3,36,36109,l
+2023-03-22,oregon,klamath,,-1.0,-1,False,backyard,1,2023,3,41,41035,
+2023-03-22,south dakota,spink,,570.0,2023-04-06 00:00:00,True,mixed,1,2023,3,46,46115,m
+2023-03-22,texas,hale,,-1.0,-1,False,backyard,1,2023,3,48,48189,
+2023-03-21,florida,hillsborough,,340.0,2023-04-10 00:00:00,False,mixed,1,2023,3,12,12057,m
+2023-03-21,new york,washington,,-1.0,-1,False,backyard,1,2023,3,36,36115,
+2023-03-17,pennsylvania,lancaster,,2500.0,2023-04-19 00:00:00,False,backyard,1,2023,3,42,42071,l
+2023-03-16,mississippi,monroe,,-1.0,-1,False,backyard,1,2023,3,28,28095,
+2023-03-16,missouri,maries,,-1.0,-1,False,backyard,1,2023,3,29,29125,
+2023-03-16,pennsylvania,chester,,11800.0,2023-04-18 00:00:00,True,turkeys,1,2023,3,42,42029,l
+2023-03-16,pennsylvania,lancaster,,1600.0,2023-04-08 00:00:00,False,backyard,1,2023,3,42,42071,l
+2023-03-16,pennsylvania,lancaster,,2400.0,2023-04-07 00:00:00,False,backyard,1,2023,3,42,42071,l
+2023-03-15,iowa,chickasaw,,-1.0,-1,False,backyard,1,2023,3,19,19037,
+2023-03-15,pennsylvania,mifflin,,60.0,2023-03-31 00:00:00,False,backyard,1,2023,3,42,42087,s
+2023-03-14,michigan,eaton,,-1.0,-1,False,backyard,1,2023,3,26,26045,
+2023-03-14,pennsylvania,lancaster,,2400.0,2023-04-13 00:00:00,False,backyard,1,2023,3,42,42071,l
+2023-03-14,pennsylvania,lancaster,,3900.0,2023-04-18 00:00:00,False,backyard,1,2023,3,42,42071,l
+2023-03-14,pennsylvania,lancaster,,3000.0,2023-04-18 00:00:00,False,backyard,1,2023,3,42,42071,l
+2023-03-14,pennsylvania,lancaster,,2400.0,2023-04-12 00:00:00,False,backyard,1,2023,3,42,42071,l
+2023-03-14,pennsylvania,lancaster,,3000.0,2023-04-09 00:00:00,False,backyard,1,2023,3,42,42071,l
+2023-03-13,pennsylvania,lancaster,,6000.0,2023-04-06 00:00:00,False,backyard,1,2023,3,42,42071,l
+2023-03-07,virginia,rockingham,,-1.0,-1,False,backyard,1,2023,3,51,51165,
+2023-03-06,idaho,bingham,,-1.0,-1,False,backyard,1,2023,3,16,16011,
+2023-03-06,pennsylvania,bucks,,1700.0,2023-03-31 00:00:00,False,backyard,1,2023,3,42,42017,l
+2023-03-06,pennsylvania,lancaster,,6000.0,2023-04-11 00:00:00,False,backyard,1,2023,3,42,42071,l
+2023-03-06,pennsylvania,lancaster,,1800.0,2023-04-13 00:00:00,False,backyard,1,2023,3,42,42071,l
+2023-03-06,pennsylvania,lancaster,,310.0,2023-04-03 00:00:00,False,backyard,1,2023,3,42,42071,m
+2023-03-04,pennsylvania,chester,,6900.0,2023-04-11 00:00:00,False,backyard,1,2023,3,42,42029,l
+2023-03-04,pennsylvania,lancaster,,19600.0,2023-04-07 00:00:00,True,turkeys,1,2023,3,42,42071,l
+2023-03-04,pennsylvania,lancaster,,26600.0,2023-04-18 00:00:00,True,turkeys,1,2023,3,42,42071,l
+2023-03-04,pennsylvania,lancaster,,11300.0,2023-04-16 00:00:00,True,ducks,1,2023,3,42,42071,l
+2023-03-04,pennsylvania,northumberland,,680.0,2023-04-04 00:00:00,False,backyard,1,2023,3,42,42097,m
+2023-03-03,nevada,douglas,,-1.0,-1,False,backyard,1,2023,3,32,32005,
+2023-03-03,pennsylvania,chester,,5200.0,2023-04-09 00:00:00,False,backyard,1,2023,3,42,42029,l
+2023-02-28,florida,miami-dade,,510.0,2023-03-17 00:00:00,False,mixed,1,2023,2,12,12086,m
+2023-02-27,pennsylvania,lancaster,,4400.0,2023-04-18 00:00:00,False,backyard,1,2023,2,42,42071,l
+2023-02-24,illinois,wayne,,18200.0,2023-03-22 00:00:00,True,turkeys,1,2023,2,17,17191,l
+2023-02-24,pennsylvania,chester,,3400.0,2023-04-13 00:00:00,False,backyard,1,2023,2,42,42029,l
+2023-02-24,pennsylvania,lancaster,,4000.0,2023-03-21 00:00:00,False,backyard,1,2023,2,42,42071,l
+2023-02-23,colorado,moffat,,-1.0,-1,False,backyard,1,2023,2,8,8081,
+2023-02-23,pennsylvania,lancaster,,2000.0,2023-04-14 00:00:00,False,backyard,1,2023,2,42,42071,l
+2023-02-22,pennsylvania,lancaster,,4200.0,2023-03-26 00:00:00,False,backyard,1,2023,2,42,42071,l
+2023-02-21,nebraska,lincoln,,420.0,2023-03-09 00:00:00,False,backyard,1,2023,2,31,31111,m
+2023-02-21,pennsylvania,lancaster,,97700.0,2023-03-31 00:00:00,True,ckn-broilers,1,2023,2,42,42071,l
+2023-02-17,california,san joaquin,,-1.0,-1,False,backyard,1,2023,2,6,6077,
+2023-02-17,mississippi,copiah,,50.0,2023-03-08 00:00:00,False,backyard,1,2023,2,28,28029,s
+2023-02-17,pennsylvania,tioga,,50.0,2023-03-03 00:00:00,False,backyard,1,2023,2,42,42117,s
+2023-02-15,new york,columbia,,250.0,2023-03-03 00:00:00,False,backyard,1,2023,2,36,36021,m
+2023-02-14,florida,hillsborough,,-1.0,-1,False,backyard,1,2023,2,12,12057,
+2023-02-14,washington,benton,,-1.0,-1,False,backyard,1,2023,2,53,53005,
+2023-02-13,kansas,doniphan,,-1.0,-1,False,backyard,1,2023,2,20,20043,
+2023-02-13,missouri,carroll,,-1.0,-1,False,backyard,1,2023,2,29,29033,
+2023-02-08,kansas,mitchell,,17000.0,2023-03-01 00:00:00,True,mixed,1,2023,2,20,20123,l
+2023-02-08,pennsylvania,lancaster,,20300.0,2023-03-04 00:00:00,False,backyard,1,2023,2,42,42071,l
+2023-02-07,mississippi,leake,,89800.0,2023-03-02 00:00:00,True,ckn-broilers,1,2023,2,28,28079,l
+2023-02-07,pennsylvania,allegheny,,20.0,2023-02-22 00:00:00,False,backyard,1,2023,2,42,42003,s
+2023-02-06,california,merced,,29100.0,2023-02-23 00:00:00,True,ducks,1,2023,2,6,6047,l
+2023-02-06,california,placer,,-1.0,-1,False,backyard,1,2023,2,6,6061,
+2023-02-06,california,san joaquin,,-1.0,-1,False,backyard,1,2023,2,6,6077,
+2023-02-06,maine,hancock,,-1.0,-1,False,backyard,1,2023,2,23,23009,
+2023-02-06,maine,kennebec,,-1.0,-1,False,backyard,1,2023,2,23,23011,
+2023-02-06,wyoming,park,,-1.0,-1,False,backyard,1,2023,2,56,56029,
+2023-02-01,pennsylvania,lancaster,,32800.0,2023-03-04 00:00:00,True,ducks,1,2023,2,42,42071,l
+2023-02-01,pennsylvania,lancaster,,2700.0,2023-03-05 00:00:00,False,backyard,1,2023,2,42,42071,l
+2023-01-27,maine,hancock,,-1.0,-1,False,backyard,1,2023,1,23,23009,
+2023-01-25,iowa,buena vista,,27700.0,2023-02-18 00:00:00,True,turkeys,1,2023,1,19,19021,l
+2023-01-25,new york,suffolk,,-1.0,-1,False,backyard,1,2023,1,36,36103,
+2023-01-25,north carolina,rowan,,-1.0,-1,False,backyard,1,2023,1,37,37159,
+2023-01-25,oregon,polk,,-1.0,-1,False,backyard,1,2023,1,41,41053,
+2023-01-25,virginia,rockingham,,11100.0,2023-02-16 00:00:00,True,turkeys,1,2023,1,51,51165,l
+2023-01-23,new hampshire,belknap,,-1.0,-1,False,backyard,1,2023,1,33,33001,
+2023-01-20,colorado,larimer,,-1.0,-1,False,backyard,1,2023,1,8,8069,
+2023-01-20,tennessee,weakley,,267800.0,2023-02-12 00:00:00,True,ckn-broilers,1,2023,1,47,47183,vl
+2023-01-19,california,el dorado,,-1.0,-1,False,backyard,1,2023,1,6,6017,
+2023-01-19,virginia,rockingham,,25300.0,2023-02-16 00:00:00,True,turkeys,1,2023,1,51,51165,l
+2023-01-19,washington,snohomish,,-1.0,-1,False,backyard,1,2023,1,53,53061,
+2023-01-18,ohio,licking,,-1.0,-1,False,backyard,1,2023,1,39,39089,
+2023-01-18,texas,lampasas,,70.0,2023-02-03 00:00:00,False,backyard,1,2023,1,48,48281,s
+2023-01-17,kansas,mitchell,,6900.0,2023-03-01 00:00:00,True,mixed,1,2023,1,20,20123,l
+2023-01-12,california,tehama,,23700.0,2023-02-13 00:00:00,False,backyard,1,2023,1,6,6103,l
+2023-01-11,oregon,douglas,,-1.0,-1,False,backyard,1,2023,1,41,41019,
+2023-01-10,montana,cascade,,-1.0,-1,False,backyard,1,2023,1,30,30013,
+2023-01-09,california,san joaquin,,-1.0,-1,False,backyard,1,2023,1,6,6077,
+2023-01-09,california,sonoma,,-1.0,-1,False,backyard,1,2023,1,6,6097,
+2023-01-09,california,sonoma,,-1.0,-1,False,backyard,1,2023,1,6,6097,
+2023-01-09,nebraska,scotts bluff,,-1.0,-1,False,backyard,1,2023,1,31,31157,
+2023-01-06,colorado,weld,,-1.0,-1,False,backyard,1,2023,1,8,8123,
+2023-01-06,washington,thurston,,-1.0,-1,False,backyard,1,2023,1,53,53067,
+2023-01-05,south dakota,codington,,140.0,2023-01-18 00:00:00,False,backyard,1,2023,1,46,46029,m
+2023-01-04,kansas,anderson,,8900.0,2023-01-24 00:00:00,True,mixed,1,2023,1,20,20003,l
+2023-01-04,missouri,johnson,,-1.0,-1,False,backyard,1,2023,1,29,29101,
+2023-01-04,oregon,josephine,,-1.0,-1,False,backyard,1,2023,1,41,41033,
+2022-12-30,michigan,sanilac,,30.0,2023-01-10 00:00:00,False,backyard,4,2022,12,26,26151,s
+2022-12-30,washington,snohomish,,180.0,2023-01-31 00:00:00,False,backyard,4,2022,12,53,53061,m
+2022-12-29,washington,pierce,,-1.0,-1,False,backyard,4,2022,12,53,53053,
+2022-12-28,kansas,elk,,-1.0,-1,False,backyard,4,2022,12,20,20049,
+2022-12-28,tennessee,weakley,,43600.0,2023-02-01 00:00:00,True,ckn-broilers,4,2022,12,47,47183,l
+2022-12-28,tennessee,weakley,,19000.0,2023-02-01 00:00:00,True,ckn-broilers,4,2022,12,47,47183,l
+2022-12-22,california,glenn,,32000.0,2023-02-13 00:00:00,True,mixed,4,2022,12,6,6021,l
+2022-12-21,illinois,st. clair,,-1.0,-1,False,backyard,4,2022,12,17,17163,
+2022-12-21,missouri,bates,,-1.0,-1,False,backyard,4,2022,12,29,29013,
+2022-12-21,oregon,umatilla,,-1.0,-1,False,backyard,4,2022,12,41,41059,
+2022-12-21,tennessee,weakley,,28800.0,2023-02-01 00:00:00,False,backyard,4,2022,12,47,47183,l
+2022-12-20,colorado,weld,,239700.0,2023-01-28 00:00:00,True,ckn-layers,4,2022,12,8,8123,vl
+2022-12-20,idaho,gem,,-1.0,-1,False,backyard,4,2022,12,16,16045,
+2022-12-20,south dakota,hanson,,31800.0,2023-01-20 00:00:00,True,turkeys,4,2022,12,46,46061,l
+2022-12-19,california,mendocino,,-1.0,-1,False,backyard,4,2022,12,6,6045,
+2022-12-16,california,butte,,-1.0,-1,False,backyard,4,2022,12,6,6007,
+2022-12-16,colorado,weld,,1291000.0,2023-01-23 00:00:00,True,ckn-layers,4,2022,12,8,8123,vl
+2022-12-16,florida,duval,,-1.0,-1,False,backyard,4,2022,12,12,12031,
+2022-12-16,montana,flathead,,-1.0,-1,False,backyard,4,2022,12,30,30029,
+2022-12-15,oregon,polk,,-1.0,-1,False,backyard,4,2022,12,41,41053,
+2022-12-14,minnesota,redwood,,-1.0,-1,False,backyard,4,2022,12,27,27127,
+2022-12-14,nebraska,knox,,160.0,2023-01-13 00:00:00,False,backyard,4,2022,12,31,31107,m
+2022-12-14,south dakota,moody,,1332100.0,2023-01-19 00:00:00,True,ckn-layers,4,2022,12,46,46101,vl
+2022-12-14,south dakota,spink,,280.0,2023-01-05 00:00:00,False,backyard,4,2022,12,46,46115,m
+2022-12-14,tennessee,weakley,,37900.0,2023-02-01 00:00:00,False,backyard,4,2022,12,47,47183,l
+2022-12-14,washington,franklin,,1015500.0,2023-01-31 00:00:00,True,ckn-layers,4,2022,12,53,53021,vl
+2022-12-13,indiana,daviess,,11400.0,2023-01-05 00:00:00,True,turkeys,4,2022,12,18,18027,l
+2022-12-13,oregon,columbia,,-1.0,-1,False,backyard,4,2022,12,41,41009,
+2022-12-13,oregon,linn,,-1.0,-1,False,backyard,4,2022,12,41,41043,
+2022-12-12,iowa,buena vista,,51200.0,2023-01-17 00:00:00,True,turkeys,4,2022,12,19,19021,l
+2022-12-12,iowa,cherokee,,50000.0,2023-01-14 00:00:00,True,turkeys,4,2022,12,19,19035,l
+2022-12-12,iowa,ida,,90000.0,2023-01-26 00:00:00,True,turkeys,4,2022,12,19,19093,l
+2022-12-12,iowa,sac,,50000.0,2023-01-15 00:00:00,True,turkeys,4,2022,12,19,19161,l
+2022-12-12,minnesota,wadena,,298100.0,2022-12-29 00:00:00,True,turkeys,4,2022,12,27,27159,vl
+2022-12-12,south dakota,hanson,,23900.0,2023-01-03 00:00:00,True,turkeys,4,2022,12,46,46061,l
+2022-12-09,colorado,prowers,,11000.0,2022-12-28 00:00:00,True,mixed,4,2022,12,8,8099,l
+2022-12-09,missouri,osage,,19700.0,2023-01-03 00:00:00,True,turkeys,4,2022,12,29,29151,l
+2022-12-09,north carolina,onslow,,-1.0,-1,False,backyard,4,2022,12,37,37133,
+2022-12-09,oregon,clackamas,,-1.0,-1,False,backyard,4,2022,12,41,41005,
+2022-12-09,oregon,polk,,-1.0,-1,False,backyard,4,2022,12,41,41053,
+2022-12-08,minnesota,dodge,,10000.0,2022-12-24 00:00:00,True,turkeys,4,2022,12,27,27039,l
+2022-12-08,missouri,dade,,-1.0,-1,False,backyard,4,2022,12,29,29057,
+2022-12-08,south dakota,hamlin,,58100.0,2022-12-30 00:00:00,True,turkeys,4,2022,12,46,46057,l
+2022-12-07,iowa,cherokee,,105000.0,2023-01-14 00:00:00,True,turkeys,4,2022,12,19,19035,vl
+2022-12-07,iowa,sac,,40000.0,2023-01-05 00:00:00,True,turkeys,4,2022,12,19,19161,l
+2022-12-07,south dakota,kingsbury,,-1.0,-1,False,backyard,4,2022,12,46,46077,
+2022-12-06,colorado,larimer,,-1.0,-1,False,backyard,4,2022,12,8,8069,
+2022-12-06,missouri,harrison,,-1.0,-1,False,backyard,4,2022,12,29,29081,
+2022-12-06,oklahoma,pawnee,,-1.0,-1,False,backyard,4,2022,12,40,40117,
+2022-12-06,texas,denton,,-1.0,-1,False,backyard,4,2022,12,48,48121,
+2022-12-06,vermont,lamoille,,-1.0,-1,False,backyard,4,2022,12,50,50015,
+2022-12-05,alabama,lawrence,,-1.0,-1,False,backyard,4,2022,12,1,1079,
+2022-12-05,iowa,buena vista,,40700.0,2022-12-27 00:00:00,True,turkeys,4,2022,12,19,19021,l
+2022-12-05,south dakota,charles mix,,34100.0,2022-12-20 00:00:00,True,turkeys,4,2022,12,46,46023,l
+2022-12-05,south dakota,clark,,24300.0,2022-12-27 00:00:00,True,turkeys,4,2022,12,46,46025,l
+2022-12-02,nebraska,knox,,-1.0,-1,False,backyard,4,2022,12,31,31107,
+2022-12-02,north carolina,union,,-1.0,-1,False,backyard,4,2022,12,37,37179,
+2022-12-02,south dakota,clark,,-1.0,-1,False,backyard,4,2022,12,46,46025,
+2022-12-01,arkansas,arkansas,,-1.0,-1,False,backyard,4,2022,12,5,5001,
+2022-12-01,missouri,jackson,,-1.0,-1,False,backyard,4,2022,12,29,29095,
+2022-12-01,south dakota,brookings,,-1.0,-1,False,backyard,4,2022,12,46,46011,
+2022-12-01,south dakota,lake,,78000.0,2022-12-27 00:00:00,True,turkeys,4,2022,12,46,46079,l
+2022-11-30,illinois,grundy,,8800.0,2022-12-30 00:00:00,False,backyard,4,2022,11,17,17063,l
+2022-11-30,south dakota,charles mix,,75100.0,2022-12-19 00:00:00,True,turkeys,4,2022,11,46,46023,l
+2022-11-30,south dakota,hamlin,,50000.0,2022-12-19 00:00:00,True,turkeys,4,2022,11,46,46057,l
+2022-11-29,maryland,washington,,24600.0,2022-12-22 00:00:00,True,ckn-layers,4,2022,11,24,24043,l
+2022-11-29,south dakota,hanson,,71600.0,2022-12-20 00:00:00,True,turkeys,4,2022,11,46,46061,l
+2022-11-29,south dakota,spink,,32900.0,2022-12-19 00:00:00,True,turkeys,4,2022,11,46,46115,l
+2022-11-28,missouri,webster,,15100.0,2022-12-16 00:00:00,True,turkeys,4,2022,11,29,29225,l
+2022-11-28,utah,iron,,3000.0,2022-12-10 00:00:00,False,backyard,4,2022,11,49,49021,l
+2022-11-25,nebraska,dixon,,1700000.0,2022-12-30 00:00:00,True,ckn-layers,4,2022,11,31,31051,vl
+2022-11-25,north carolina,durham,,-1.0,-1,False,backyard,4,2022,11,37,37063,
+2022-11-25,south dakota,beadle,,50700.0,2022-12-12 00:00:00,True,turkeys,4,2022,11,46,46005,l
+2022-11-25,south dakota,beadle,,67900.0,2022-12-19 00:00:00,True,turkeys,4,2022,11,46,46005,l
+2022-11-25,south dakota,spink,,55500.0,2022-12-14 00:00:00,True,turkeys,4,2022,11,46,46115,l
+2022-11-25,south dakota,turner,,-1.0,-1,False,backyard,4,2022,11,46,46125,
+2022-11-23,florida,broward,,-1.0,-1,False,backyard,4,2022,11,12,12011,
+2022-11-23,minnesota,todd,,44500.0,2022-12-13 00:00:00,True,turkeys,4,2022,11,27,27153,l
+2022-11-23,oregon,columbia,,-1.0,-1,False,backyard,4,2022,11,41,41009,
+2022-11-23,south dakota,brule,,-1.0,-1,False,backyard,4,2022,11,46,46015,
+2022-11-23,south dakota,faulk,,49900.0,2022-12-14 00:00:00,True,turkeys,4,2022,11,46,46049,l
+2022-11-23,tennessee,davidson,,-1.0,-1,False,backyard,4,2022,11,47,47037,
+2022-11-22,missouri,webster,,9100.0,2022-12-16 00:00:00,False,backyard,4,2022,11,29,29225,l
+2022-11-22,south dakota,beadle,,29200.0,2022-12-09 00:00:00,True,turkeys,4,2022,11,46,46005,l
+2022-11-21,maine,washington,,-1.0,-1,False,backyard,4,2022,11,23,23029,
+2022-11-21,south dakota,edmunds,,34400.0,2022-12-05 00:00:00,True,turkeys,4,2022,11,46,46045,l
+2022-11-18,north carolina,union,,-1.0,-1,False,backyard,4,2022,11,37,37179,
+2022-11-18,utah,utah,,-1.0,-1,False,backyard,4,2022,11,49,49049,
+2022-11-17,florida,broward,,-1.0,-1,False,backyard,4,2022,11,12,12011,
+2022-11-17,pennsylvania,berks,,30.0,2022-12-03 00:00:00,False,backyard,4,2022,11,42,42011,s
+2022-11-16,california,fresno,,34700.0,2023-01-04 00:00:00,True,ducks,4,2022,11,6,6019,l
+2022-11-16,florida,hillsborough,,100.0,2022-12-05 00:00:00,False,backyard,4,2022,11,12,12057,m
+2022-11-16,florida,seminole,,100.0,2022-12-07 00:00:00,False,backyard,4,2022,11,12,12117,m
+2022-11-15,florida,duval,,30.0,2022-11-29 00:00:00,False,backyard,4,2022,11,12,12031,s
+2022-11-15,minnesota,otter tail,,28200.0,2022-12-07 00:00:00,True,turkeys,4,2022,11,27,27111,l
+2022-11-15,tennessee,bledsoe,,20900.0,2022-12-07 00:00:00,True,ckn-broilers,4,2022,11,47,47007,l
+2022-11-14,mississippi,lowndes,,8.0,2022-11-24 00:00:00,False,backyard,4,2022,11,28,28087,s
+2022-11-12,new york,queens,,-1.0,-1,False,mixed,4,2022,11,36,36081,
+2022-11-10,michigan,lapeer,,990.0,2022-11-25 00:00:00,False,backyard,4,2022,11,26,26087,m
+2022-11-10,north dakota,mountrail,,40.0,2022-12-06 00:00:00,False,backyard,4,2022,11,38,38061,s
+2022-11-10,north dakota,ward,,20.0,2022-12-06 00:00:00,False,backyard,4,2022,11,38,38101,s
+2022-11-10,pennsylvania,lehigh,,18500.0,2022-12-03 00:00:00,True,turkeys,4,2022,11,42,42077,l
+2022-11-10,pennsylvania,lehigh,,160.0,2022-12-03 00:00:00,True,turkeys,4,2022,11,42,42077,m
+2022-11-08,iowa,louisa,,20.0,2022-11-11 00:00:00,False,backyard,4,2022,11,19,19115,s
+2022-11-08,pennsylvania,lehigh,,7500.0,2022-12-03 00:00:00,True,turkeys,4,2022,11,42,42077,l
+2022-11-08,pennsylvania,lehigh,,17400.0,2022-12-03 00:00:00,True,turkeys,4,2022,11,42,42077,l
+2022-11-08,washington,snohomish,,150.0,2022-11-22 00:00:00,False,backyard,4,2022,11,53,53061,m
+2022-11-07,ohio,butler,,150.0,2022-11-24 00:00:00,False,backyard,4,2022,11,39,39017,m
+2022-11-07,virginia,gloucester,,80.0,2022-11-19 00:00:00,False,backyard,4,2022,11,51,51073,s
+2022-11-07,wisconsin,jefferson,,187900.0,2022-12-16 00:00:00,True,mixed,4,2022,11,55,55055,vl
+2022-11-07,wyoming,converse,,20.0,2022-11-28 00:00:00,False,backyard,4,2022,11,56,56009,s
+2022-11-06,iowa,wright,,1022800.0,2022-12-27 00:00:00,True,ckn-layers,4,2022,11,19,19197,vl
+2022-11-04,mississippi,lawrence,,34400.0,2022-12-01 00:00:00,True,ckn-broilers,4,2022,11,28,28077,l
+2022-11-04,new york,sullivan,,140.0,2022-11-22 00:00:00,False,backyard,4,2022,11,36,36105,m
+2022-11-04,pennsylvania,dauphin,,130.0,2022-12-27 00:00:00,False,backyard,4,2022,11,42,42043,m
+2022-11-04,pennsylvania,lehigh,,14500.0,2022-12-03 00:00:00,True,turkeys,4,2022,11,42,42077,l
+2022-11-03,arizona,yavapai,,30.0,2022-11-21 00:00:00,False,backyard,4,2022,11,4,4025,s
+2022-11-03,california,san diego,,150.0,2022-11-19 00:00:00,False,backyard,4,2022,11,6,6073,m
+2022-11-03,florida,broward,,70.0,2022-11-22 00:00:00,False,backyard,4,2022,11,12,12011,s
+2022-11-03,massachusetts,middlesex,,20.0,2022-11-16 00:00:00,False,backyard,4,2022,11,25,25017,s
+2022-11-03,north dakota,bottineau,,130.0,2022-12-05 00:00:00,False,backyard,4,2022,11,38,38009,m
+2022-11-03,oregon,yamhill,,150.0,2022-11-22 00:00:00,False,backyard,4,2022,11,41,41071,m
+2022-11-03,pennsylvania,lehigh,,28500.0,2022-12-03 00:00:00,True,turkeys,4,2022,11,42,42077,l
+2022-11-03,south carolina,beaufort,,170.0,2022-11-20 00:00:00,False,backyard,4,2022,11,45,45013,m
+2022-11-03,wisconsin,marathon,,30.0,2022-11-17 00:00:00,False,backyard,4,2022,11,55,55073,s
+2022-11-02,arizona,yavapai,,50.0,2022-11-21 00:00:00,False,backyard,4,2022,11,4,4025,s
+2022-11-02,new jersey,bergen,,60.0,2022-11-22 00:00:00,False,backyard,4,2022,11,34,34003,s
+2022-11-02,pennsylvania,allegheny,,20.0,2022-11-18 00:00:00,False,backyard,4,2022,11,42,42003,s
+2022-11-02,wisconsin,waukesha,,10.0,2022-11-17 00:00:00,False,backyard,4,2022,11,55,55133,s
+2022-11-01,minnesota,stearns,,8500.0,2022-11-19 00:00:00,True,turkeys,4,2022,11,27,27145,l
+2022-11-01,montana,granite,,40.0,2022-11-13 00:00:00,False,backyard,4,2022,11,30,30039,s
+2022-11-01,new york,wayne,,10.0,2022-11-21 00:00:00,False,backyard,4,2022,11,36,36117,s
+2022-11-01,oregon,deschutes,,8.0,2022-11-22 00:00:00,False,backyard,4,2022,11,41,41017,s
+2022-11-01,south dakota,gregory,,3000.0,2022-11-22 00:00:00,True,mixed,4,2022,11,46,46053,l
+2022-10-31,iowa,wright,,1100000.0,2022-12-02 00:00:00,True,ckn-layers,4,2022,10,19,19197,vl
+2022-10-31,minnesota,swift,,45600.0,2022-11-21 00:00:00,True,turkeys,4,2022,10,27,27151,l
+2022-10-31,tennessee,tipton,,90.0,2022-11-15 00:00:00,False,backyard,4,2022,10,47,47167,s
+2022-10-28,florida,hillsborough,,40.0,2022-11-16 00:00:00,False,backyard,4,2022,10,12,12057,s
+2022-10-27,minnesota,le sueur,,20100.0,2022-11-29 00:00:00,True,turkeys,4,2022,10,27,27079,l
+2022-10-27,minnesota,stearns,,75000.0,2022-11-17 00:00:00,True,turkeys,4,2022,10,27,27145,l
+2022-10-26,colorado,la plata,,20.0,2022-11-17 00:00:00,False,backyard,4,2022,10,8,8067,s
+2022-10-26,florida,pasco,,40.0,2022-11-12 00:00:00,False,backyard,4,2022,10,12,12101,s
+2022-10-25,florida,indian river,,30.0,2022-11-16 00:00:00,False,backyard,4,2022,10,12,12061,s
+2022-10-25,florida,indian river,,50.0,2022-11-08 00:00:00,False,backyard,4,2022,10,12,12061,s
+2022-10-25,florida,lake,,9.0,2022-11-08 00:00:00,False,backyard,4,2022,10,12,12069,s
+2022-10-25,florida,martin,,30.0,2022-11-11 00:00:00,False,backyard,4,2022,10,12,12085,s
+2022-10-25,minnesota,swift,,33800.0,2022-11-19 00:00:00,True,turkeys,4,2022,10,27,27151,l
+2022-10-25,south dakota,grant,,50.0,2022-11-22 00:00:00,False,backyard,4,2022,10,46,46051,s
+2022-10-25,utah,sanpete,,3900.0,2022-11-17 00:00:00,True,turkeys,4,2022,10,49,49039,l
+2022-10-22,new jersey,ocean,,90.0,2022-11-09 00:00:00,False,backyard,4,2022,10,34,34029,s
+2022-10-22,virginia,southampton,,170.0,2022-11-06 00:00:00,False,backyard,4,2022,10,51,51175,m
+2022-10-21,minnesota,itasca,,-1.0,-1,False,backyard,4,2022,10,27,27061,
+2022-10-21,north carolina,wake,,170.0,2022-11-08 00:00:00,False,backyard,4,2022,10,37,37183,m
+2022-10-21,oklahoma,cleveland,,30.0,2022-11-05 00:00:00,False,backyard,4,2022,10,40,40027,s
+2022-10-20,colorado,jefferson,,50.0,2022-11-03 00:00:00,False,backyard,4,2022,10,8,8059,s
+2022-10-20,florida,indian river,,60.0,2022-11-09 00:00:00,False,backyard,4,2022,10,12,12061,s
+2022-10-20,florida,okeechobee,,2.0,2022-11-03 00:00:00,False,backyard,4,2022,10,12,12093,s
+2022-10-20,idaho,valley,,20.0,2022-11-07 00:00:00,False,backyard,4,2022,10,16,16085,s
+2022-10-20,iowa,dallas,,50.0,2022-11-04 00:00:00,False,backyard,4,2022,10,19,19049,s
+2022-10-20,montana,hill,,60.0,2022-11-05 00:00:00,False,backyard,4,2022,10,30,30041,s
+2022-10-20,oklahoma,creek,,50.0,2022-11-02 00:00:00,False,backyard,4,2022,10,40,40037,s
+2022-10-20,rhode island,newport,,60.0,2022-11-04 00:00:00,False,backyard,4,2022,10,44,44005,s
+2022-10-20,south dakota,spink,,160.0,2022-11-08 00:00:00,False,backyard,4,2022,10,46,46115,m
+2022-10-19,kansas,shawnee,,120.0,2022-11-08 00:00:00,False,backyard,4,2022,10,20,20177,m
+2022-10-19,south dakota,roberts,,3600.0,2022-12-09 00:00:00,True,mixed,4,2022,10,46,46109,l
+2022-10-19,texas,rockwall,,50.0,2022-11-15 00:00:00,False,backyard,4,2022,10,48,48397,s
+2022-10-19,utah,sanpete,,9400.0,2022-11-15 00:00:00,True,turkeys,4,2022,10,49,49039,l
+2022-10-18,florida,indian river,,300.0,2022-11-22 00:00:00,False,backyard,4,2022,10,12,12061,m
+2022-10-18,florida,osceola,,20.0,2022-11-09 00:00:00,False,backyard,4,2022,10,12,12097,s
+2022-10-18,florida,st. lucie,,6.0,2022-11-18 00:00:00,False,backyard,4,2022,10,12,12111,s
+2022-10-18,missouri,jackson,,40.0,2022-11-08 00:00:00,False,backyard,4,2022,10,29,29095,s
+2022-10-18,nebraska,york,,34900.0,2022-11-16 00:00:00,True,mixed,4,2022,10,31,31185,l
+2022-10-18,north dakota,traill,,90.0,2022-10-31 00:00:00,False,backyard,4,2022,10,38,38097,s
+2022-10-18,utah,sanpete,,100800.0,2022-12-26 00:00:00,True,turkeys,4,2022,10,49,49039,vl
+2022-10-17,nevada,nye,,1600.0,2023-07-14 00:00:00,False,backyard,4,2022,10,32,32023,l
+2022-10-17,pennsylvania,adams,,15100.0,2022-11-08 00:00:00,True,turkeys,4,2022,10,42,42001,l
+2022-10-14,arkansas,pope,,470.0,2022-10-28 00:00:00,False,backyard,4,2022,10,5,5115,m
+2022-10-14,colorado,la plata,,40.0,2022-11-17 00:00:00,False,backyard,4,2022,10,8,8067,s
+2022-10-14,colorado,larimer,,20.0,2022-11-04 00:00:00,False,backyard,4,2022,10,8,8069,s
+2022-10-14,florida,broward,,300.0,2022-11-08 00:00:00,False,backyard,4,2022,10,12,12011,m
+2022-10-14,oklahoma,tulsa,,30.0,2022-11-01 00:00:00,False,backyard,4,2022,10,40,40143,s
+2022-10-13,california,stanislaus,,54900.0,2022-10-31 00:00:00,True,turkeys,4,2022,10,6,6099,l
+2022-10-13,new jersey,warren,,6.0,2022-11-03 00:00:00,False,backyard,4,2022,10,34,34041,s
+2022-10-13,utah,sanpete,,100000.0,2022-11-27 00:00:00,True,turkeys,4,2022,10,49,49039,vl
+2022-10-12,colorado,weld,,40.0,2022-11-03 00:00:00,False,backyard,4,2022,10,8,8123,s
+2022-10-12,michigan,genesee,,20.0,2022-10-26 00:00:00,False,backyard,4,2022,10,26,26049,s
+2022-10-12,south dakota,beadle,,71400.0,2022-11-08 00:00:00,True,turkeys,4,2022,10,46,46005,l
+2022-10-12,south dakota,hamlin,,20.0,2022-11-04 00:00:00,False,backyard,4,2022,10,46,46057,s
+2022-10-12,utah,sanpete,,52800.0,2022-12-25 00:00:00,True,turkeys,4,2022,10,49,49039,l
+2022-10-12,wyoming,fremont,,30.0,2022-11-03 00:00:00,False,backyard,4,2022,10,56,56013,s
+2022-10-11,florida,broward,,40.0,2022-10-28 00:00:00,False,backyard,4,2022,10,12,12011,s
+2022-10-11,florida,martin,,50.0,2022-11-03 00:00:00,False,backyard,4,2022,10,12,12085,s
+2022-10-11,kentucky,logan,,190.0,2022-11-02 00:00:00,False,backyard,4,2022,10,21,21141,m
+2022-10-11,michigan,lapeer,,40.0,2022-10-28 00:00:00,False,backyard,4,2022,10,26,26087,s
+2022-10-11,pennsylvania,adams,,2800.0,2022-10-31 00:00:00,False,backyard,4,2022,10,42,42001,l
+2022-10-11,south dakota,gregory,,200.0,2022-11-16 00:00:00,True,mixed,4,2022,10,46,46053,m
+2022-10-07,arkansas,madison,,56000.0,2022-11-04 00:00:00,True,ckn-pullets,4,2022,10,5,5087,l
+2022-10-07,colorado,boulder,,600.0,2022-10-28 00:00:00,False,backyard,4,2022,10,8,8013,m
+2022-10-07,kansas,johnson,,6.0,2022-11-08 00:00:00,False,backyard,4,2022,10,20,20091,s
+2022-10-07,kansas,neosho,,2000.0,2022-10-21 00:00:00,False,backyard,4,2022,10,20,20133,l
+2022-10-07,michigan,lapeer,,100.0,2022-10-28 00:00:00,False,backyard,4,2022,10,26,26087,m
+2022-10-07,minnesota,pope,,30.0,2022-10-21 00:00:00,False,backyard,4,2022,10,27,27121,s
+2022-10-07,utah,sanpete,,26700.0,2022-12-27 00:00:00,True,turkeys,4,2022,10,49,49039,l
+2022-10-07,utah,sanpete,,38900.0,2022-11-05 00:00:00,True,turkeys,4,2022,10,49,49039,l
+2022-10-06,kentucky,fayette,,150.0,2022-10-22 00:00:00,False,backyard,4,2022,10,21,21067,m
+2022-10-06,south dakota,brule,,500.0,2022-10-27 00:00:00,True,mixed,4,2022,10,46,46015,m
+2022-10-05,connecticut,new haven,,50.0,2022-10-28 00:00:00,False,backyard,4,2022,10,9,9009,s
+2022-10-05,montana,glacier,,1100.0,2022-11-06 00:00:00,False,backyard,4,2022,10,30,30035,l
+2022-10-05,pennsylvania,berks,,10.0,2022-10-26 00:00:00,False,backyard,4,2022,10,42,42011,s
+2022-10-05,pennsylvania,monroe,,40.0,2022-10-26 00:00:00,False,backyard,4,2022,10,42,42089,s
+2022-10-04,california,del norte,,43000.0,2022-10-25 00:00:00,False,backyard,4,2022,10,6,6015,l
+2022-10-04,california,monterey,,15100.0,2022-10-30 00:00:00,True,ducks,4,2022,10,6,6053,l
+2022-10-04,nebraska,box butte,,100.0,2022-10-20 00:00:00,False,backyard,4,2022,10,31,31013,m
+2022-10-04,nebraska,york,,139500.0,2022-11-16 00:00:00,True,mixed,4,2022,10,31,31185,vl
+2022-10-04,new mexico,bernalillo,,40.0,2022-11-09 00:00:00,False,backyard,4,2022,10,35,35001,s
+2022-10-04,pennsylvania,westmoreland,,160.0,2022-10-24 00:00:00,False,backyard,4,2022,10,42,42129,m
+2022-10-03,california,calaveras,,20.0,2022-10-12 00:00:00,False,backyard,4,2022,10,6,6009,s
+2022-10-03,california,stanislaus,,51000.0,2022-10-21 00:00:00,True,turkeys,4,2022,10,6,6099,l
+2022-10-03,michigan,tuscola,,140.0,2022-10-15 00:00:00,False,backyard,4,2022,10,26,26157,m
+2022-10-03,ohio,portage,,50.0,2022-10-18 00:00:00,False,backyard,4,2022,10,39,39133,s
+2022-10-03,utah,cache,,320.0,2022-11-03 00:00:00,False,backyard,4,2022,10,49,49005,m
+2022-09-30,north dakota,nelson,,50.0,2022-10-18 00:00:00,False,backyard,3,2022,9,38,38063,s
+2022-09-30,oregon,douglas,,30.0,2022-10-15 00:00:00,False,backyard,3,2022,9,41,41019,s
+2022-09-29,colorado,mesa,,40.0,2022-10-20 00:00:00,False,backyard,3,2022,9,8,8077,s
+2022-09-29,pennsylvania,lancaster,,180.0,2022-10-17 00:00:00,False,backyard,3,2022,9,42,42071,m
+2022-09-29,pennsylvania,york,,25900.0,2022-10-26 00:00:00,True,turkeys,3,2022,9,42,42133,l
+2022-09-29,utah,sanpete,,19300.0,2022-10-30 00:00:00,True,turkeys,3,2022,9,49,49039,l
+2022-09-29,utah,sanpete,,19900.0,2022-11-17 00:00:00,True,turkeys,3,2022,9,49,49039,l
+2022-09-29,wisconsin,dunn,,79500.0,2022-10-20 00:00:00,True,turkeys,3,2022,9,55,55033,l
+2022-09-28,oregon,tillamook,,10.0,2022-10-14 00:00:00,False,backyard,3,2022,9,41,41057,s
+2022-09-28,oregon,tillamook,,40.0,2022-10-14 00:00:00,False,backyard,3,2022,9,41,41057,s
+2022-09-28,utah,sanpete,,24400.0,2022-10-21 00:00:00,True,turkeys,3,2022,9,49,49039,l
+2022-09-28,wisconsin,racine,,10000.0,2022-11-10 00:00:00,True,ducks,3,2022,9,55,55101,l
+2022-09-27,minnesota,goodhue,,80.0,2022-10-12 00:00:00,False,backyard,3,2022,9,27,27049,s
+2022-09-27,north dakota,ransom,,69100.0,2022-10-27 00:00:00,True,turkeys,3,2022,9,38,38073,l
+2022-09-27,utah,sanpete,,127200.0,2022-11-11 00:00:00,True,turkeys,3,2022,9,49,49039,vl
+2022-09-27,utah,sanpete,,36700.0,2022-10-29 00:00:00,True,turkeys,3,2022,9,49,49039,l
+2022-09-24,delaware,kent,,10.0,2022-10-11 00:00:00,False,backyard,3,2022,9,10,10001,s
+2022-09-24,delaware,kent,,30.0,2022-10-11 00:00:00,False,backyard,3,2022,9,10,10001,s
+2022-09-24,south dakota,mcpherson,,56900.0,2022-10-12 00:00:00,True,turkeys,3,2022,9,46,46089,l
+2022-09-24,texas,dallas,,60.0,2022-10-20 00:00:00,False,backyard,3,2022,9,48,48113,s
+2022-09-23,new hampshire,merrimack,,250.0,2022-10-08 00:00:00,False,backyard,3,2022,9,33,33013,m
+2022-09-22,maryland,anne arundel,,4.0,2022-10-09 00:00:00,False,backyard,3,2022,9,24,24003,s
+2022-09-22,minnesota,todd,,50.0,2022-10-06 00:00:00,False,backyard,3,2022,9,27,27153,s
+2022-09-22,north dakota,ward,,60.0,2022-10-05 00:00:00,False,backyard,3,2022,9,38,38101,s
+2022-09-22,south dakota,kingsbury,,250.0,2022-10-12 00:00:00,False,backyard,3,2022,9,46,46077,m
+2022-09-21,colorado,weld,,1150000.0,2022-11-04 00:00:00,True,ckn-layers,3,2022,9,8,8123,vl
+2022-09-21,idaho,gooding,,9000.0,2022-10-14 00:00:00,True,mixed,3,2022,9,16,16047,l
+2022-09-21,minnesota,otter tail,,5900.0,2022-10-12 00:00:00,True,turkeys,3,2022,9,27,27111,l
+2022-09-21,minnesota,roseau,,116000.0,2022-10-29 00:00:00,True,turkeys,3,2022,9,27,27135,vl
+2022-09-21,utah,sanpete,,11100.0,2022-10-17 00:00:00,True,turkeys,3,2022,9,49,49039,l
+2022-09-20,california,fresno,,100.0,2022-10-08 00:00:00,False,backyard,3,2022,9,6,6019,m
+2022-09-20,minnesota,brown,,43000.0,2022-10-08 00:00:00,True,turkeys,3,2022,9,27,27015,l
+2022-09-20,minnesota,stearns,,64600.0,2022-10-13 00:00:00,True,turkeys,3,2022,9,27,27145,l
+2022-09-20,pennsylvania,washington,,1800.0,2022-10-07 00:00:00,False,backyard,3,2022,9,42,42125,l
+2022-09-20,south dakota,clark,,41700.0,2022-10-11 00:00:00,True,turkeys,3,2022,9,46,46025,l
+2022-09-20,south dakota,clark,,23900.0,2022-10-18 00:00:00,True,turkeys,3,2022,9,46,46025,l
+2022-09-20,utah,sanpete,,73200.0,2022-10-27 00:00:00,True,turkeys,3,2022,9,49,49039,l
+2022-09-19,michigan,macomb,,40.0,2022-10-02 00:00:00,False,backyard,3,2022,9,26,26099,s
+2022-09-19,nebraska,dawes,,40.0,2022-10-06 00:00:00,False,backyard,3,2022,9,31,31045,s
+2022-09-16,washington,pierce,,30.0,2022-10-19 00:00:00,False,backyard,3,2022,9,53,53053,s
+2022-09-15,california,fresno,,15900.0,2022-10-15 00:00:00,True,ckn-broilers,3,2022,9,6,6019,l
+2022-09-15,massachusetts,bristol,,50.0,2022-09-30 00:00:00,False,backyard,3,2022,9,25,25005,s
+2022-09-15,montana,teton,,2800.0,2022-10-14 00:00:00,False,backyard,3,2022,9,30,30099,l
+2022-09-15,ohio,summit,,6.0,2022-10-01 00:00:00,False,backyard,3,2022,9,39,39153,s
+2022-09-15,tennessee,obion,,130.0,2022-09-30 00:00:00,False,backyard,3,2022,9,47,47131,m
+2022-09-14,minnesota,isanti,,4.0,2022-09-29 00:00:00,False,backyard,3,2022,9,27,27059,s
+2022-09-14,minnesota,meeker,,61400.0,2022-10-06 00:00:00,True,turkeys,3,2022,9,27,27093,l
+2022-09-14,minnesota,otter tail,,7900.0,2022-10-08 00:00:00,True,turkeys,3,2022,9,27,27111,l
+2022-09-14,ohio,allen,,2.0,2022-09-28 00:00:00,False,backyard,3,2022,9,39,39003,s
+2022-09-14,ohio,williams,,60.0,2022-09-30 00:00:00,False,backyard,3,2022,9,39,39171,s
+2022-09-13,michigan,ingham,,20.0,2022-09-28 00:00:00,False,backyard,3,2022,9,26,26065,s
+2022-09-13,minnesota,brown,,43700.0,2022-09-30 00:00:00,True,turkeys,3,2022,9,27,27015,l
+2022-09-13,minnesota,freeborn,,320.0,2022-09-26 00:00:00,False,backyard,3,2022,9,27,27047,m
+2022-09-13,minnesota,stearns,,69400.0,2022-09-29 00:00:00,True,turkeys,3,2022,9,27,27145,l
+2022-09-13,utah,sanpete,,5800.0,2022-10-11 00:00:00,True,turkeys,3,2022,9,49,49039,l
+2022-09-12,idaho,twin falls,,40.0,2022-10-18 00:00:00,False,backyard,3,2022,9,16,16083,s
+2022-09-09,california,el dorado,,150.0,2022-10-01 00:00:00,False,backyard,3,2022,9,6,6017,m
+2022-09-09,california,fresno,,23900.0,2022-10-14 00:00:00,True,ckn-broilers,3,2022,9,6,6019,l
+2022-09-09,minnesota,becker,,17100.0,2022-09-30 00:00:00,True,turkeys,3,2022,9,27,27005,l
+2022-09-08,minnesota,meeker,,34200.0,2022-09-30 00:00:00,True,turkeys,3,2022,9,27,27093,l
+2022-09-07,minnesota,morrison,,50200.0,2022-09-28 00:00:00,True,turkeys,3,2022,9,27,27097,l
+2022-09-03,ohio,ashland,,640.0,2022-09-27 00:00:00,False,backyard,3,2022,9,39,39005,m
+2022-09-03,ohio,defiance,,3748500.0,2022-11-05 00:00:00,True,ckn-layers,3,2022,9,39,39039,vl
+2022-09-02,wisconsin,washington,,120.0,2022-09-19 00:00:00,False,backyard,3,2022,9,55,55131,m
+2022-09-01,california,fresno,,22900.0,2022-10-14 00:00:00,True,ckn-broilers,3,2022,9,6,6019,l
+2022-09-01,california,sacramento,,20.0,2022-09-22 00:00:00,False,backyard,3,2022,9,6,6067,s
+2022-09-01,california,tuolumne,,30800.0,2022-10-12 00:00:00,True,turkeys,3,2022,9,6,6109,l
+2022-09-01,indiana,elkhart,,260.0,2022-09-15 00:00:00,False,backyard,3,2022,9,18,18039,m
+2022-09-01,minnesota,hennepin,,10.0,2022-09-15 00:00:00,False,backyard,3,2022,9,27,27053,s
+2022-09-01,north dakota,cass,,6.0,2022-09-28 00:00:00,False,backyard,3,2022,9,38,38017,s
+2022-08-30,california,sacramento,,97000.0,2022-09-22 00:00:00,True,turkeys,3,2022,8,6,6067,l
+2022-08-30,california,tuolumne,,7400.0,2022-09-22 00:00:00,True,turkeys,3,2022,8,6,6109,l
+2022-08-30,california,tuolumne,,91000.0,2022-10-12 00:00:00,True,turkeys,3,2022,8,6,6109,l
+2022-08-30,minnesota,meeker,,126400.0,2022-09-24 00:00:00,True,turkeys,3,2022,8,27,27093,vl
+2022-08-30,minnesota,meeker,,52000.0,2022-09-24 00:00:00,True,turkeys,3,2022,8,27,27093,l
+2022-08-29,virginia,caroline,,110.0,2022-10-04 00:00:00,False,backyard,3,2022,8,51,51033,m
+2022-08-26,california,fresno,,34800.0,2022-09-24 00:00:00,True,ckn-broilers,3,2022,8,6,6019,l
+2022-08-26,california,tuolumne,,161700.0,2022-10-12 00:00:00,True,turkeys,3,2022,8,6,6109,vl
+2022-08-26,washington,cowlitz,,20.0,2022-09-14 00:00:00,False,backyard,3,2022,8,53,53015,s
+2022-08-25,washington,pierce,,70.0,2022-09-15 00:00:00,False,backyard,3,2022,8,53,53053,s
+2022-08-24,utah,weber,,20.0,2022-09-09 00:00:00,False,backyard,3,2022,8,49,49057,s
+2022-08-23,california,contra costa,,60.0,2022-09-08 00:00:00,False,backyard,3,2022,8,6,6013,s
+2022-08-22,california,fresno,,33900.0,2022-09-24 00:00:00,True,ckn-broilers,3,2022,8,6,6019,l
+2022-08-22,georgia,henry,,80.0,2022-09-10 00:00:00,False,backyard,3,2022,8,13,13151,s
+2022-08-19,washington,kitsap,,10.0,2022-09-09 00:00:00,False,backyard,3,2022,8,53,53035,s
+2022-08-18,washington,walla walla,,2.0,2022-09-07 00:00:00,False,backyard,3,2022,8,53,53071,s
+2022-08-16,california,butte,,1100.0,2022-09-08 00:00:00,False,backyard,3,2022,8,6,6007,l
+2022-08-16,florida,osceola,,10.0,2022-08-26 00:00:00,False,backyard,3,2022,8,12,12097,s
+2022-08-11,pennsylvania,northampton,,90.0,2022-09-02 00:00:00,False,backyard,3,2022,8,42,42095,s
+2022-08-10,california,sacramento,,40.0,2022-09-04 00:00:00,False,backyard,3,2022,8,6,6067,s
+2022-08-02,alaska,bethel,,20.0,2022-08-29 00:00:00,False,backyard,3,2022,8,2,2050,s
+2022-07-28,oregon,coos,,20.0,2022-09-21 00:00:00,False,backyard,3,2022,7,41,41011,s
+2022-07-26,montana,flathead,,7.0,2022-08-07 00:00:00,False,backyard,3,2022,7,30,30029,s
+2022-07-26,utah,sanpete,,12700.0,2022-08-24 00:00:00,True,turkeys,3,2022,7,49,49039,l
+2022-07-26,washington,jefferson,,80.0,2022-08-26 00:00:00,False,backyard,3,2022,7,53,53031,s
+2022-07-22,oregon,deschutes,,-1.0,-1,False,backyard,3,2022,7,41,41017,
+2022-07-22,oregon,deschutes,,90.0,2022-08-15 00:00:00,False,backyard,3,2022,7,41,41017,s
+2022-07-21,florida,seminole,,160.0,2022-08-08 00:00:00,False,backyard,3,2022,7,12,12117,m
+2022-07-21,oregon,deschutes,,60.0,2022-08-15 00:00:00,False,backyard,3,2022,7,41,41017,s
+2022-07-19,oregon,deschutes,,100.0,2022-08-15 00:00:00,False,backyard,3,2022,7,41,41017,m
+2022-07-19,utah,sanpete,,23300.0,2022-09-06 00:00:00,True,turkeys,3,2022,7,49,49039,l
+2022-07-19,washington,snohomish,,340.0,2022-08-11 00:00:00,False,backyard,3,2022,7,53,53061,m
+2022-07-15,oregon,deschutes,,60.0,2022-08-15 00:00:00,False,backyard,3,2022,7,41,41017,s
+2022-07-14,utah,sanpete,,15500.0,2022-08-24 00:00:00,True,turkeys,3,2022,7,49,49039,l
+2022-07-12,oregon,deschutes,,100.0,2022-08-15 00:00:00,False,backyard,3,2022,7,41,41017,m
+2022-07-07,nevada,carson city,,40.0,2022-07-29 00:00:00,False,backyard,3,2022,7,32,32510,s
+2022-07-06,oregon,linn,,40.0,2022-08-08 00:00:00,False,backyard,3,2022,7,41,41043,s
+2022-07-06,washington,jefferson,,20.0,2022-08-26 00:00:00,False,backyard,3,2022,7,53,53031,s
+2022-07-01,utah,salt lake,,20.0,2022-07-20 00:00:00,False,backyard,3,2022,7,49,49035,s
+2022-07-01,washington,king,,220.0,2022-08-01 00:00:00,False,backyard,3,2022,7,53,53033,m
+2022-07-01,washington,kitsap,,6.0,2022-08-04 00:00:00,False,backyard,3,2022,7,53,53035,s
+2022-06-29,maine,cumberland,,20.0,2022-07-14 00:00:00,False,backyard,2,2022,6,23,23005,s
+2022-06-29,washington,yakima,,6.0,2022-07-28 00:00:00,False,backyard,2,2022,6,53,53077,s
+2022-06-24,washington,pierce,,50.0,2022-08-10 00:00:00,False,backyard,2,2022,6,53,53053,s
+2022-06-22,washington,king,,9.0,2022-08-04 00:00:00,False,backyard,2,2022,6,53,53033,s
+2022-06-22,washington,king,,3.0,2022-08-04 00:00:00,False,backyard,2,2022,6,53,53033,s
+2022-06-22,washington,snohomish,,200.0,2022-08-01 00:00:00,False,backyard,2,2022,6,53,53061,m
+2022-06-22,washington,yakima,,90.0,2022-07-28 00:00:00,False,backyard,2,2022,6,53,53077,s
+2022-06-14,washington,yakima,,30.0,2022-07-01 00:00:00,False,backyard,2,2022,6,53,53077,s
+2022-06-13,utah,salt lake,,70.0,2022-07-06 00:00:00,False,backyard,2,2022,6,49,49035,s
+2022-06-09,colorado,weld,,205000.0,2022-07-18 00:00:00,True,ckn-layers,2,2022,6,8,8123,vl
+2022-06-09,indiana,allen,,40.0,2022-06-18 00:00:00,False,backyard,2,2022,6,18,18003,s
+2022-06-09,washington,snohomish,,30.0,2022-07-13 00:00:00,False,backyard,2,2022,6,53,53061,s
+2022-06-09,washington,snohomish,,9.0,2022-07-13 00:00:00,False,backyard,2,2022,6,53,53061,s
+2022-06-09,washington,yakima,,70.0,2022-07-01 00:00:00,False,backyard,2,2022,6,53,53077,s
+2022-06-08,oregon,polk,,90.0,2022-07-05 00:00:00,False,backyard,2,2022,6,41,41053,s
+2022-06-07,colorado,weld,,1936800.0,2022-07-18 00:00:00,True,ckn-layers,2,2022,6,8,8123,vl
+2022-06-07,indiana,allen,,110.0,2022-06-18 00:00:00,False,backyard,2,2022,6,18,18003,m
+2022-06-07,washington,king,,50.0,2022-07-13 00:00:00,False,backyard,2,2022,6,53,53033,s
+2022-06-06,north dakota,mchenry,,30.0,2022-06-17 00:00:00,False,backyard,2,2022,6,38,38049,s
+2022-06-02,pennsylvania,berks,,30100.0,2022-07-02 00:00:00,True,ducks,2,2022,6,42,42011,l
+2022-06-02,washington,snohomish,,30.0,2022-06-16 00:00:00,False,backyard,2,2022,6,53,53061,s
+2022-06-01,georgia,toombs,,490.0,2022-06-17 00:00:00,False,backyard,2,2022,6,13,13279,m
+2022-05-31,minnesota,becker,,40.0,2022-06-11 00:00:00,False,backyard,2,2022,5,27,27005,s
+2022-05-27,washington,snohomish,,40.0,2022-06-16 00:00:00,False,backyard,2,2022,5,53,53061,s
+2022-05-25,washington,king,,20.0,2022-06-14 00:00:00,False,backyard,2,2022,5,53,53033,s
+2022-05-24,idaho,ada,,30.0,2022-06-11 00:00:00,False,backyard,2,2022,5,16,16001,s
+2022-05-24,washington,king,,7.0,2022-06-18 00:00:00,False,backyard,2,2022,5,53,53033,s
+2022-05-24,washington,king,,180.0,2022-06-18 00:00:00,False,backyard,2,2022,5,53,53033,m
+2022-05-23,pennsylvania,berks,,4700.0,2022-07-06 00:00:00,True,ducks,2,2022,5,42,42011,l
+2022-05-23,wisconsin,bayfield,,40.0,2022-06-08 00:00:00,False,backyard,2,2022,5,55,55007,s
+2022-05-21,minnesota,dakota,,54400.0,2022-06-08 00:00:00,True,turkeys,2,2022,5,27,27037,l
+2022-05-20,idaho,ada,,7.0,2022-06-10 00:00:00,False,backyard,2,2022,5,16,16001,s
+2022-05-20,minnesota,polk,,50.0,2022-06-04 00:00:00,False,backyard,2,2022,5,27,27119,s
+2022-05-20,south dakota,codington,,80.0,2022-06-07 00:00:00,False,backyard,2,2022,5,46,46029,s
+2022-05-20,wyoming,campbell,,30.0,2022-06-23 00:00:00,False,backyard,2,2022,5,56,56005,s
+2022-05-19,colorado,jefferson,,10.0,2022-06-02 00:00:00,False,backyard,2,2022,5,8,8059,s
+2022-05-19,idaho,ada,,70.0,2022-06-09 00:00:00,False,backyard,2,2022,5,16,16001,s
+2022-05-19,idaho,ada,,30.0,2022-06-07 00:00:00,False,backyard,2,2022,5,16,16001,s
+2022-05-19,idaho,canyon,,10.0,2022-06-09 00:00:00,False,backyard,2,2022,5,16,16027,s
+2022-05-19,idaho,canyon,,10.0,2022-06-09 00:00:00,False,backyard,2,2022,5,16,16027,s
+2022-05-19,indiana,allen,,7.0,2022-06-04 00:00:00,False,backyard,2,2022,5,18,18003,s
+2022-05-18,idaho,ada,,6.0,2022-06-02 00:00:00,False,backyard,2,2022,5,16,16001,s
+2022-05-18,idaho,canyon,,160.0,2022-06-16 00:00:00,False,backyard,2,2022,5,16,16027,m
+2022-05-18,idaho,canyon,,6.0,2022-06-04 00:00:00,False,backyard,2,2022,5,16,16027,s
+2022-05-18,idaho,canyon,,10.0,2022-06-02 00:00:00,False,backyard,2,2022,5,16,16027,s
+2022-05-18,minnesota,clay,,20.0,2022-06-04 00:00:00,False,backyard,2,2022,5,27,27027,s
+2022-05-18,minnesota,kandiyohi,,4700.0,2022-06-11 00:00:00,True,turkeys,2,2022,5,27,27067,l
+2022-05-18,pennsylvania,berks,,7200.0,2022-06-25 00:00:00,True,ducks,2,2022,5,42,42011,l
+2022-05-17,idaho,ada,,20.0,2022-06-01 00:00:00,False,backyard,2,2022,5,16,16001,s
+2022-05-17,idaho,ada,,9.0,2022-06-04 00:00:00,False,backyard,2,2022,5,16,16001,s
+2022-05-17,idaho,canyon,,30.0,2022-06-09 00:00:00,False,backyard,2,2022,5,16,16027,s
+2022-05-17,idaho,canyon,,50.0,2022-06-03 00:00:00,False,backyard,2,2022,5,16,16027,s
+2022-05-17,idaho,canyon,,30.0,2022-06-03 00:00:00,False,backyard,2,2022,5,16,16027,s
+2022-05-17,illinois,boone,,20.0,2022-06-01 00:00:00,False,backyard,2,2022,5,17,17007,s
+2022-05-17,new jersey,monmouth,,60.0,2022-06-16 00:00:00,False,backyard,2,2022,5,34,34025,s
+2022-05-17,north dakota,burke,,50.0,2022-06-10 00:00:00,False,backyard,2,2022,5,38,38013,s
+2022-05-17,oregon,lane,,450.0,2022-06-06 00:00:00,False,backyard,2,2022,5,41,41039,m
+2022-05-17,pennsylvania,berks,,79000.0,2022-06-25 00:00:00,True,ckn-layers,2,2022,5,42,42011,l
+2022-05-17,utah,salt lake,,30.0,2022-06-16 00:00:00,False,backyard,2,2022,5,49,49035,s
+2022-05-17,washington,thurston,,410.0,2022-06-10 00:00:00,False,backyard,2,2022,5,53,53067,m
+2022-05-16,wisconsin,dunn,,150.0,2022-06-06 00:00:00,False,backyard,2,2022,5,55,55033,m
+2022-05-14,pennsylvania,berks,,83700.0,2022-07-01 00:00:00,True,ckn-layers,2,2022,5,42,42011,l
+2022-05-13,idaho,ada,,60.0,2022-06-01 00:00:00,False,backyard,2,2022,5,16,16001,s
+2022-05-13,idaho,canyon,,9.0,2022-05-31 00:00:00,False,backyard,2,2022,5,16,16027,s
+2022-05-13,wisconsin,barron,,10500.0,2022-06-06 00:00:00,True,turkeys,2,2022,5,55,55005,l
+2022-05-13,wisconsin,marinette,,90.0,2022-06-02 00:00:00,False,backyard,2,2022,5,55,55075,s
+2022-05-13,wyoming,lincoln,,40.0,2022-06-01 00:00:00,False,backyard,2,2022,5,56,56023,s
+2022-05-13,wyoming,sheridan,,20.0,2022-06-28 00:00:00,False,backyard,2,2022,5,56,56033,s
+2022-05-12,idaho,ada,,10.0,2022-05-28 00:00:00,False,backyard,2,2022,5,16,16001,s
+2022-05-12,minnesota,chisago,,40.0,2022-05-26 00:00:00,False,backyard,2,2022,5,27,27025,s
+2022-05-12,minnesota,grant,,310.0,2022-05-26 00:00:00,False,backyard,2,2022,5,27,27051,m
+2022-05-12,washington,okanogan,,20.0,2022-06-01 00:00:00,False,backyard,2,2022,5,53,53047,s
+2022-05-12,washington,whatcom,,80.0,2022-06-03 00:00:00,False,backyard,2,2022,5,53,53073,s
+2022-05-11,idaho,ada,,4.0,2022-05-26 00:00:00,False,backyard,2,2022,5,16,16001,s
+2022-05-11,minnesota,chisago,,160.0,2022-05-28 00:00:00,False,backyard,2,2022,5,27,27025,m
+2022-05-11,utah,cache,,20.0,2022-06-24 00:00:00,False,backyard,2,2022,5,49,49005,s
+2022-05-11,washington,clallam,,10.0,2022-06-04 00:00:00,False,backyard,2,2022,5,53,53009,s
+2022-05-11,washington,clallam,,10.0,2022-06-04 00:00:00,False,backyard,2,2022,5,53,53009,s
+2022-05-11,washington,pierce,,20.0,2022-06-10 00:00:00,False,backyard,2,2022,5,53,53053,s
+2022-05-10,idaho,ada,,70.0,2022-06-08 00:00:00,False,backyard,2,2022,5,16,16001,s
+2022-05-10,michigan,muskegon,,35100.0,2022-06-07 00:00:00,True,turkeys,2,2022,5,26,26121,l
+2022-05-10,minnesota,crow wing,,150.0,2022-05-25 00:00:00,False,backyard,2,2022,5,27,27035,m
+2022-05-10,minnesota,todd,,50.0,2022-05-26 00:00:00,False,backyard,2,2022,5,27,27153,s
+2022-05-10,pennsylvania,berks,,23800.0,2022-06-30 00:00:00,True,ducks,2,2022,5,42,42011,l
+2022-05-10,pennsylvania,berks,,37300.0,2022-06-17 00:00:00,True,ducks,2,2022,5,42,42011,l
+2022-05-10,pennsylvania,lancaster,,72300.0,2022-06-18 00:00:00,True,ckn-layers,2,2022,5,42,42071,l
+2022-05-10,washington,pierce,,20.0,2022-06-10 00:00:00,False,backyard,2,2022,5,53,53053,s
+2022-05-09,idaho,canyon,,50.0,2022-05-25 00:00:00,False,backyard,2,2022,5,16,16027,s
+2022-05-07,washington,spokane,,80.0,2022-05-26 00:00:00,False,backyard,2,2022,5,53,53063,s
+2022-05-07,wisconsin,barron,,20100.0,2022-06-06 00:00:00,True,turkeys,2,2022,5,55,55005,l
+2022-05-06,michigan,oakland,,50.0,2022-05-21 00:00:00,False,backyard,2,2022,5,26,26125,s
+2022-05-06,minnesota,anoka,,10.0,2022-05-20 00:00:00,False,backyard,2,2022,5,27,27003,s
+2022-05-06,montana,fergus,,20.0,2022-06-02 00:00:00,False,backyard,2,2022,5,30,30027,s
+2022-05-05,oregon,linn,,90.0,2022-06-01 00:00:00,False,backyard,2,2022,5,41,41043,s
+2022-05-05,washington,pacific,,40.0,2022-06-04 00:00:00,False,backyard,2,2022,5,53,53049,s
+2022-05-05,wisconsin,pierce,,30.0,2022-05-23 00:00:00,False,backyard,2,2022,5,55,55093,s
+2022-05-04,iowa,bremer,,50.0,2022-05-19 00:00:00,False,backyard,2,2022,5,19,19017,s
+2022-05-04,minnesota,carver,,30.0,2022-05-20 00:00:00,False,backyard,2,2022,5,27,27019,s
+2022-05-04,south dakota,day,,80.0,2022-06-03 00:00:00,False,backyard,2,2022,5,46,46037,s
+2022-05-04,south dakota,hamlin,,20.0,2022-06-15 00:00:00,False,backyard,2,2022,5,46,46057,s
+2022-05-03,illinois,kane,,50.0,2022-06-01 00:00:00,False,backyard,2,2022,5,17,17089,s
+2022-05-03,minnesota,chisago,,30.0,2022-05-17 00:00:00,False,backyard,2,2022,5,27,27025,s
+2022-05-03,minnesota,lyon,,120300.0,2022-06-01 00:00:00,True,turkeys,2,2022,5,27,27083,vl
+2022-05-03,pennsylvania,berks,,29600.0,2022-05-31 00:00:00,True,ducks,2,2022,5,42,42011,l
+2022-05-03,pennsylvania,berks,,74300.0,2022-05-31 00:00:00,True,ducks,2,2022,5,42,42011,l
+2022-05-03,south dakota,beadle,,56200.0,2022-05-25 00:00:00,True,turkeys,2,2022,5,46,46005,l
+2022-05-03,wisconsin,barron,,19300.0,2022-05-27 00:00:00,True,turkeys,2,2022,5,55,55005,l
+2022-05-03,wisconsin,barron,,46700.0,2022-05-27 00:00:00,True,turkeys,2,2022,5,55,55005,l
+2022-05-03,wisconsin,fond du lac,,20.0,2022-05-20 00:00:00,False,backyard,2,2022,5,55,55039,s
+2022-05-03,wisconsin,polk,,120.0,2022-05-23 00:00:00,False,backyard,2,2022,5,55,55095,m
+2022-05-03,wisconsin,sauk,,40.0,2022-05-18 00:00:00,False,backyard,2,2022,5,55,55111,s
+2022-04-30,michigan,branch,,20.0,2022-05-15 00:00:00,False,backyard,2,2022,4,26,26023,s
+2022-04-30,minnesota,chisago,,60.0,2022-05-19 00:00:00,False,backyard,2,2022,4,27,27025,s
+2022-04-30,minnesota,chisago,,30.0,2022-05-17 00:00:00,False,backyard,2,2022,4,27,27025,s
+2022-04-30,minnesota,morrison,,50.0,2022-05-16 00:00:00,False,backyard,2,2022,4,27,27097,s
+2022-04-30,oklahoma,sequoyah,,13800.0,2022-05-19 00:00:00,True,ckn-broilers,2,2022,4,40,40135,l
+2022-04-29,colorado,weld,,1366200.0,2022-06-08 00:00:00,True,ckn-layers,2,2022,4,8,8123,vl
+2022-04-29,minnesota,stearns,,9600.0,2022-06-02 00:00:00,True,turkeys,2,2022,4,27,27145,l
+2022-04-29,montana,fergus,,110.0,2022-06-02 00:00:00,False,backyard,2,2022,4,30,30027,m
+2022-04-29,montana,gallatin,,20.0,2022-06-04 00:00:00,False,backyard,2,2022,4,30,30031,s
+2022-04-29,montana,pondera,,2000.0,2022-06-05 00:00:00,False,backyard,2,2022,4,30,30073,l
+2022-04-29,nebraska,washington,,50.0,2022-05-12 00:00:00,False,backyard,2,2022,4,31,31177,s
+2022-04-29,pennsylvania,lancaster,,19300.0,2022-05-20 00:00:00,True,ducks,2,2022,4,42,42071,l
+2022-04-29,wisconsin,barron,,150.0,2022-05-27 00:00:00,False,backyard,2,2022,4,55,55005,m
+2022-04-29,wisconsin,oconto,,220.0,2022-05-16 00:00:00,False,backyard,2,2022,4,55,55083,m
+2022-04-28,indiana,johnson,,40.0,2022-05-12 00:00:00,False,backyard,2,2022,4,18,18081,s
+2022-04-28,michigan,wexford,,70.0,2022-05-13 00:00:00,False,backyard,2,2022,4,26,26165,s
+2022-04-28,minnesota,carver,,20.0,2022-05-13 00:00:00,False,backyard,2,2022,4,27,27019,s
+2022-04-28,minnesota,swift,,20.0,2022-05-12 00:00:00,False,backyard,2,2022,4,27,27151,s
+2022-04-28,vermont,caledonia,,30.0,2022-05-12 00:00:00,False,backyard,2,2022,4,50,50005,s
+2022-04-28,wisconsin,barron,,110700.0,2022-05-27 00:00:00,True,turkeys,2,2022,4,55,55005,vl
+2022-04-27,kansas,republic,,110.0,2022-06-01 00:00:00,False,backyard,2,2022,4,20,20157,m
+2022-04-27,michigan,saginaw,,80.0,2022-05-12 00:00:00,False,backyard,2,2022,4,26,26145,s
+2022-04-27,nebraska,knox,,2118000.0,2022-06-17 00:00:00,True,ckn-layers,2,2022,4,31,31107,vl
+2022-04-27,pennsylvania,lancaster,,18100.0,2022-05-19 00:00:00,True,ckn-pullets,2,2022,4,42,42071,l
+2022-04-26,iowa,kossuth,,4.0,2022-05-08 00:00:00,False,backyard,2,2022,4,19,19109,s
+2022-04-26,montana,missoula,,70.0,2022-06-02 00:00:00,False,backyard,2,2022,4,30,30063,s
+2022-04-26,north dakota,richland,,20.0,2022-05-16 00:00:00,False,backyard,2,2022,4,38,38077,s
+2022-04-26,pennsylvania,lancaster,,307400.0,2022-07-14 00:00:00,True,ckn-layers,2,2022,4,42,42071,vl
+2022-04-25,michigan,menominee,,40.0,2022-05-10 00:00:00,False,backyard,2,2022,4,26,26109,s
+2022-04-25,minnesota,rice,,90.0,2022-05-11 00:00:00,False,backyard,2,2022,4,27,27131,s
+2022-04-25,minnesota,stearns,,14600.0,2022-05-25 00:00:00,True,turkeys,2,2022,4,27,27145,l
+2022-04-25,utah,cache,,1501200.0,2022-06-30 00:00:00,True,ckn-layers,2,2022,4,49,49005,vl
+2022-04-23,wisconsin,polk,,40.0,2022-05-13 00:00:00,False,backyard,2,2022,4,55,55095,s
+2022-04-22,minnesota,otter tail,,27300.0,2022-05-15 00:00:00,True,turkeys,2,2022,4,27,27111,l
+2022-04-22,minnesota,swift,,127400.0,2022-05-24 00:00:00,True,turkeys,2,2022,4,27,27151,vl
+2022-04-22,minnesota,yellow medicine,,49500.0,2022-05-19 00:00:00,True,turkeys,2,2022,4,27,27173,l
+2022-04-22,pennsylvania,lancaster,,50300.0,2022-05-12 00:00:00,True,ckn-broilers,2,2022,4,42,42071,l
+2022-04-21,iowa,bremer,,29200.0,2022-05-19 00:00:00,True,turkeys,2,2022,4,19,19017,l
+2022-04-21,minnesota,morrison,,40900.0,2022-05-17 00:00:00,True,turkeys,2,2022,4,27,27097,l
+2022-04-21,minnesota,todd,,19700.0,2022-05-22 00:00:00,True,turkeys,2,2022,4,27,27153,l
+2022-04-21,minnesota,todd,,37000.0,2022-06-02 00:00:00,True,turkeys,2,2022,4,27,27153,l
+2022-04-21,north dakota,renville,,70.0,2022-05-06 00:00:00,False,backyard,2,2022,4,38,38075,s
+2022-04-21,north dakota,richland,,27500.0,2022-05-16 00:00:00,True,turkeys,2,2022,4,38,38077,l
+2022-04-20,idaho,madison,,200.0,2022-05-06 00:00:00,False,backyard,2,2022,4,16,16065,m
+2022-04-20,indiana,elkhart,,-1.0,-1,True,ducks,2,2022,4,18,18039,
+2022-04-20,minnesota,stearns,,62800.0,2022-05-25 00:00:00,True,turkeys,2,2022,4,27,27145,l
+2022-04-20,minnesota,stearns,,72000.0,2022-05-19 00:00:00,True,turkeys,2,2022,4,27,27145,l
+2022-04-20,minnesota,todd,,30100.0,2022-05-22 00:00:00,True,turkeys,2,2022,4,27,27153,l
+2022-04-20,minnesota,todd,,30300.0,2022-05-22 00:00:00,True,turkeys,2,2022,4,27,27153,l
+2022-04-20,montana,glacier,,54200.0,2022-06-09 00:00:00,False,backyard,2,2022,4,30,30035,l
+2022-04-20,pennsylvania,lancaster,,1127700.0,2022-06-25 00:00:00,True,ckn-layers,2,2022,4,42,42071,vl
+2022-04-20,pennsylvania,lancaster,,879400.0,2022-07-01 00:00:00,True,ckn-layers,2,2022,4,42,42071,vl
+2022-04-19,colorado,la plata,,40.0,2022-05-03 00:00:00,False,backyard,2,2022,4,8,8067,s
+2022-04-19,colorado,montrose,,58000.0,2022-05-27 00:00:00,True,ckn-broilers,2,2022,4,8,8085,l
+2022-04-19,idaho,gooding,,80.0,2022-05-05 00:00:00,False,backyard,2,2022,4,16,16047,s
+2022-04-19,minnesota,kandiyohi,,38700.0,2022-05-23 00:00:00,True,turkeys,2,2022,4,27,27067,l
+2022-04-19,minnesota,kandiyohi,,35700.0,2022-05-22 00:00:00,True,turkeys,2,2022,4,27,27067,l
+2022-04-19,minnesota,meeker,,53000.0,2022-05-24 00:00:00,True,turkeys,2,2022,4,27,27093,l
+2022-04-19,minnesota,morrison,,58100.0,2022-05-24 00:00:00,True,turkeys,2,2022,4,27,27097,l
+2022-04-19,minnesota,morrison,,17600.0,2022-05-21 00:00:00,True,turkeys,2,2022,4,27,27097,l
+2022-04-19,minnesota,morrison,,47700.0,2022-05-27 00:00:00,True,turkeys,2,2022,4,27,27097,l
+2022-04-19,minnesota,otter tail,,29700.0,2022-05-24 00:00:00,True,turkeys,2,2022,4,27,27111,l
+2022-04-19,minnesota,swift,,31600.0,2022-05-20 00:00:00,True,turkeys,2,2022,4,27,27151,l
+2022-04-19,north dakota,stutsman,,20.0,2022-05-04 00:00:00,False,backyard,2,2022,4,38,38093,s
+2022-04-16,michigan,menominee,,30.0,2022-05-05 00:00:00,False,backyard,2,2022,4,26,26109,s
+2022-04-15,michigan,livingston,,20.0,2022-05-05 00:00:00,False,backyard,2,2022,4,26,26093,s
+2022-04-15,michigan,macomb,,40.0,2022-05-02 00:00:00,False,backyard,2,2022,4,26,26099,s
+2022-04-15,pennsylvania,lancaster,,1380500.0,2022-06-01 00:00:00,True,ckn-layers,2,2022,4,42,42071,vl
+2022-04-15,utah,utah,,7.0,2022-05-18 00:00:00,False,backyard,2,2022,4,49,49049,s
+2022-04-15,wisconsin,polk,,22000.0,2022-04-30 00:00:00,True,turkeys,2,2022,4,55,55095,l
+2022-04-14,idaho,caribou,,7.0,2022-04-30 00:00:00,False,backyard,2,2022,4,16,16029,s
+2022-04-14,idaho,gooding,,20.0,2022-04-30 00:00:00,False,backyard,2,2022,4,16,16047,s
+2022-04-14,indiana,elkhart,,6400.0,2022-05-05 00:00:00,True,ducks,2,2022,4,18,18039,l
+2022-04-14,minnesota,blue earth,,26400.0,2022-05-16 00:00:00,True,turkeys,2,2022,4,27,27013,l
+2022-04-14,minnesota,meeker,,73200.0,2022-05-24 00:00:00,True,turkeys,2,2022,4,27,27093,l
+2022-04-14,north dakota,lamoure,,10.0,2022-05-06 00:00:00,False,backyard,2,2022,4,38,38045,s
+2022-04-14,wisconsin,columbia,,70.0,2022-04-29 00:00:00,False,backyard,2,2022,4,55,55021,s
+2022-04-14,wisconsin,sheboygan,,20.0,2022-04-29 00:00:00,False,backyard,2,2022,4,55,55117,s
+2022-04-13,kansas,mcpherson,,6900.0,2022-05-04 00:00:00,True,turkeys,2,2022,4,20,20113,l
+2022-04-13,michigan,menominee,,350.0,2022-05-06 00:00:00,False,backyard,2,2022,4,26,26109,m
+2022-04-13,minnesota,benton,,7.0,2022-04-27 00:00:00,False,backyard,2,2022,4,27,27009,s
+2022-04-13,minnesota,blue earth,,22700.0,2022-05-16 00:00:00,True,turkeys,2,2022,4,27,27013,l
+2022-04-13,minnesota,otter tail,,35700.0,2022-06-04 00:00:00,True,turkeys,2,2022,4,27,27111,l
+2022-04-13,minnesota,waseca,,20300.0,2022-05-21 00:00:00,True,turkeys,2,2022,4,27,27161,l
+2022-04-13,north dakota,barnes,,90.0,2022-05-12 00:00:00,False,backyard,2,2022,4,38,38003,s
+2022-04-13,south dakota,deuel,,1400.0,2022-04-30 00:00:00,True,mixed,2,2022,4,46,46039,l
+2022-04-12,minnesota,benton,,130.0,2022-04-27 00:00:00,False,backyard,2,2022,4,27,27009,m
+2022-04-12,minnesota,kandiyohi,,37100.0,2022-05-21 00:00:00,True,turkeys,2,2022,4,27,27067,l
+2022-04-12,minnesota,morrison,,37600.0,2022-05-26 00:00:00,True,turkeys,2,2022,4,27,27097,l
+2022-04-12,minnesota,morrison,,42900.0,2022-05-13 00:00:00,True,ckn-broilers,2,2022,4,27,27097,l
+2022-04-12,minnesota,morrison,,216200.0,2022-06-16 00:00:00,True,ckn-layers,2,2022,4,27,27097,vl
+2022-04-12,minnesota,yellow medicine,,44800.0,2022-05-19 00:00:00,True,turkeys,2,2022,4,27,27173,l
+2022-04-12,montana,toole,,20.0,2022-05-06 00:00:00,False,backyard,2,2022,4,30,30101,s
+2022-04-12,nebraska,dixon,,1746900.0,2022-05-09 00:00:00,True,ckn-layers,2,2022,4,31,31051,vl
+2022-04-12,north carolina,wayne,,89700.0,2022-05-12 00:00:00,True,ckn-broilers,2,2022,4,37,37191,l
+2022-04-12,north dakota,sheridan,,30.0,2022-05-04 00:00:00,False,backyard,2,2022,4,38,38083,s
+2022-04-12,wisconsin,barron,,46500.0,2022-06-06 00:00:00,True,turkeys,2,2022,4,55,55005,l
+2022-04-11,michigan,menominee,,70.0,2022-04-27 00:00:00,False,backyard,2,2022,4,26,26109,s
+2022-04-09,minnesota,le sueur,,37800.0,2022-05-07 00:00:00,True,turkeys,2,2022,4,27,27079,l
+2022-04-09,minnesota,stearns,,26100.0,2022-05-19 00:00:00,True,turkeys,2,2022,4,27,27145,l
+2022-04-09,minnesota,swift,,130900.0,2022-05-24 00:00:00,True,turkeys,2,2022,4,27,27151,vl
+2022-04-09,south dakota,yankton,,76100.0,2022-04-27 00:00:00,True,turkeys,2,2022,4,46,46135,l
+2022-04-08,colorado,pitkin,,30.0,2022-04-22 00:00:00,False,backyard,2,2022,4,8,8097,s
+2022-04-08,indiana,elkhart,,4700.0,2022-05-05 00:00:00,True,ducks,2,2022,4,18,18039,l
+2022-04-08,minnesota,otter tail,,29900.0,2022-05-24 00:00:00,True,turkeys,2,2022,4,27,27111,l
+2022-04-08,minnesota,renville,,76400.0,2022-05-11 00:00:00,True,turkeys,2,2022,4,27,27129,l
+2022-04-08,north dakota,stutsman,,40.0,2022-05-12 00:00:00,False,backyard,2,2022,4,38,38093,s
+2022-04-08,south dakota,clark,,38700.0,2022-04-28 00:00:00,True,turkeys,2,2022,4,46,46025,l
+2022-04-08,south dakota,edmunds,,36400.0,2022-05-05 00:00:00,True,turkeys,2,2022,4,46,46045,l
+2022-04-07,minnesota,kandiyohi,,20800.0,2022-05-16 00:00:00,True,turkeys,2,2022,4,27,27067,l
+2022-04-07,montana,cascade,,22000.0,2022-05-19 00:00:00,False,backyard,2,2022,4,30,30013,l
+2022-04-07,montana,judith basin,,20.0,2022-05-06 00:00:00,False,backyard,2,2022,4,30,30045,s
+2022-04-07,north carolina,wayne,,18500.0,2022-05-05 00:00:00,True,turkeys,2,2022,4,37,37191,l
+2022-04-07,wisconsin,racine,,220.0,2022-04-22 00:00:00,False,backyard,2,2022,4,55,55101,m
+2022-04-06,minnesota,waseca,,17900.0,2022-05-21 00:00:00,True,turkeys,2,2022,4,27,27161,l
+2022-04-06,missouri,dade,,14000.0,2022-04-28 00:00:00,True,turkeys,2,2022,4,29,29057,l
+2022-04-06,new york,fulton,,4.0,2022-04-29 00:00:00,False,backyard,2,2022,4,36,36035,s
+2022-04-06,north carolina,wayne,,216000.0,2022-04-29 00:00:00,True,ckn-broilers,2,2022,4,37,37191,vl
+2022-04-06,north carolina,wayne,,65600.0,2022-05-06 00:00:00,True,ckn-broilers,2,2022,4,37,37191,l
+2022-04-06,south dakota,mcpherson,,45900.0,2022-05-09 00:00:00,True,turkeys,2,2022,4,46,46089,l
+2022-04-06,wyoming,park,,100.0,2022-04-25 00:00:00,False,backyard,2,2022,4,56,56029,m
+2022-04-05,iowa,hardin,,46000.0,2022-05-17 00:00:00,True,turkeys,2,2022,4,19,19083,l
+2022-04-05,maine,waldo,,50.0,2022-04-20 00:00:00,False,backyard,2,2022,4,23,23027,s
+2022-04-05,minnesota,big stone,,49500.0,2022-05-11 00:00:00,True,turkeys,2,2022,4,27,27011,l
+2022-04-05,minnesota,meeker,,128500.0,2022-05-23 00:00:00,True,turkeys,2,2022,4,27,27093,vl
+2022-04-05,minnesota,morrison,,26200.0,2022-05-23 00:00:00,True,turkeys,2,2022,4,27,27097,l
+2022-04-05,minnesota,morrison,,105300.0,2022-05-25 00:00:00,True,turkeys,2,2022,4,27,27097,vl
+2022-04-05,minnesota,stearns,,40800.0,2022-05-19 00:00:00,True,turkeys,2,2022,4,27,27145,l
+2022-04-05,minnesota,waseca,,25500.0,2022-05-20 00:00:00,True,turkeys,2,2022,4,27,27161,l
+2022-04-05,missouri,lawrence,,27600.0,2022-05-06 00:00:00,True,turkeys,2,2022,4,29,29109,l
+2022-04-05,nebraska,scotts bluff,,30.0,2022-04-21 00:00:00,False,backyard,2,2022,4,31,31157,s
+2022-04-05,new york,orleans,,-1.0,-1,False,backyard,2,2022,4,36,36073,
+2022-04-05,north carolina,wayne,,14200.0,2022-05-09 00:00:00,True,turkeys,2,2022,4,37,37191,l
+2022-04-05,north dakota,cass,,110.0,2022-05-04 00:00:00,False,backyard,2,2022,4,38,38017,m
+2022-04-05,south dakota,beadle,,55600.0,2022-04-23 00:00:00,True,turkeys,2,2022,4,46,46005,l
+2022-04-05,south dakota,clark,,24000.0,2022-05-05 00:00:00,True,turkeys,2,2022,4,46,46025,l
+2022-04-05,south dakota,faulk,,48000.0,2022-04-29 00:00:00,True,turkeys,2,2022,4,46,46049,l
+2022-04-05,south dakota,spink,,26300.0,2022-04-28 00:00:00,True,turkeys,2,2022,4,46,46115,l
+2022-04-05,wyoming,sheridan,,50.0,2022-04-25 00:00:00,False,backyard,2,2022,4,56,56033,s
+2022-04-04,iowa,hamilton,,8100.0,2022-04-20 00:00:00,True,turkeys,2,2022,4,19,19079,l
+2022-04-04,minnesota,becker,,44700.0,2022-06-03 00:00:00,True,turkeys,2,2022,4,27,27005,l
+2022-04-04,minnesota,kandiyohi,,38500.0,2022-05-23 00:00:00,True,turkeys,2,2022,4,27,27067,l
+2022-04-04,minnesota,kandiyohi,,48500.0,2022-05-19 00:00:00,True,turkeys,2,2022,4,27,27067,l
+2022-04-04,minnesota,kandiyohi,,20400.0,2022-05-17 00:00:00,True,turkeys,2,2022,4,27,27067,l
+2022-04-04,minnesota,morrison,,32400.0,2022-05-20 00:00:00,True,turkeys,2,2022,4,27,27097,l
+2022-04-04,north dakota,lamoure,,50900.0,2022-05-06 00:00:00,True,turkeys,2,2022,4,38,38045,l
+2022-04-04,south dakota,mcpherson,,61000.0,2022-04-26 00:00:00,True,turkeys,2,2022,4,46,46089,l
+2022-04-03,minnesota,dodge,,20000.0,2022-05-07 00:00:00,True,turkeys,2,2022,4,27,27039,l
+2022-04-03,minnesota,le sueur,,19600.0,2022-05-08 00:00:00,True,turkeys,2,2022,4,27,27079,l
+2022-04-03,texas,erath,,1700.0,2022-04-27 00:00:00,True,mixed,2,2022,4,48,48143,l
+2022-04-02,iowa,humboldt,,15300.0,2022-04-27 00:00:00,True,ckn-layers,2,2022,4,19,19091,l
+2022-04-02,iowa,sac,,37200.0,2022-04-27 00:00:00,True,turkeys,2,2022,4,19,19161,l
+2022-04-02,minnesota,stearns,,27600.0,2022-05-18 00:00:00,True,turkeys,2,2022,4,27,27145,l
+2022-04-02,north carolina,johnston,,9500.0,2022-04-29 00:00:00,True,turkeys,2,2022,4,37,37101,l
+2022-04-02,north carolina,johnston,,18900.0,2022-04-29 00:00:00,True,turkeys,2,2022,4,37,37101,l
+2022-04-02,north carolina,wayne,,16900.0,2022-05-06 00:00:00,True,turkeys,2,2022,4,37,37191,l
+2022-04-02,north dakota,lamoure,,27400.0,2022-05-06 00:00:00,True,turkeys,2,2022,4,38,38045,l
+2022-04-02,south dakota,lake,,59000.0,2022-04-28 00:00:00,True,turkeys,2,2022,4,46,46079,l
+2022-04-02,south dakota,spink,,41800.0,2022-04-28 00:00:00,True,turkeys,2,2022,4,46,46115,l
+2022-04-01,missouri,jasper,,35300.0,2022-04-29 00:00:00,True,turkeys,2,2022,4,29,29097,l
+2022-04-01,north dakota,dickey,,60700.0,2022-05-04 00:00:00,True,turkeys,2,2022,4,38,38021,l
+2022-04-01,south dakota,charles mix,,81500.0,2022-04-22 00:00:00,True,turkeys,2,2022,4,46,46023,l
+2022-04-01,south dakota,edmunds,,30600.0,2022-04-25 00:00:00,True,turkeys,2,2022,4,46,46045,l
+2022-04-01,wisconsin,rock,,20.0,2022-04-20 00:00:00,False,backyard,2,2022,4,55,55105,s
+2022-04-01,wyoming,fremont,,50.0,2022-04-22 00:00:00,False,backyard,2,2022,4,56,56013,s
+2022-03-31,illinois,carroll,,40.0,2022-05-02 00:00:00,False,backyard,1,2022,3,17,17015,s
+2022-03-31,iowa,cherokee,,88000.0,2022-05-08 00:00:00,True,turkeys,1,2022,3,19,19035,l
+2022-03-31,iowa,osceola,,5011700.0,2022-06-09 00:00:00,True,ckn-layers,1,2022,3,19,19143,vl
+2022-03-31,minnesota,morrison,,52600.0,2022-05-13 00:00:00,True,turkeys,1,2022,3,27,27097,l
+2022-03-31,minnesota,stearns,,150.0,2022-05-07 00:00:00,False,backyard,1,2022,3,27,27145,m
+2022-03-31,north dakota,dickey,,30.0,2022-05-04 00:00:00,False,backyard,1,2022,3,38,38021,s
+2022-03-31,south dakota,mcpherson,,26000.0,2022-04-25 00:00:00,True,turkeys,1,2022,3,46,46089,l
+2022-03-30,iowa,buena vista,,35600.0,2022-05-01 00:00:00,True,turkeys,1,2022,3,19,19021,l
+2022-03-30,maine,lincoln,,3.0,2022-04-13 00:00:00,False,backyard,1,2022,3,23,23015,s
+2022-03-30,south dakota,brule,,55100.0,2022-04-21 00:00:00,True,turkeys,1,2022,3,46,46015,l
+2022-03-30,wyoming,park,,40.0,2022-04-18 00:00:00,False,backyard,1,2022,3,56,56029,s
+2022-03-29,maine,knox,,40.0,2022-04-12 00:00:00,False,backyard,1,2022,3,23,23013,s
+2022-03-29,massachusetts,berkshire,,260.0,2022-04-14 00:00:00,False,backyard,1,2022,3,25,25003,m
+2022-03-29,minnesota,kandiyohi,,39500.0,2022-05-22 00:00:00,True,turkeys,1,2022,3,27,27067,l
+2022-03-29,minnesota,lac qui parle,,22500.0,2022-05-15 00:00:00,True,turkeys,1,2022,3,27,27073,l
+2022-03-29,new york,monroe,,400.0,2022-05-05 00:00:00,False,backyard,1,2022,3,36,36055,m
+2022-03-29,north carolina,johnston,,32100.0,2022-04-29 00:00:00,True,turkeys,1,2022,3,37,37101,l
+2022-03-29,north dakota,kidder,,30.0,2022-05-04 00:00:00,False,backyard,1,2022,3,38,38043,s
+2022-03-29,ohio,franklin,,8.0,2022-04-22 00:00:00,False,backyard,1,2022,3,39,39049,s
+2022-03-29,south dakota,bon homme,,48200.0,2022-04-19 00:00:00,True,turkeys,1,2022,3,46,46009,l
+2022-03-29,south dakota,edmunds,,21900.0,2022-05-05 00:00:00,True,turkeys,1,2022,3,46,46045,l
+2022-03-29,south dakota,spink,,45900.0,2022-04-21 00:00:00,True,turkeys,1,2022,3,46,46115,l
+2022-03-29,wyoming,johnson,,40.0,2022-04-20 00:00:00,False,backyard,1,2022,3,56,56019,s
+2022-03-28,iowa,guthrie,,1460000.0,2022-06-10 00:00:00,True,ckn-layers,1,2022,3,19,19077,vl
+2022-03-28,iowa,hamilton,,25800.0,2022-04-24 00:00:00,True,turkeys,1,2022,3,19,19079,l
+2022-03-27,south dakota,clark,,43100.0,2022-04-21 00:00:00,True,turkeys,1,2022,3,46,46025,l
+2022-03-27,south dakota,hutchinson,,39200.0,2022-04-19 00:00:00,True,turkeys,1,2022,3,46,46067,l
+2022-03-27,south dakota,mcpherson,,43900.0,2022-04-23 00:00:00,True,turkeys,1,2022,3,46,46089,l
+2022-03-26,maine,washington,,20.0,2022-04-11 00:00:00,False,backyard,1,2022,3,23,23029,s
+2022-03-26,minnesota,meeker,,287500.0,2022-05-18 00:00:00,True,turkeys,1,2022,3,27,27093,vl
+2022-03-26,minnesota,mower,,20.0,2022-05-08 00:00:00,False,backyard,1,2022,3,27,27099,s
+2022-03-26,minnesota,stearns,,23500.0,2022-05-09 00:00:00,True,turkeys,1,2022,3,27,27145,l
+2022-03-26,missouri,gentry,,140.0,2022-04-11 00:00:00,False,backyard,1,2022,3,29,29075,m
+2022-03-26,nebraska,holt,,50.0,2022-04-13 00:00:00,False,backyard,1,2022,3,31,31089,s
+2022-03-26,south dakota,bon homme,,230.0,2022-04-29 00:00:00,False,backyard,1,2022,3,46,46009,m
+2022-03-25,iowa,franklin,,250200.0,2022-04-19 00:00:00,True,ckn-layers,1,2022,3,19,19069,vl
+2022-03-25,kansas,mitchell,,20.0,2022-04-11 00:00:00,False,backyard,1,2022,3,20,20123,s
+2022-03-25,new york,suffolk,,290.0,2022-04-28 00:00:00,False,backyard,1,2022,3,36,36103,m
+2022-03-25,south dakota,hutchinson,,45800.0,2022-04-19 00:00:00,True,turkeys,1,2022,3,46,46067,l
+2022-03-24,iowa,buena vista,,53800.0,2022-05-12 00:00:00,True,turkeys,1,2022,3,19,19021,l
+2022-03-24,michigan,macomb,,70.0,2022-04-21 00:00:00,False,backyard,1,2022,3,26,26099,s
+2022-03-24,nebraska,butler,,418500.0,2022-04-13 00:00:00,True,ckn-broilers,1,2022,3,31,31023,vl
+2022-03-24,south dakota,jerauld,,44000.0,2022-04-15 00:00:00,True,turkeys,1,2022,3,46,46073,l
+2022-03-23,new york,suffolk,,8500.0,2022-04-28 00:00:00,True,mixed,1,2022,3,36,36103,l
+2022-03-23,south dakota,beadle,,49900.0,2022-04-20 00:00:00,True,turkeys,1,2022,3,46,46005,l
+2022-03-23,south dakota,edmunds,,30800.0,2022-05-05 00:00:00,True,turkeys,1,2022,3,46,46045,l
+2022-03-23,south dakota,kingsbury,,120300.0,2022-04-20 00:00:00,True,ckn-layers,1,2022,3,46,46077,vl
+2022-03-22,maine,cumberland,,250.0,2022-04-07 00:00:00,False,backyard,1,2022,3,23,23005,m
+2022-03-22,nebraska,butler,,570000.0,2022-04-11 00:00:00,True,ckn-broilers,1,2022,3,31,31023,vl
+2022-03-22,south dakota,beadle,,29400.0,2022-04-20 00:00:00,True,turkeys,1,2022,3,46,46005,l
+2022-03-22,south dakota,charles mix,,53800.0,2022-04-14 00:00:00,True,turkeys,1,2022,3,46,46023,l
+2022-03-22,south dakota,hanson,,94600.0,2022-04-14 00:00:00,True,turkeys,1,2022,3,46,46061,l
+2022-03-20,iowa,warren,,10.0,2022-04-05 00:00:00,False,backyard,1,2022,3,19,19181,s
+2022-03-20,south dakota,hutchinson,,50400.0,2022-04-19 00:00:00,True,turkeys,1,2022,3,46,46067,l
+2022-03-19,maine,knox,,20.0,2022-04-04 00:00:00,False,backyard,1,2022,3,23,23013,s
+2022-03-19,maine,york,,70.0,2022-04-02 00:00:00,False,backyard,1,2022,3,23,23031,s
+2022-03-18,kansas,dickinson,,250.0,2022-04-04 00:00:00,False,backyard,1,2022,3,20,20041,m
+2022-03-18,maryland,cecil,,315400.0,2022-04-29 00:00:00,True,ckn-layers,1,2022,3,24,24015,vl
+2022-03-18,south dakota,hanson,,20200.0,2022-04-19 00:00:00,True,turkeys,1,2022,3,46,46061,l
+2022-03-18,south dakota,kingsbury,,39200.0,2022-04-20 00:00:00,True,turkeys,1,2022,3,46,46077,l
+2022-03-17,delaware,kent,,147800.0,2022-04-13 00:00:00,True,ckn-broilers,1,2022,3,10,10001,vl
+2022-03-17,iowa,buena vista,,5347500.0,2022-05-17 00:00:00,True,ckn-layers,1,2022,3,19,19021,vl
+2022-03-17,kansas,sedgwick,,6.0,2022-04-04 00:00:00,False,backyard,1,2022,3,20,20173,s
+2022-03-17,maine,lincoln,,30.0,2022-04-02 00:00:00,False,backyard,1,2022,3,23,23015,s
+2022-03-16,new hampshire,rockingham,,150.0,2022-04-06 00:00:00,False,backyard,1,2022,3,33,33015,m
+2022-03-15,missouri,ralls,,100.0,2022-03-31 00:00:00,False,backyard,1,2022,3,29,29173,m
+2022-03-15,nebraska,merrick,,90.0,2022-04-01 00:00:00,False,backyard,1,2022,3,31,31121,s
+2022-03-14,maine,york,,180.0,2022-04-02 00:00:00,False,backyard,1,2022,3,23,23031,m
+2022-03-14,wisconsin,jefferson,,2750700.0,2022-05-13 00:00:00,True,ckn-layers,1,2022,3,55,55055,vl
+2022-03-12,maine,lincoln,,100.0,2022-04-02 00:00:00,False,backyard,1,2022,3,23,23015,m
+2022-03-12,south dakota,charles mix,,37500.0,2022-04-13 00:00:00,True,turkeys,1,2022,3,46,46023,l
+2022-03-11,illinois,mclean,,40.0,2022-03-28 00:00:00,False,backyard,1,2022,3,17,17113,s
+2022-03-11,kansas,franklin,,260.0,2022-03-27 00:00:00,False,backyard,1,2022,3,20,20059,m
+2022-03-10,iowa,taylor,,915900.0,2022-05-13 00:00:00,True,ckn-layers,1,2022,3,19,19173,vl
+2022-03-10,maryland,cecil,,663400.0,2022-04-29 00:00:00,True,ckn-layers,1,2022,3,24,24015,vl
+2022-03-09,missouri,lawrence,,37800.0,2022-04-05 00:00:00,True,turkeys,1,2022,3,29,29109,l
+2022-03-08,delaware,new castle,,243900.0,2022-04-29 00:00:00,True,ckn-layers,1,2022,3,10,10003,vl
+2022-03-08,maryland,queen anne's,,139300.0,2022-04-01 00:00:00,True,ckn-broilers,1,2022,3,24,24035,vl
+2022-03-08,missouri,jasper,,25000.0,2022-04-12 00:00:00,True,turkeys,1,2022,3,29,29097,l
+2022-03-06,iowa,buena vista,,49800.0,2022-04-01 00:00:00,True,turkeys,1,2022,3,19,19021,l
+2022-03-05,south dakota,charles mix,,44100.0,2022-04-13 00:00:00,True,turkeys,1,2022,3,46,46023,l
+2022-03-04,maryland,cecil,,644000.0,2022-04-29 00:00:00,True,ckn-layers,1,2022,3,24,24015,vl
+2022-03-04,missouri,bates,,50.0,2022-03-23 00:00:00,False,backyard,1,2022,3,29,29013,s
+2022-03-04,missouri,stoddard,,294800.0,2022-04-01 00:00:00,True,ckn-broilers,1,2022,3,29,29207,vl
+2022-03-02,indiana,dubois,,16500.0,2022-03-23 00:00:00,True,turkeys,1,2022,3,18,18037,l
+2022-03-01,connecticut,new london,,160.0,2022-03-18 00:00:00,False,backyard,1,2022,3,9,9011,m
+2022-03-01,iowa,pottawattamie,,40.0,2022-03-17 00:00:00,False,backyard,1,2022,3,19,19155,s
+2022-02-24,indiana,dubois,,36000.0,2022-03-23 00:00:00,True,turkeys,1,2022,2,18,18037,l
+2022-02-24,new york,dutchess,,200.0,2022-04-05 00:00:00,False,backyard,1,2022,2,36,36027,m
+2022-02-24,new york,ulster,,70.0,2022-04-01 00:00:00,False,backyard,1,2022,2,36,36111,s
+2022-02-23,indiana,greene,,48200.0,2022-03-15 00:00:00,True,turkeys,1,2022,2,18,18055,l
+2022-02-23,indiana,greene,,15400.0,2022-03-15 00:00:00,True,turkeys,1,2022,2,18,18055,l
+2022-02-23,maine,knox,,100.0,2022-03-11 00:00:00,False,backyard,1,2022,2,23,23013,m
+2022-02-23,michigan,kalamazoo,,30.0,2022-03-28 00:00:00,False,backyard,1,2022,2,26,26077,s
+2022-02-22,delaware,new castle,,1046900.0,2022-04-29 00:00:00,True,ckn-layers,1,2022,2,10,10003,vl
+2022-02-19,maine,knox,,30.0,2022-03-11 00:00:00,False,backyard,1,2022,2,23,23013,s
+2022-02-18,new york,suffolk,,8.0,2022-04-06 00:00:00,False,backyard,1,2022,2,36,36103,s
+2022-02-16,indiana,dubois,,26600.0,2022-03-23 00:00:00,True,turkeys,1,2022,2,18,18037,l
+2022-02-15,kentucky,webster,,53300.0,2022-03-12 00:00:00,True,turkeys,1,2022,2,21,21233,l
+2022-02-12,kentucky,fulton,,231400.0,2022-03-15 00:00:00,True,ckn-broilers,1,2022,2,21,21075,vl
+2022-02-12,virginia,fauquier,,90.0,2022-02-27 00:00:00,False,backyard,1,2022,2,51,51061,s
+2022-02-08,indiana,dubois,,29000.0,2022-03-23 00:00:00,True,turkeys,1,2022,2,18,18037,l

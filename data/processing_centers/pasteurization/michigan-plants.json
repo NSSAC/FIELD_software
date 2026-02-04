@@ -1,0 +1,58 @@
+{
+    "MICHIGAN": [
+        {
+            "plant_no": "837",
+            "name": "CONTINENTAL DAIRY FACILITIES, LLC",
+            "city": "COOPERSVILLE",
+            "codes": ["B1", "B2", "D1", "D6", "D8", "M1", "M2", "M7", "M8", "M13", "M20", "M22", "M23"]
+        },
+        {
+            "plant_no": "232",
+            "name": "DAIRY FARMERS OF AMERICA, INC.",
+            "city": "CASS CITY",
+            "codes": ["M1", "M2", "M7", "M20", "M22"]
+        },
+        {
+            "plant_no": "207",
+            "name": "FAIRLIFE",
+            "city": "COOPERSVILLE",
+            "codes": ["M2", "M7", "M8"]
+        },
+        {
+            "plant_no": "11",
+            "name": "GREENVILLE VENTURE PARTNERS LLC",
+            "city": "GREENVILLE",
+            "codes": ["M1", "M2", "M20", "M22"]
+        },
+        {
+            "plant_no": "930",
+            "name": "LEPRINO FOODS COMPANY",
+            "city": "ALLENDALE",
+            "codes": ["M1", "M2"]
+        },
+        {
+            "plant_no": "433",
+            "name": "LEPRINO FOODS COMPANY",
+            "city": "REMUS",
+            "codes": ["M1", "M2", "M7", "M8"]
+        },
+        {
+            "plant_no": "608",
+            "name": "MICHIGAN MILK PRODUCERS",
+            "city": "CONSTANTINE",
+            "codes": ["M1", "M2", "M7", "M8", "M9", "M24", "S4"]
+        },
+        {
+            "plant_no": "123",
+            "name": "MICHIGAN MILK PRODUCERS",
+            "city": "OVID",
+            "codes": ["B1", "D1", "D6", "M1", "M2", "M7", "M8", "M9", "M13", "M14"]
+        },
+        {
+            "plant_no": "010",
+            "name": "MWC",
+            "city": "ST. JOHNS",
+            "codes": ["C3", "C6", "C7", "C17", "C31", "C60", "M1", "M3", "W1", "W15", "W16", "W17", "W21", "W23", "W25"]
+        }
+    ]
+}

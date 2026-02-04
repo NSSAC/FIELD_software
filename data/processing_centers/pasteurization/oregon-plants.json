@@ -1,0 +1,28 @@
+{
+    "OREGON": [
+        {
+            "plant_no": "41",
+            "name": "ALPENROSE DAIRY",
+            "city": "CLACKAMUS",
+            "codes": ["B1", "B2", "B6", "B8", "M2", "M13"]
+        },
+        {
+            "plant_no": "099",
+            "name": "COLUMBIA RIVER PROCESSING, INC",
+            "city": "BOARDMAN",
+            "codes": ["C3", "C7", "M1", "M2", "M3", "M7"]
+        },
+        {
+            "plant_no": "405",
+            "name": "ORGANIC VALLEY-MCMINNVILLE",
+            "city": "MCMINNVILLE",
+            "codes": ["D1", "M1", "M2", "M7", "M8"]
+        },
+        {
+            "plant_no": "80",
+            "name": "TILLAMOOK COUNTY CREAMERY",
+            "city": "TILLAMOOK",
+            "codes": ["C3", "C7", "C60", "F2", "M1", "M2", "M3", "M7", "W1", "W2", "W3"]
+        }
+    ]
+}
