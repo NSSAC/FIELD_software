@@ -1,0 +1,57 @@
+#!/bin/bash
+function lschecks(){   # Basic checks
+    python ../scripts/checks_farms_to_cells.py
+}
+
+function lsstats(){   # plots of performance of the farms-to-cells algorithm 
+    python ../scripts/livestock_farms_to_cells.py
+}
+
+function lscafo_match(){ # generate matching of farm assignments with CAFO
+    python ../scripts/livestock_cafo_match.py
+}
+
+function lscafo_plot(){ # analyze cafo matchings
+    python ../scripts/livestock_cafo_analyze.py
+}
+
+function btopk(){ $ top-k birds
+    python ../scripts/birds_topk.py
+}
+
+function pop(){ # all population stuff
+    python ../scripts/pop.py seasonality
+}
+
+function dist(){   # plots of distribution
+    #python ../scripts/state_dist.py -s virginia --hspace -.2 
+    #python ../scripts/state_dist.py -s washington --hspace -.2 
+    #python ../scripts/state_dist.py -s texas
+    #python ../scripts/state_dist.py -s iowa
+    #python ../scripts/state_dist.py -s ohio
+    #python ../scripts/state_dist.py -s california
+    python ../scripts/state_dist.py --full -s texas --hspace 0.15 
+    # python ../scripts/state_dist.py --full -s iowa --hspace 0.1 
+    # python ../scripts/state_dist.py --full -s ohio --hspace 0.2 
+    # python ../scripts/state_dist.py --full -s california --hspace 0.2 
+}
+
+function upres(){ # update results
+    mv livestock_farm_sizes.pdf ../results/
+    mv livestock_gen_farms.pdf ../results/
+    mv livestock_farms_to_cells.pdf ../results/
+    mv livestock_heads_comparison.pdf ../results/
+    mv livestock_cafo*.pdf ../results/
+    mv birds_topk.pdf ../results/
+    mv table_heads_farms.tex ../results/
+    mv pop_seasonality.pdf ../results/
+    mv pop_bls_diff.pdf ../results/
+    mv pop_workers_farms.pdf ../results/
+}
+
+if [[ $# == 0 ]]; then
+   echo "Here are the options:"
+   grep "^function" $BASH_SOURCE | sed -e 's/function/  /' -e 's/[(){]//g' -e '/IGNORE/d'
+else
+   eval $1 $2
+fi
