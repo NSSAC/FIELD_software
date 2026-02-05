@@ -5,18 +5,10 @@ function gaps(){ # fill gaps in county totals
     #python ../scripts/gaps_totals.py
 }
 
-## function gaps_by_farmsize(){ # fill gaps in farmsize
-##     # Run the following using micromamba environment: micromamba activate gpd
-##     python ../scripts/gaps_county_by_farmsize.py
-## }
-
 function egf2c(){ # example farm to cell assignment
     python ../scripts/farms_to_cells.py -s 18 -c 1 -t ckn-layers
-    exit
     python ../scripts/farms_to_cells.py -s 1 -c 123 -t cattle
-    exit
     python ../scripts/farms_to_cells.py -s 12 -c 37 -t cattle
-    exit
     #python ../scripts/farms_to_cells.py -s 2 -c 10 -t hogs
     #python ../scripts/farms_to_cells.py -s 51 -c 3 -t ckn-layers
     #python ../scripts/farms_to_cells.py -s 51 -c 3 -t cattle
