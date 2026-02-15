@@ -5,7 +5,7 @@ By AA
 '''
 
 import argparse
-from kbviz import plot
+import plot
 import pandas as pd
 from pdb import set_trace
 import utils

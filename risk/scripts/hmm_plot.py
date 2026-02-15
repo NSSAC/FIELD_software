@@ -4,7 +4,7 @@ Plot HMM models
 AA
 '''
 
-import kbviz.graph_to_tikz as gtt
+import graph_to_tikz as gtt
 import numpy as np
 import pandas as pd
 import pickle
